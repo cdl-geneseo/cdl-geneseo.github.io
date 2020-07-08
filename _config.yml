@@ -2,8 +2,8 @@
 title:               Center for Digital Learning
 tagline:             'at SUNY Geneseo'
 description:         'Find us on the <a href="https://www.geneseo.edu/cdl" target="_blank">SUNY Geneseo website.</a>'
-url:                 https://www.geneseo.edu/cdl
-baseurl:             http://cdl-geneseo.github.io/
+url:                 https://cdl-geneseo.github.io
+baseurl:             ''
 paginate:            5
 permalink:           pretty
 
