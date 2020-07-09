@@ -1,7 +1,7 @@
 # Setup
 title:               Center for Digital Learning
 tagline:             'at SUNY Geneseo'
-description:         'Find us on the <a href="https://www.geneseo.edu/cdl" target="_blank">SUNY Geneseo website.</a>'
+description:         'Blog of the <a href="https://www.geneseo.edu/cdl" target="_blank">SUNY Geneseo Center for Digital Learning</a>'
 url:                 https://cdl-geneseo.github.io
 baseurl:             ''
 paginate:            5
