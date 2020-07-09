@@ -360,6 +360,13 @@ a.sidebar-nav-item:focus {
   color: inherit;
 }
 
+/* Image stuff*/
+
+img.bio {
+  float:left;
+  margin-right:1.5em;
+}
+
 
 /*
  * Pagination
