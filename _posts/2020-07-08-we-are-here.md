@@ -1,7 +1,7 @@
 ---
 layout: post
 title: We're here!
-author: paul
+author: Paul Schacht
 ---
 
 Here we are!
