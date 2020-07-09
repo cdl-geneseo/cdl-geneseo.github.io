@@ -326,6 +326,15 @@ a.sidebar-nav-item:focus {
   color: #9a9a9a;
 }
 
+/* Author line below post date */
+.post-author {
+  display: block;
+  margin-top: -.5rem;
+  margin-bottom: 1rem;
+  color: #365090;
+  font-style: italic;
+}
+
 /* Related posts */
 .related {
   padding-top: 2rem;
