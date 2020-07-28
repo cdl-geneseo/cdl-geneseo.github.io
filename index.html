@@ -12,10 +12,10 @@ title: Home
       </a>
     </h1>
   <span class="post-date">{{ post.date | date_to_string }}</span>
-  <span class="post-author"><a rel="author"
+  <span class="post-author">by<a rel="author"
     href="{{ site.baseurl}}{{ post.bio }}"
     title="{{ post.author }}">
-      by {{ post.author }}</a></span>
+      {{ post.author }}</a></span>
     {{ post.content }}
   </div>
   {% endfor %}
