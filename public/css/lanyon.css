@@ -567,7 +567,7 @@ a.pagination-item:hover {
 
 /* Caption style */
 
-.image-caption {
+img + em {
   text-align: center;
   font-size: .8rem;
   color: light-grey;
