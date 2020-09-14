@@ -5,9 +5,9 @@ author: Paul Schacht
 bio: /authors/schacht
 ---
 
-As a result of the coronavirus pandemic, many more faculty are teaching online. Not surprisingly, then, a question I’ve been asked repeatedly of late is, *What’s the best way for department chairs, deans, and personnel committees to evaluate the quality of online teaching and support their colleagues’ professional development in this area?*
+As a result of the coronavirus pandemic, many more Geneseo faculty are teaching online. Not surprisingly, then, a question I’ve been asked repeatedly of late is, *What’s the best way for department chairs, deans, and personnel committees to evaluate the quality of online teaching and support their colleagues’ professional development in this area?*
 
-Procedures and standards for peer review of faculty are, of course, properly a matter for shared governance. At some point it will fall to the college senate to approve guidelines for “observing” online instruction similar to [those it adopted in 2006 for on-ground instruction](https://wiki.geneseo.edu/download/attachments/109184288/Classroom%20Observation%20Procedures%20and%20Criteria.pdf?version=1&modificationDate=1479164407556&api=v2), possibly together with some online-specific modifications to the personnel evaluation forms for tenured/tenure-track and adjunct faculty. But because schools and departments need help with this question right now, I put down some thoughts and shared them with the CDL [faculty affiliates](https://www.geneseo.edu/cdl/faculty-affiliates), [student affiliates](https://www.geneseo.edu/cdl/student-affiliates), [associates](https://www.geneseo.edu/cdl/cdl-associates), and [leadership team](https://www.geneseo.edu/cdl/leadership), as well as the Academic Experience Planning Team convened last spring by Provost Robertson to develop recommendations for the transition to remote learning. I got a lot of terrific feedback, especially in the faculty affilites' meeting on September 9. 
+Procedures and standards for peer review of faculty are, of course, properly a matter for shared governance. At some point it will fall to Geneseo's college senate to approve guidelines for “observing” online instruction similar to [those it adopted in 2006 for on-ground instruction](https://wiki.geneseo.edu/download/attachments/109184288/Classroom%20Observation%20Procedures%20and%20Criteria.pdf?version=1&modificationDate=1479164407556&api=v2), possibly together with some online-specific modifications to the personnel evaluation forms for tenured/tenure-track and adjunct faculty. But because schools and departments need help with this question right now, I put down some thoughts and shared them with the CDL [faculty affiliates](https://www.geneseo.edu/cdl/faculty-affiliates), [student affiliates](https://www.geneseo.edu/cdl/student-affiliates), [associates](https://www.geneseo.edu/cdl/cdl-associates), and [leadership team](https://www.geneseo.edu/cdl/leadership), as well as the Academic Experience Planning Team convened last spring by Provost Robertson to develop recommendations for the transition to remote learning. I got a lot of terrific feedback, especially in the faculty affilites' meeting on September 9. 
 
 What follows isn't a group document but my best advice, informed by the range of perspectives I heard in that feedback. As you might expect, the perspectives didn't line up neatly, but with perhaps one exception there was no major point of disagreement.
 
@@ -59,7 +59,7 @@ Whatever approach is taken, the important thing is to *make sure the process and
 
 However it works, the process will require instructors to share their course design and content with one or more peers. It's best *not* to have them do this by simply granting peers access to the course in Canvas. Students who've contributed to the course's online discussion forums, posted videos, and otherwise shared their views and ideas with the instructor or classmates weren't expecting these outsiders to be part of their audience.
 
-CIT can instead clone the course so that peers can see its structure and instructional content but no student-generated content. To give reviewers a feel for how they engage students in active learning, instructors can include de-identified samples of student work as part of their self-reflection.
+CIT can instead clone the course so that peers can see its structure and instructional content but no student-generated content. To give reviewers a feel for how they engage students in active learning, instructors can, as suggested above, include de-identified samples of student work as part of their self-reflection.
 
 ## What about synchronous observation?
 
@@ -67,7 +67,7 @@ When evaluating physically present teaching, we traditionally attach great impor
 
 If an online course has a synchronous component or is mainly synchronous, however, it's possible for a colleague to “drop in” on a Zoom lecture or discussion in an attempt to get a feel for an instructor’s pedagogical style. Is this a good idea?
 
-This is the one point on which the colleagues I consulted in preparing this blog post had significant disagreement, with a small number arguing that by visiting a live synchronous meeting or watching a recorded one, a peer reviewer might gain meaningful insight into a colleague's effectiveness with minimal disruption to the class as a community.
+Here's the one point on which the colleagues I consulted in preparing this blog post had significant disagreement, with a small number arguing that by visiting a live synchronous meeting or watching a recorded one, a peer reviewer might gain meaningful insight into a colleague's effectiveness with minimal disruption to the class as a community.
 
 My own advice is: don't do it. I'm skeptical about the insight and very concerned about the impact on community — as a general matter, but particularly right now.
 
