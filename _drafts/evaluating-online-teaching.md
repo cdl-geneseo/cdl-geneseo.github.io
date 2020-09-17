@@ -47,6 +47,8 @@ The best undergraduate teaching, Chickering and Gamson argued,
 
 "Emphasizes time on task" is, in my opinion, an unfortunate way to encapsulate the point that good teaching communicates clear expectations for how students should apportion their time in realizing a course's learning outcomes. This clarity is especially important in asynchronous online courses, where students bear responsibility for effectively managing the 2,000-plus minutes that an in-person three-credit course, for example, fixes in class meetings.
 
+As it happens, these seven principles track well with the indicators of effective "Contributions to Teaching" listed in the "Appendix" to Geneseo's [Personnel Evaluation Form (PER) as updated in May 2019](https://wiki.geneseo.edu/x/IAWCBg).
+
 At [Penn State College of Earth and Mineral Sciences](https://facdev.e-education.psu.edu/evaluate-revise/peerreviewonline), Ann Taylor, a member of the Dutton E-Education Institute, developed a Creative Commons-licensed [Peer-Review Guide for Online Courses](https://facdev.e-education.psu.edu/sites/default/files/PeerReview_OnlineCourses_PSU_Guide_13June2017.pdf) based on Chickering and Gamson's seven principles. Taylor’s peer-review guide indicates where reviewers could look within an online course to see how the course measures up against these principles. 
 
 Geneseo deans, department chairs, and personnel committees might consider adapting Taylor’s guide to come up with a form and a process that reflects the particular ways in which their respective disciplines realize the seven principles; weaves in additional high-level Geneseo values such as equity, inclusion, and accessibility; and respects the constraints of time and experience under which we’re all operating right now.
@@ -85,6 +87,16 @@ Finally, it’s worth considering what role student opinion might play in evalua
 
 Whether and how student opinion should play a role in improving online teaching and learning at Geneseo is, of course, another matter to be determined through shared governance. 
 
+## Some final thoughts
+
+To repeat, what you’ve been reading here is advice, not policy. Hopefully it’s helpful advice at a moment when, without settled policy to guide us, it's nevertheless important for professional development and personnel review processes to continue.
+
+Throughout this post, I've spoken of those two processes in tandem because I've been focused on identifying the standards to which faculty should look both to become better online instructors and to demonstrate how they're meeting expectations set by their departments and the college. While the standards may be the same, however, the processes are of course quite different, as are the stakes, particularly for faculty whose continued employment at a time of heightened precarity may hang in the balance.
+
+In developing transparent and consistent standards adapted from best practices with an eye toward our unprecedentedly stressful and unsettled moment, then, departments and schools should also keep in mind that, from an ethical standpoint they should not, and from a contractual standpoint they may not, judge faculty's performance by criteria of which those faculty were not previously informed. To put this more simply: look in Canvas for appropriate evidence that faculty are doing, in that environment, and to the best of their ability, the things that have been traditionally associated with excellent teaching at Geneseo. 
+
+As you look, remember how challenging it's proving for many faculty to find their feet in a teaching environment in which they've landed suddenly, and not by choice. Pay particular attention to the things they're getting right.
+
 ## Further reading
 
-To repeat, what you’ve been reading here is advice, not policy. Hopefully it’s helpful advice at a moment when there’s not yet settled policy to guide us. If you'd like to explore some of the resources mentioned here or additional ones that CDL faculty, students, and staff have been gathering on this topic and others related to digital learning, I invite you to follow our public bibliograpy on [Zotero](https://www.zotero.org/groups/2538807/cdl-geneseo/library).
+If you'd like to explore some of the resources mentioned here or additional ones that CDL faculty, students, and staff have been gathering on this topic and others related to digital learning, I invite you to follow our public bibliograpy on [Zotero](https://www.zotero.org/groups/2538807/cdl-geneseo/library).
