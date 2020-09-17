@@ -33,7 +33,7 @@ Needless to say, that’s not the situation we’re in right now.
 
 Under present circumstances, a better approach to evaluating instructors' courses would be to rate them against just a few, high-level principles of effective practice. One starting point might be Geneseo’s [Course Readiness Checklist](https://wp.geneseo.edu/etc/wp-content/uploads/sites/13/2020/04/course-readiness-checklist-v3.pdf), the greatly streamlined version of OSCQR developed by CDL Assistant Director for Online Learning Laurie Fox and her team of instructional designers in CIT. Departments could adapt it to fit distinctive aspects of their disciplines or cultures. 
 
-Another possible starting point is the “Seven Principles for Good Practice in Undergraduate Education” distilled from research on student learning by Arthur Chickering and Zelda Gamson in their [influential 1987 article](https://files.eric.ed.gov/fulltext/ED282491.pdf) of that name. Because these principles apply to every course modality, from fully in-person to varieties of hybrid to fully online, they’re likely to be recognized and understood by the largest number of faculty. 
+Another possible starting point is the “Seven Principles for Good Practice in Undergraduate Education” distilled from research on student learning by Arthur Chickering and Zelda Gamson in their [influential 1987 article](https://files.eric.ed.gov/fulltext/ED282491.pdf) of that name. Because these principles apply to every course modality, from fully in-person to varieties of hybrid to fully online, they’re likely to be recognized and understood by the largest number of faculty. It's no accident that they track well with the indicators of effective "Contributions to Teaching" listed in the "Appendix" to Geneseo's [Personnel Evaluation Form (PER) as updated in May 2019](https://wiki.geneseo.edu/x/IAWCBg).
 
 The best undergraduate teaching, Chickering and Gamson argued,
 
@@ -46,8 +46,6 @@ The best undergraduate teaching, Chickering and Gamson argued,
 - Respects diverse talents and ways of learning
 
 "Emphasizes time on task" is, in my opinion, an unfortunate way to encapsulate the point that good teaching communicates clear expectations for how students should apportion their time in realizing a course's learning outcomes. This clarity is especially important in asynchronous online courses, where students bear responsibility for effectively managing the 2,000-plus minutes that an in-person three-credit course, for example, fixes in class meetings.
-
-As it happens, these seven principles track well with the indicators of effective "Contributions to Teaching" listed in the "Appendix" to Geneseo's [Personnel Evaluation Form (PER) as updated in May 2019](https://wiki.geneseo.edu/x/IAWCBg).
 
 At [Penn State College of Earth and Mineral Sciences](https://facdev.e-education.psu.edu/evaluate-revise/peerreviewonline), Ann Taylor, a member of the Dutton E-Education Institute, developed a Creative Commons-licensed [Peer-Review Guide for Online Courses](https://facdev.e-education.psu.edu/sites/default/files/PeerReview_OnlineCourses_PSU_Guide_13June2017.pdf) based on Chickering and Gamson's seven principles. Taylor’s peer-review guide indicates where reviewers could look within an online course to see how the course measures up against these principles. 
 
