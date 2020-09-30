@@ -62,5 +62,5 @@ For a three- or four-credit course that you teach in Intersession 2021, you can 
 - For declaring interest in earning one or more of the above incentives: December 1, 2020
 - For implementing best-practice improvements: December 14, 2020
 - For publishing in Canvas (for students enrolled in the course) a fully developed online course that *deals centrally* with issues of race and racial justice in a way that advances Geneseo’s 2020-21 theme of *Becoming an Antiracist College*: January 4, 2021.
-- For sharing to Canvas Commons CC-licensed course content or a fully developed, CC-licensed course module dealing with issues of race and racial justice in a way that advances Geneseo’s 2020-21 theme of *Becoming an Antiracist College”*: January 4, 2021.
+- For sharing to Canvas Commons CC-licensed course content or a fully developed, CC-licensed course module dealing with issues of race and racial justice in a way that advances Geneseo’s 2020-21 theme of *Becoming an Antiracist College*: January 4, 2021.
 - For submitting a completed blog post for the CDL blog (required only for antiracism incentive \#3): March 1, 2021.
