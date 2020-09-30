@@ -23,7 +23,7 @@ Chairs have the discretion to limit offerings to ensure courses offered enroll s
 
 If you teach a three- or four-credit course in Intersession 2021 that has twelve or more students enrolled after the add-drop period, you’ll receive $500 compensation in addition to the standard compensation of $1000 per credit hour. You can earn this incentive for a maximum of two courses in Intersession 2021.
 
-## 2. Course improvement *or* anti-racism incentive
+## 2. Course improvement *or* antiracism incentive
 
 Choose one of the following:
 
