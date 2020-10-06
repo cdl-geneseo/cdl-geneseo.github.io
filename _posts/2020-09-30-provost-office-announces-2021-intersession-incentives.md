@@ -8,7 +8,7 @@ bio: /authors/schacht
 ![Sketch of a megaphone](/images/megaphone.jpg)
 *Megaphone, by Flickr user Jeff Ferzoco, CC BY-NC 2.0*{:.image-caption}
 
-The Office of the Provost is excited to offer a new round of faculty incentives for Intersession 2021.
+The Office of the Provost is excited to offer a new round of faculty [incentives for Intersession 2021](https://forms.gle/zxuRPPuTEoiEtJ2JA).
 
 Before planning to take advantage of one of these incentives, please be sure to check with your department chair or dean about any courses you intend to teach. Remember that department chairs and deans, not individual faculty, submit courses for inclusion in the intersession schedule.
 
@@ -62,7 +62,7 @@ For a three- or four-credit course that you teach in Intersession 2021, you can 
 
 ## Deadlines at a glance
 
-- For declaring interest in earning one or more of the above incentives: December 1, 2020
+- For [declaring interest](https://forms.gle/zxuRPPuTEoiEtJ2JA) in earning one or more of the above incentives: December 1, 2020
 - For implementing best-practice improvements: December 14, 2020
 - For publishing in Canvas (for students enrolled in the course) a fully developed online course that *deals centrally* with issues of race and racial justice in a way that advances Geneseo’s 2020-21 theme of *Becoming an Antiracist College*: January 4, 2021.
 - For sharing to Canvas Commons CC-licensed course content or a fully developed, CC-licensed course module dealing with issues of race and racial justice in a way that advances Geneseo’s 2020-21 theme of *Becoming an Antiracist College*: January 4, 2021.
