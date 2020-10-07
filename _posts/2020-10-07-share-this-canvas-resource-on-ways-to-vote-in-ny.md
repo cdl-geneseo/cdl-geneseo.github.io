@@ -4,6 +4,8 @@ title: Share This Canvas Resource on Ways to Vote in NY
 author: Karleen West
 bio: /authors/west
 ---
+![Photo of the Statue of Liberty](/images/statue-of-liberty.jpg)
+*Statue of Liberty, by Flickr user Steve Parker, CC-BY-2.0*{:.image-caption}
 
 With the General Election less than a month away, it’s important that our students know how to exercise what's arguably their most significant responsibility as a U.S. citizen: their right to vote.
 
