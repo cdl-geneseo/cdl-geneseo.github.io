@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New Canvas Resource on Ways to Vote in NY
+title: Share This Canvas Resource on Ways to Vote in NY
 author: Karleen West
 bio: /authors/west
 ---
