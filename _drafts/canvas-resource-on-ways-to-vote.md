@@ -5,7 +5,7 @@ author: Karleen West
 bio: /authors/west
 ---
 
-With the General Elections less than a month away, it’s important that our students know how to exercise what's arguably their most significant responsibility as a U.S. citizen: their right to vote.
+With the General Election less than a month away, it’s important that our students know how to exercise what's arguably their most significant responsibility as a U.S. citizen: their right to vote.
 
 In order to help my students learn about the voting process, I [created an Announcement on Canvas](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-announcement-in-a-course/ta-p/1194) that succinctly summarizes the [three ways to cast a vote in the General Election](https://lor.instructure.com/resources/e889c8cc88a244c3ab04d4b8035c72f3?shared) in New York state. I was inspired by a mailer that I received from the [Monroe County Board of Elections](https://www.monroecounty.gov/elections) that provided the same information in an easily digestible format. (If my link above to the Announcement doesn't take you directly to it in Canvas, you can find it by going to your Canvas dashboard, clicking the link to *Commons*, and searching for it in the Geneseo Commons. Look for an image of the Statue of Liberty.)
 
