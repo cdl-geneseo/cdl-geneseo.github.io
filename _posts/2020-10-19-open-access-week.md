@@ -25,7 +25,7 @@ Help expand KnightScholar, Geneseo’s institutional repository, by depositing m
 
 **Tuesday, October 20, 2020**
 
-Common Watch: [Paywall: The Business of Scholarshio](https://paywallthemovie.com/)
+Common Watch: [Paywall: The Business of Scholarship](https://paywallthemovie.com/)
 
 [Paywall Discussion Panel](https://forms.gle/Zy6yBbWHRfoqmu2UA) @4pm
 
