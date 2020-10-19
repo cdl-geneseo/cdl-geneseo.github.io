@@ -18,15 +18,22 @@ The Open Services Committee, based out of [Milne Library](https://www.geneseo.ed
 the Geneseo campus community around Open Access:
 
 **Monday, October 19, 2020 — Sunday, October 25, 2020**
+
 [Open Access Week Upload-a-thon](https://news.milne-library.org/open-access-week-iis-october-19-25-contribute-to-oa-and-submit-your-work-to-geneseo-knightscholar/)
+
 Help expand KnightScholar, Geneseo’s institutional repository, by depositing material yourself, or by completing this form to put your materials in a queue for KnightScholar upload.
 
 **Tuesday, October 20, 2020**
+
 Common Watch: [Paywall: The Business of Scholarshio](https://paywallthemovie.com/)
+
 [Paywall Discussion Panel](https://forms.gle/Zy6yBbWHRfoqmu2UA) @4pm
 
 **Wednesday, October 21, 2020**
+
 Learning about Geneseo's freshly minted [Open Access Policy](https://www.geneseo.edu/cdl/open-access). 
+
+---
 
 Keep an eye on [Milne's Blog](https://news.milne-library.org/) for more information on all of these topics (and more!) throughout the week! 
 
