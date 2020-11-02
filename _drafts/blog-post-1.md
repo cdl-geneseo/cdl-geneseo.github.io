@@ -1,6 +1,6 @@
 ---
 layout: post
-title: #Awareness and agency: do you know where your data goes?
+title: Awareness and agency: do you know where your data goes?
 author: Emma Raupp
 ---
 
