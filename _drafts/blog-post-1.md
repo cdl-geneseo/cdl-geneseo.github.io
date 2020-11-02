@@ -1,4 +1,8 @@
-# Do *you* know where your data goes?
+---
+layout: post
+title: #Awareness and agency: do you know where your data goes?
+author: Emma Raupp
+---
 
 Are you surprised when a pair of shoes you were looking at online pops up in an ad on Facebook? Probably not. It's 2020: most of us are aware, to varying degrees, that websites and other platforms we interact with track our data. It's the new normal; we may not be fully aware of the scope and means of data-mining, but we make up for this with a suspended sense of wariness surrounding our actions on the Internet. Naturally, we proceed with caution in arenas we do not have a clear perception or understanding of, like the overlap between Big Data and the Internet. Being aware of where your data is going (and why) is key to maintaining a sense of autonomy over your digital self. It's especially important that students recognize their right to such an awareness when it concerns data gathered by Higher Education institutions. In Learning Management Systems like Canvas, [learning analytics technology] (https://educationaltechnologyjournal.springeropen.com/articles/10.1186/s41239-019-0155-0) is implemented to accrue more information about students and their educational habits in order to improve the institution. One unintentional result of the LMS and learning analytics model is that students' data is being collected  without their awareness or consent, with largely uncertain consequences. 
 
