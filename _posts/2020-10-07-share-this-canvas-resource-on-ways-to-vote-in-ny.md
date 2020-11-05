@@ -2,6 +2,7 @@
 layout: post
 title: Share This Canvas Resource on Ways to Vote in NY
 author: Karleen West
+role: CDL Faculty Affiliate
 bio: /authors/west
 ---
 ![Photo of the Statue of Liberty](/images/statue-of-liberty.jpg)

@@ -2,6 +2,7 @@
 layout: post
 title: "CFP: Digital Pedagogy in the Humanities Classroom" 
 author: Paul Schacht
+role: CDL Director
 bio: /authors/schacht
 ---
 

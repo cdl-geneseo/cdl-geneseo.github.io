@@ -2,6 +2,7 @@
 layout: post
 title: Evaluating online teaching
 author: Paul Schacht
+role: CDL Director
 bio: /authors/schacht
 ---
 ![Interior photograph, Design Museum, London](/images/design_museum_london.jpg)
