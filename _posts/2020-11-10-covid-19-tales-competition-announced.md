@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Covid-19 Tales" competition announced
+title: <em>Covid-19 Tales</em> competition announced
 author: Paul Schacht
 role: CDL Director
 bio: /authors/schacht
