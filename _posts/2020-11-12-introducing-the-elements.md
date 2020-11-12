@@ -23,5 +23,5 @@ The workshop is limited to 30 participants. To register, go to <https://bit.ly/3
 
 Don't hesitate to download and distribute our workshop flyer, below. We're looking forward to seeing you on the 19th!
 
-<a href="/images/CDL_CL_Workshop_Flyer.jpg"><img src="/images/CDL_CL_Workshop_Flyer.jpg" alt="Workshop Flyer" style="display:block;margin-left:auto;margin-right:auto;width:60%" /></a>
+<a href="https://drive.google.com/drive/u/1/folders/1U9JGWXncTc1QWKP2jx55-huQRWZXCLtP"><img src="/images/CDL_CL_Workshop_Flyer.jpg" alt="Workshop Flyer" style="display:block;margin-left:auto;margin-right:auto;width:60%" /></a>
 <p style="text-align:center;"><em><small>Workshop Flyer, <a href="https://creativecommons.org/licenses/by-sa/4.0/">CC BY-SA 4.0</a></small></em></p>
