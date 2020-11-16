@@ -15,7 +15,7 @@ While it may start to feel like this won’t ever end, it will. And when it does
 
 At the Center for Digital Learning, that’s one thing we’re here to do in our first year: spark, encourage, and support conversations around the future of digital learning at Geneseo. Geneseo needs a strategic plan for digital learning, and the starting point for that plan needs to be input from faculty and students. 
 
-That’s why the CDL is excited to announce that we will be holding several focus groups over the next few weeks composed of 5-10 student participants and run by members of the [CDL Student Affiliate Program](https://www.geneseo.edu/cdl/student-affiliates) and Student Government. Through these focus groups we are eager to learn more about questions like:
+That’s why the CDL is excited to announce that we will be holding several focus groups over the next few weeks composed of 5-10 student participants and run by members of the [CDL Student Affiliate Program](https://www.geneseo.edu/cdl/student-affiliates) and Student Association. Through these focus groups we are eager to learn more about questions like:
 
 - How are things going with digital learning this semester?
 - What obstacles are you facing during remote learning?
