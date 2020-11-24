@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introducing &lt;the&nbsp;elements&nbsp;/&gt;
+title: Introducing &lt;the elements /&gt;
 author: Paul Schacht
 role: CDL Director
 bio: /authors/schacht
