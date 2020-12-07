@@ -14,7 +14,7 @@ In this newsletter, expect to find some highlights of our monthly activities, up
 
 To download the accessible PDF for this month's newsletter, please visit the [Newsletter Archive](https://www.geneseo.edu/cdl/newsletter-archive) page on our official website, where you'll also find all future newsletters! Each month we'll post a brief notification of our newsletter publication here with this reminder link to our webpage. 
 
-Let's finish this semester out strong! :muscle:
+Let's finish this semester out strong!
 
 ![Image of December 2020 Newsletter](/images/Dec2020_newsletter.jpg)
 *Visit [the CDL website](https://www.geneseo.edu/cdl/newsletter-archive) to download the PDF of this newsletter and to find future newsletters.*{:.image-caption}
