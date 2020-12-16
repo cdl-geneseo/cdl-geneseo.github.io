@@ -16,3 +16,5 @@ References
 Jones, K.M.L. Learning analytics and higher education: a proposed model for establishing informed consent mechanisms to promote student privacy and autonomy. Int J Educ Technol High Educ 16, 24 (2019). https://doi.org/10.1186/s41239-019-0155-0
 
 Roxana Marachi & Lawrence Quill (2020) The case of Canvas: Longitudinal datafication through learning management systems, Teaching in Higher Education, 25:4, 418-434
+
+Something blah blah blah yada yada yada 
