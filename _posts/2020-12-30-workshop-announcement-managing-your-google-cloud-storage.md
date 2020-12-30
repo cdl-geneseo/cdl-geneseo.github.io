@@ -27,4 +27,4 @@ January 5, 2021
 ### Registration
 https://geneseo.zoom.us/meeting/register/tJUrf-qvrzwvGtBKCPW00qljrCax_RC0bcBe
 
-
+![CDL Managing Your Google Cloud Storage workshop flyer](/images/CDLMYGCSWorkshopFlyer.png)
