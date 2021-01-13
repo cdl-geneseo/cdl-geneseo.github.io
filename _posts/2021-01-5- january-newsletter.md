@@ -17,5 +17,5 @@ This newsletter also announces the launch of our monthly events calendar. You ca
 To download the accessible PDF for this month's newsletter, please visit the [Newsletter Archive](https://www.geneseo.edu/cdl/newsletter-archive) page on our official website, where you'll also find all future newsletters. Each month we'll post a brief notification of our newsletter publication here with this reminder link to our webpage. 
 
 ![Image of January 2021 Newsletter](/images/Jan2021_newsletter_p1.png)
-![Image of January 2021 Newsletter](/images/Jan21Newsletter_updated_Page_2.jpg)
+![Image of January 2021 Newsletter](/images/Jan21NewsletterUpdated_p2.jpg)
 *Visit [the CDL website](https://www.geneseo.edu/cdl/newsletter-archive) to download the PDF of this newsletter and to find future newsletters.*{:.image-caption}
