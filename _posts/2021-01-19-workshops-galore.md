@@ -27,7 +27,7 @@ January 21, 2021
 #### Registration
 [Register on this page](https://geneseo.zoom.us/meeting/register/tJwtd-6uqDkvG9GavTUSyajGNWo4DMk2OkPg)
 
-![CDL Caption This! workshop flyer](/images/CaptioningMarketing.png)
+![CDL Caption This! workshop flyer](/images/captionthisflyer.jpg)
 
 ---
 
