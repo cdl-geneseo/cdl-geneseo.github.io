@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Inclusive Online Teaching Webinars Hosted by the ACUE
+title: Inclusive Online Teaching Webinars hosted by ACUE
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth

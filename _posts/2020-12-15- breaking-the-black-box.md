@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Breaking the Black Box Video Series
+title: Breaking the black box video series
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth

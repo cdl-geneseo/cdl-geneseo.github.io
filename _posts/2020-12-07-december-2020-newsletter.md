@@ -1,6 +1,6 @@
 ---
 layout: post
-title: December 2020 Newsletter
+title: December 2020 newsletter
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth

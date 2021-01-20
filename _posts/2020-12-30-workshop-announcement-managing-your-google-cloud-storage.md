@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Workshop Announcement — Managing Your Google Cloud Storage
+title: Workshop announcement — Managing your Google Cloud storage
 author: Laurie Fox
 role: CDL Assistant Director of Digital Learning
 bio: /authors/fox

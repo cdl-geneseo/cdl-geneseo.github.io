@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 2021 Newsletter & Events Calendar
+title: January 2021 newsletter & events calendar
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth

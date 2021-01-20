@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for Participation! The Future of Digital Learning at SUNY Geneseo
+title: Call for participation! The future of digital learning at SUNY Geneseo
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth
