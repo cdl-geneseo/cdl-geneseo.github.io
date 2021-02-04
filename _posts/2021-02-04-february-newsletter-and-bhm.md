@@ -1,10 +1,14 @@
 ---
 layout: post
-title: February 2021 newsletter & Black History Month
+title: Black History Month & February 2021 Newsletter
 author: Amanda Wentworth
 role: CDL Digital Humanities and Learning Coordinator
 bio: /authors/wentworth
 ---
+
+## SUNY Geneseo Honors Black History Month
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XDXSg8997UA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 It's time for another CDL newsletter!
 
@@ -31,7 +35,6 @@ to see you at some of them! For full event details go to the [Geneseo Events Cal
 *Download the PDF version of the February 2021 newsletter at our [Newsletter Archive](https://www.geneseo.edu/cdl/newsletter-archive)*
 
 ![CDL February newsletter](/images/Feb-21-Newsletter.jpg)
-
 
 
 
