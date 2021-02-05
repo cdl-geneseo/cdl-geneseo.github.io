@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Amanda Wentworth
+short_name: amanda
+name: Amanda Wentworth
+position: CDL Digital Humanities and Learning Coordinator
 ---
 
 <img src="/images/wentworth.png" alt="Amanda Wentworth" style="width:25%;float:left;padding-right:1.5em;"  />

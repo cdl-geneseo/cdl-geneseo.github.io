@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Emma Raupp
+short_name: emma
+name: Emma Raupp
+position: CDL Student Affiliate
 ---
 
 <img src="/images/raupp.png" alt="Emma Raupp" style="width:25%;float:left;padding-right:1.5em;"  />

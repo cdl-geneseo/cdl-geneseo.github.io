@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Karleen West
+short_name: karleen
+name: Karleen West
+position: CDL Faculty Affiliate
 ---
 <img src="/images/west.png" alt="Karleen West" style="width:25%;float:left;padding-right:1.5em;" />
 

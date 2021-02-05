@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Paul Schacht
+short_name: paul
+name: Paul Schacht
+position: CDL Director
 ---
 
 <img src="/images/schacht.png" alt="Paul Schacht" style="width:25%;float:left;padding-right:1.5em;"  /> 

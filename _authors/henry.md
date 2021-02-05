@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Abby Henry
+short_name: abby
+name: Abby Henry
+position: CDL Student Affiliate
 ---
 
 <img src="/images/henry.png" alt="Abby Henry" style="width:25%;float:left;padding-right:1.5em;"  />

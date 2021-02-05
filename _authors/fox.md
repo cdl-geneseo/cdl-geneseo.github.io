@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Laurie Fox
+short_name: laurie
+name: Laurie Fox
+position: CDL Assistant Director for Online Learning
 ---
 
 <img src="/images/fox.png" alt="Laurie Fox" style="width:25%;float:left;padding-right:1.5em;"  />
