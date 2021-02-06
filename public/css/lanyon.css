@@ -334,6 +334,40 @@ a.sidebar-nav-item:focus {
   color: #365090;
   font-style: italic;
 }
+/* Labels */
+.categories {
+  padding-top: 1rem;
+  padding-bottom: .25rem;
+  border-top: 1px solid #eee;
+}
+
+.post-category {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  background: #eee;
+  padding: .25rem;
+}
+
+.post-category a:hover {
+  background: #fff;
+  padding: .25rem;
+  text-decoration: none;
+}
+.tags {
+  padding-top: 1rem;
+  padding-bottom: .25rem;
+  border-top: none;
+}
+.post-tag {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  background: #eee;
+  padding: .25rem;
+}
+
+.post-tag a:hover {
+  background: #fff;
+  padding: .25rem;
+  text-decoration: none;
+}
 
 /* Related posts */
 .related {
