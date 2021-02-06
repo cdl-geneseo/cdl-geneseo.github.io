@@ -343,13 +343,13 @@ a.sidebar-nav-item:focus {
 
 .post-category {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  background: #eee;
+  border: 1px solid red;
+  border-radius: 10px;
   padding: .25rem;
 }
 
 .post-category a:hover {
-  background: #fff;
-  padding: .25rem;
+  font-weight: bold;
   text-decoration: none;
 }
 .tags {
@@ -359,13 +359,12 @@ a.sidebar-nav-item:focus {
 }
 .post-tag {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  background: #eee;
+  border: 1px solid blue;
   padding: .25rem;
 }
 
 .post-tag a:hover {
-  background: #fff;
-  padding: .25rem;
+  font-weight: bold;
   text-decoration: none;
 }
 
@@ -373,7 +372,6 @@ a.sidebar-nav-item:focus {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
 }
 .related-posts {
   padding-left: 0;
