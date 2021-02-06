@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "CFP: Digital Pedagogy in the Humanities Classroom" 
-author: Paul Schacht
-role: CDL Director
-bio: /authors/schacht
+author: paul
+categories: News
+tags: ["digital pedagogy", "humanities"]
 ---
 
 The [SUNY Center for Professional Development](https://cpd.suny.edu), together with the [Office of Library and Information Services](https://system.suny.edu/olis/) and [SUNY Press](http://www.sunypress.edu/), has issued a call for interest in ["Digital Pedagogy in the Humanities Classroom,"](https://sunycpd.eventsair.com/QuickEventWebsitePortal/dphc20/dphc) a series of online events and workshops designed to help create a community of practice and support research on humanities-focused digital pedagogy within SUNY.

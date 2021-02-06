@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Provost Office Announces Faculty Incentives for Intersession 2021
-author: Paul Schacht
-role: CDL Director
-bio: /authors/schacht
+author: paul
+categories: News
+tags: ["online learning"]
 ---
 
 ![Sketch of a megaphone](/images/megaphone.jpg)

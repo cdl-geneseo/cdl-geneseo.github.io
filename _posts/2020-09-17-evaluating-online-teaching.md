@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Evaluating online teaching
-author: Paul Schacht
-role: CDL Director
-bio: /authors/schacht
+author: paul
+categories: Perspectives
+tags: covid-19
 ---
 ![Interior photograph, Design Museum, London](/images/design_museum_london.jpg)
 *Design Museum, London by Flickr user diamond geezer, CC BY-NC-ND 2.0*{:.image-caption}

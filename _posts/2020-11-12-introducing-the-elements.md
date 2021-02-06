@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Introducing &lt;the elements /&gt;
-author: Paul Schacht
-role: CDL Director
-bio: /authors/schacht
+author: paul
+categories: News
+tags: ["workshops", "command line"]
 ---
 
 ![Picture of a glass of water](/images/water.jpg)

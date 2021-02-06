@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Share This Canvas Resource on Ways to Vote in NY
-author: Karleen West
-role: CDL Faculty Affiliate
-bio: /authors/west
+author: karleen
+categories: News
+tags: democracy
 ---
 ![Photo of the Statue of Liberty](/images/statue-of-liberty.jpg)
 *Statue of Liberty, by Flickr user Steve Parker, CC-BY-2.0*{:.image-caption}

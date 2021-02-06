@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "ASSESStivus 2021: assessment for the rest of us"
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["online learning", "assessment"]
 ---
 
 ![CDL banner logo](/images/assesstivus-logo.png)

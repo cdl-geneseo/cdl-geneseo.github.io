@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Happy International Open Access Week!
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["open access"]
 ---
 ![Open Access Week logo](/images/oaweek.jpg)
 *Open Access Week 2020*{:.image-caption}

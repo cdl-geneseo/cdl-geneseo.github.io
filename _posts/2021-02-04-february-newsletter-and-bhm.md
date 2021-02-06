@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Black History Month & February 2021 newsletter
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: antiracism
 ---
 
 ## SUNY Geneseo Honors Black History Month

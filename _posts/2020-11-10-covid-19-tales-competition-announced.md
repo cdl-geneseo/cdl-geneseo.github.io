@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Covid-19 Tales competition announced
-author: Paul Schacht
-role: CDL Director
-bio: /authors/schacht
+author: paul
+categories: News
+tags: covid-19
 ---
 ![Picture of a lightbulb](/images/lightbulb.jpg)
 *"Idea," by Joey Gannon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*{:.image-caption}

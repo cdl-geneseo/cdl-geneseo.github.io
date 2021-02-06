@@ -1,9 +1,10 @@
 ---
 layout: post
 title: Workshops galore!
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["workshops", "command line", "accessibility"]
+
 ---
 
 ![CDL banner logo](/images/CDLLogoBanner_small.png)

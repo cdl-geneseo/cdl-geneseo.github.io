@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Workshop announcement — Managing your Google Cloud storage
-author: Laurie Fox
-role: CDL Assistant Director of Digital Learning
-bio: /authors/fox
+author: laurie
+categories: News
+tags: workshops
 ---
 
 The Center for Digital Learning is excited to announce that we will be hosting a workshop on optimizing how you can organize and use your Google Drive at Geneseo. This workshop will be presented by [Laurie Fox](https://www.geneseo.edu/cdl/leadership), our Assistant Director for Online Learning.
