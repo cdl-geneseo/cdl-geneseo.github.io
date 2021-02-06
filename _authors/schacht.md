@@ -10,5 +10,5 @@ position: CDL Director
 
 Unless otherwise noted, Paul Schacht's posts on this blog are licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License.</a><br /><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0;" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
 
-<img src="/images/ORCID-iD_icon-32x32.png" alt="ORCID icon" style="float:left;margin-right:.2em;"> <http://orcid.org/0000-0002-1297-8044>
+[http://orcid.org/0000-0002-1297-8044](http://orcid.org/0000-0002-1297-8044)
  
