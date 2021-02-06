@@ -352,14 +352,18 @@ a.sidebar-nav-item:focus {
   font-weight: bold;
   text-decoration: none;
 }
+
 .tags {
   padding-top: 1rem;
   padding-bottom: .25rem;
   border-top: none;
+
 }
 .post-tag {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .85rem;
   border: 1px solid blue;
+  border-radius: 10px;
   padding: .25rem;
 }
 
@@ -372,6 +376,7 @@ a.sidebar-nav-item:focus {
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
+  border-top: none;
 }
 .related-posts {
   padding-left: 0;
