@@ -11,11 +11,20 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-  <span class="post-date">{{ post.date | date_to_string }}</span>
+  <!-- <span class="post-date">{{ post.date | date_to_string }}</span> -->
+  <p>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    {% if author %}
+      <span class="post-author" style="padding-top:.5em;">by <a href="{{ author.url }}">{{ author.name }}</a>, {{author.position}}</span>
+    {% endif %}
+  </p>
+<!--
   <span class="post-author">by<a rel="author"
     href="{{ site.baseurl}}{{ post.bio }}"
     title="{{ post.author }}">
       {{ post.author }},</a> {{ post.role }}</span>
+-->
     {{ post.content }}
   </div>
   {% endfor %}
