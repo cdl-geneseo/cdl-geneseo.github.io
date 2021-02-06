@@ -17,6 +17,24 @@ title: Home
     {% if author %}
       <span class="post-author" style="padding-top:.5em;">by <a href="{{ author.url }}">{{ author.name }}</a>, {{author.position}}</span>
     {% endif %}
+    {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  Labels: <span class="post-category" style="margin-right: .8rem;"><a href="{{site.baseurl}}/labels/#{{category|slugize}}">{{category}}</a></span>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    <span class="post-tag"><a href="{{site.baseurl}}/labels#tags">{{tag}}</a></span>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
   </p>
     {{ post.content }}
   </div>
