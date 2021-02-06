@@ -28,9 +28,35 @@ layout: default
 
 -->
 
+<div class="categories">
+  <h2>Categories</h2>
+    {% if post %}
+      {% assign categories = post.categories %}
+    {% else %}
+      {% assign categories = page.categories %}
+    {% endif %}
+    {% for category in categories %}
+    <span class="post-category"><a href="{{site.baseurl}}/labels/#{{category|slugize}}">{{category}}</a></span>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+  
+  <div class="tags">
+  <h2>Tags</h2>
+    {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    <span class="post-tag"><a href="{{site.baseurl}}/labels#tags">{{tag}}</a></span>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </div>
+
 {% if site.related_posts.size >= 1 %}
 <div class="related">
-  <h2>Related posts</h2>
+  <h2>Related</h2>
   <ul class="related-posts">
     {% for post in site.related_posts limit:3 %}
       <li>
