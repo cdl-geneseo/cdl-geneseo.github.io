@@ -349,18 +349,7 @@ a.sidebar-nav-item:focus {
   padding: .25rem;
 }
 
-.post-category a:link, a:visited {
-  color: #00a700;
-}
-
 .post-category a:hover {
-  color: #00a700;
-  font-weight: bold;
-  text-decoration: none;
-}
-
-.post-category a:active {
-  color: #00a700;
   font-weight: bold;
   text-decoration: none;
 }
