@@ -343,7 +343,7 @@ a.sidebar-nav-item:focus {
 
 .post-category {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  border: 1px solid red;
+  border: 1px solid #365090;
   border-radius: 10px;
   padding: .25rem;
 }
@@ -362,7 +362,7 @@ a.sidebar-nav-item:focus {
 .post-tag {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .85rem;
-  border: 1px solid blue;
+  border: 1px solid #90a959;
   border-radius: 10px;
   padding: .25rem;
 }
