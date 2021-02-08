@@ -23,7 +23,7 @@ title: Home
     {% assign categories = page.categories %}
   {% endif %}
   {% for category in categories %}
-  <span style="font-family: 'PT Sans', Helvetica, Arial, sans-serif;font-weight:bold;">Labels:</span>&nbsp;&nbsp;<span class="post-category" style="margin-right: .8rem;"><a href="{{site.baseurl}}/labels/#{{category|slugize}}">{{category}}</a></span>
+  <span style="font-family: 'PT Sans', Helvetica, Arial, sans-serif;font-weight:bold;">Labels:</span>&nbsp;&nbsp;<span class="post-category" style="margin-right: .8rem;"><a style="color:#00a700;" href="{{site.baseurl}}/labels/#{{category|slugize}}">{{category}}</a></span>
   {% unless forloop.last %}&nbsp;{% endunless %}
   {% endfor %}
   {% if post %}
