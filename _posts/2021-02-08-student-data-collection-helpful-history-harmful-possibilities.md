@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Student data collection: helpful history, harmful possibilites" 
+title: "Student data collection: helpful history, harmful possibilities?" 
 author: emma
 categories: Perspectives
 tags: ["big data", "privacy"]
