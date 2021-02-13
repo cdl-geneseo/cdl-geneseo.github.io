@@ -399,6 +399,16 @@ a.sidebar-nav-item:focus {
   color: inherit;
 }
 
+/* Drop Cap */
+
+.drop {
+  float: left;
+  padding-right: .05em;
+  font-size: 400%;
+  line-height: 80%;
+  color: #365090;
+}
+
 /*
  * Pagination
  *
