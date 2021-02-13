@@ -12,7 +12,7 @@ tags: antiracism
 
 ---
 
-<span class="drop">I</span>T'S time for another CDL newsletter! This month's newsletter falls within Black History Month, which will be the CDL's primary focus for the duration of the month. 
+<span class="drop">I</span>t's time for another CDL newsletter! This month's newsletter falls within Black History Month, which will be the CDL's primary focus for the duration of the month. 
 
 This month, you can expect the CDL to be promoting the many Black History Month events planned and organized by the Antiracism and DEI subcommittee of the President’s Commission on Diversity and Community at Geneseo. 
 

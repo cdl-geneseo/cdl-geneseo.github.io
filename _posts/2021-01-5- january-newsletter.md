@@ -5,7 +5,7 @@ author: amanda
 categories: News
 ---
 
-<span class="drop">W</span>E'RE back with another newsletter; our second of all time and first of the new year! This month we're looking back on December's "CDL Conversation", which refers to a topic regularly discussed, researched, and considered by the Center. Check out the newsletter at the bottom of this post to read more about what our topic in December: surveillance technology and algorithmic justice. 
+<span class="drop">W</span>e're back with another newsletter; our second of all time and first of the new year! This month we're looking back on December's "CDL Conversation", which refers to a topic regularly discussed, researched, and considered by the Center. Check out the newsletter at the bottom of this post to read more about what our topic in December: surveillance technology and algorithmic justice. 
 
 Looking forward, we're also thinking about some "resolutions" for the upcoming year. Stick with us this year and see what we accomplish!
 

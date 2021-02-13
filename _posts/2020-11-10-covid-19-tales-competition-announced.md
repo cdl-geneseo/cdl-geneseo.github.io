@@ -8,7 +8,7 @@ tags: covid-19
 ![Picture of a lightbulb](/images/lightbulb.jpg)
 *"Idea," by Joey Gannon, [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)*{:.image-caption}
 
-<span class="drop">T</span>HE Center for Digital Learning, the Department of Computing and Information Technology, the Office of the Provost, and faculty in the Department of Communication have collaborated to launch a competition for the most uplifting tales of living and learning at Geneseo this fall under the shadow of Covid-19.
+<span class="drop">T</span>he Center for Digital Learning, the Department of Computing and Information Technology, the Office of the Provost, and faculty in the Department of Communication have collaborated to launch a competition for the most uplifting tales of living and learning at Geneseo this fall under the shadow of Covid-19.
 
 In an email sent to the campus community today, Dr. Melanie Blood, Interim Associate Provost for Assessment and Curriculum and Professor of English and Music, writes:
 
