@@ -9,7 +9,7 @@ tags: ["online learning"]
 ![Picture of a white arrow pointing forward painted on pavement](/images/arrow.jpg)
 *Photo by <a href="https://unsplash.com/@gaellemarcel?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Gaelle Marcel</a> on <a href="https://unsplash.com/s/photos/arrow?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a>*{:.image-caption}
 
-As we find ourselves nearing the end of another unconventional semester, it is as hard to believe that we’ve been going through this life-altering pandemic since March as it is hard to remember anything from the “before time.” Something that began as an unexpected emergency move in the spring shifted to “the plan” for the fall; but, be assured, it’s virtually impossible (no pun intended) to actually make an effective plan for such a massive shift that quickly. We’re still very much in emergency mode.
+<span class="drop">A</span>S we find ourselves nearing the end of another unconventional semester, it is as hard to believe that we’ve been going through this life-altering pandemic since March as it is hard to remember anything from the “before time.” Something that began as an unexpected emergency move in the spring shifted to “the plan” for the fall; but, be assured, it’s virtually impossible (no pun intended) to actually make an effective plan for such a massive shift that quickly. We’re still very much in emergency mode.
 
 While it may start to feel like this won’t ever end, it will. And when it does, things sure aren’t going to go back to the way they were. So, it’s really important that we figure out a plan, a real plan, going forward.
 

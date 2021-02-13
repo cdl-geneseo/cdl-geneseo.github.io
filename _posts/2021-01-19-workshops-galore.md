@@ -9,9 +9,7 @@ tags: ["workshops", "command line", "accessibility"]
 
 ![CDL banner logo](/images/CDLLogoBanner_small.png)
 
-We're back at it with the workshops, folks! 
-
-The CDL is thrilled to announce that we will be hosting 2 workshops at the end of this week, one on Thursday the 21st, and one on Friday the 22nd. Mark your calendars!
+<span class="drop">W</span>E'RE back at it with the workshops, folks! The CDL is thrilled to announce that we will be hosting 2 workshops at the end of this week, one on Thursday the 21st, and one on Friday the 22nd. Mark your calendars!
 
 ## Caption This!
 
