@@ -6,7 +6,7 @@ categories: News
 tags: ["digital pedagogy", "humanities"]
 ---
 
-The [SUNY Center for Professional Development](https://cpd.suny.edu), together with the [Office of Library and Information Services](https://system.suny.edu/olis/) and [SUNY Press](http://www.sunypress.edu/), has issued a call for interest in ["Digital Pedagogy in the Humanities Classroom,"](https://sunycpd.eventsair.com/QuickEventWebsitePortal/dphc20/dphc) a series of online events and workshops designed to help create a community of practice and support research on humanities-focused digital pedagogy within SUNY.
+<span class="drop">T</span>he [SUNY Center for Professional Development](https://cpd.suny.edu), together with the [Office of Library and Information Services](https://system.suny.edu/olis/) and [SUNY Press](http://www.sunypress.edu/), has issued a call for interest in ["Digital Pedagogy in the Humanities Classroom,"](https://sunycpd.eventsair.com/QuickEventWebsitePortal/dphc20/dphc) a series of online events and workshops designed to help create a community of practice and support research on humanities-focused digital pedagogy within SUNY.
 
 The series will kick off with an online gathering September 25 at which humanities faculty can showcase what they and their students are doing with digital tools and methods that aim to "make learning more inclusive, participatory, collaborative, transparent, and active."
 
