@@ -3,25 +3,25 @@ layout: post
 title: "Geneseo rejects online proctoring. One reason? Coded bias." 
 author: paul
 categories: Perspectives
-tags: ["big data", "privacy"]
+tags: ["online learning", "privacy", "antiracism"]
 ---
 
 ![Still from Coded Bias film](/images/1_JoyinMaskStill_50-percent.png)
 *Media kit still from the film [Coded Bias](https://www.codedbias.com/marketing-and-social-kit)*
 
-The documentary [*Coded Bias*](https://www.codedbias.com/) follows MIT researcher [Joy Buolamwini](https://www.poetofcode.com/) as she explores why facial recognition technology fails to see dark-skinned faces, how biases of various kinds find their way into computer algorithms, and what citizens can do to fight algorithmic injustice.
+<span class="drop">T</span>he documentary [*Coded Bias*](https://www.codedbias.com/) follows MIT researcher [Joy Buolamwini](https://www.poetofcode.com/) as she explores why facial recognition technology fails to see dark-skinned faces, how biases of various kinds find their way into computer algorithms, and what citizens can do to fight algorithmic injustice.
 
-It's been available this week for Geneseo campus community members to stream as part of the college's [line-up of events for Black History Month](https://events.geneseo.edu/black_history_month). 
+It's been available this week for Geneseo campus community members to stream for free as part of the college's [line-up of events for Black History Month](https://events.geneseo.edu/black_history_month). 
 
 Tomorrow, our community can also meet the director of *Coded Bias*, Shalini Kantayaa, who will join us virtually to discuss the film and answer questions. Registering for the Q&A session will get you a link to watch the film for free.
 
 Together, the screening and visit provide an excellent opportunity to address Geneseo's stance on a hotly debated topic in education right now: online exam proctoring. Although  proctoring isn't a focus of Kantayya's film, it uses some of the same methods that the film scrutinizes and raises the same issues that lie at the film's moral and political heart: issues at the intersection of technology, privacy, autonomy, equity, and social justice. 
 
-Geneseo's decision not to pay for online proctoring services reflects a conviction that these services run afoul of the college's values and of its recently articulated commitment to antiracism.
+Geneseo's decision not to pay for online proctoring services reflects a conviction that these services run afoul of the college's values and of its recently articulated [commitment to antiracism](https://www.geneseo.edu/tlc/becoming-antiracist-college-project).
 
 ## Proctoring and the pandemic
 
-When the Covid-19 pandemic forced much of higher ed online last spring, concern immediately erupted that students would take advantage of the remote environment to cheat. A new study published in the *International Journal for Educational Technology*, covered just this month in *[Inside Higher Ed](https://www.insidehighered.com/news/2021/02/05/study-finds-nearly-200-percent-jump-questions-submitted-chegg-after-start-pandemic)*, lends some validity to that concern by linking the move online to a spike in activity on the website Chegg. On its "About" page, Chegg describes itself as a "student-first connected learning platform," but as the study's authors point out, it also provides an easy way for students to "breach academic integrity by obtaining outside help" on assignments or exams they're expected to complete on their own. 
+When the Covid-19 pandemic forced much of higher education online last spring, concern immediately erupted that students would take advantage of the remote environment to cheat. A new study published in the *International Journal for Educational Technology*, covered just this month in *[Inside Higher Ed](https://www.insidehighered.com/news/2021/02/05/study-finds-nearly-200-percent-jump-questions-submitted-chegg-after-start-pandemic)*, lends some validity to that concern by linking the move online to a spike in activity on the website Chegg. On its "About" page, Chegg describes itself as a "student-first connected learning platform," but as the study's authors point out, it also provides an easy way for students to "breach academic integrity by obtaining outside help" on assignments or exams they're expected to complete on their own. 
 
 One tool designed to prevent online exam cheating was already available when the concern arose: commercial services that use students' own computers to monitor their activity while they work. Companies such as ProctorU, Proctorio, Examity, Honorlock, and Respondus either allow a live proctor to watch a student through the student's camera or capture video of the student and run it through an algorithm to detect evidence of cheating.
 
@@ -67,7 +67,7 @@ The legal challenges to online proctoring are sure to grow, and as they do, coll
 
 But no institution of higher learning that promotes itself as student-centered, equity-minded, community-driven, pledged to antiracism, committed to justice for the marginalized and underrepresented, and organized to produce independent-thinking, autonomous graduates should require a legal challenge in order to reject a flawed and biased surveillance technology as its guarantor of honesty and fairness.
 
-Not that honesty and fairness don't matter — these, too are important educational values. But there are ways to honor them that not only avoid trading in other values but are also, arguably, more conducive to solid learning.
+Not that honesty and fairness don't matter — these, too are important educational values. And not that cheating isn't a geniune problem. But there are ways to foster honesty and obtain fairness that not only avoid sacrificing other values but are also, arguably, more conducive to learning.
 
 These other approaches seek to give students less reason for cheating to begin with. I'll write about them in a future post. They're preferable by far to the surveillance approach that Geneseo has wisely refused.
 
