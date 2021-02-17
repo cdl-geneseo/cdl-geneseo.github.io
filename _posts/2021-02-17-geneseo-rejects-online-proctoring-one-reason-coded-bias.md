@@ -1,17 +1,17 @@
 ---
 layout: post
-title: "Geneseo rejects online proctoring. One reason? Coded bias. 
+title: "Geneseo rejects online proctoring. One reason? Coded bias." 
 author: paul
 categories: Perspectives
 tags: ["big data", "privacy"]
 ---
 
-![Coded bias trailer embed](/images/somephoto.jpg)
-*Some caption. Credit, [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/),*{:.image-caption}
+![Still from Coded Bias film](/images/1_JoyinMaskStill_50-percent.png)
+*Media kit still from the film [Coded Bias](https://www.codedbias.com/marketing-and-social-kit)*
 
 The documentary [*Coded Bias*](https://www.codedbias.com/) follows MIT researcher [Joy Buolamwini](https://www.poetofcode.com/) as she explores why facial recognition technology fails to see dark-skinned faces, how biases of various kinds find their way into computer algorithms, and what citizens can do to fight algorithmic injustice.
 
-It's been available this week for Geneseo campus community members to stream as part of the college's line-up of events for Black History Month. 
+It's been available this week for Geneseo campus community members to stream as part of the college's [line-up of events for Black History Month](https://events.geneseo.edu/black_history_month). 
 
 Tomorrow, our community can also meet the director of *Coded Bias*, Shalini Kantayaa, who will join us virtually to discuss the film and answer questions. Registering for the Q&A session will get you a link to watch the film for free.
 
@@ -37,11 +37,11 @@ The problem with using what critics routinely call "spyware" to enforce academic
 
 In December 2019, the *New York Times* reported on a study by the National Institute of Standards and Technology that [showed most commercial facial recognition systems are biased](https://www.nytimes.com/2019/12/19/technology/facial-recognition-bias.html), falsely identifying African American and Asian faces at rates 10 to 100 times greater than white ones, and exhibiting the highest error rates when identifying Native Americans. The systems in the study also had more difficulty identifying women than men and identifying older adults than middle-aged ones.
 
-Earlier that same year, Nijeer Parks, a Black man, had been arrested on suspicion of shoplifting and trying to assault a police officer at a Hampton Inn in Woodbridge, NJ. Although miles from the location of the incident when it happened, Parks had been falsely identified as the perpetrator through the use of facial recognition technology. He became the third Black man known to have been incorrectly arrested based on flawed facial recognition. 
+Earlier that same year, Nijeer Parks, a Black man, had been arrested on suspicion of shoplifting and trying to assault a police officer at a Hampton Inn in Woodbridge, NJ. Although miles from the location of the incident when it happened, Parks had been falsely identified as the perpetrator through the use of facial recognition technology. He became the third Black man in the U.S. known to have been incorrectly arrested based on flawed facial recognition. 
 
 The following year, the *Times* reported on the facial recognition company Clearview AI, branding it ["The Secretive Company that Might End Privacy as We Know It"](https://www.nytimes.com/2020/01/18/technology/clearview-privacy-facial-recognition.html) and pointing out that "without public scrutiny, more than 600 law enforcement agencies have started using Clearview in the past year." The article noted the tendency of the company's software to produce false matches.
 
-At the end of 2020, a year after the *Times* had first reported on the Parks case, Parks sued the police, the prosecutor and the City of Woodbridge for false arrest, false imprisonment and violation of his civil rights. 
+At the end of 2020, a year after the *Times* had first reported on the Parks case, Parks sued the police, the prosecutor, and the City of Woodbridge for false arrest, false imprisonment, and violation of his civil rights. 
 
 Clearview AI's facial recognition app had been used in his case.
 
