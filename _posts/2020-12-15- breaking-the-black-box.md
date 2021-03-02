@@ -1,12 +1,12 @@
 ---
 layout: post
 title: Breaking the black box video series
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["big data", "privacy"]
 ---
 
-In 2016, ProPublica published a series of short informational videos that explain how online algorithms influence our daily lives in numerous, and often concealed, ways. Each video is less than 3 minutes long, and is accompanied by a ProPublica article on a related topic, as well as an open comments section for readers to reflect and interact with each other on the issues discussed. 
+<span class="drop">I</span>n 2016, ProPublica published a series of short informational videos that explain how online algorithms influence our daily lives in numerous, and often concealed, ways. Each video is less than 3 minutes long, and is accompanied by a ProPublica article on a related topic, as well as an open comments section for readers to reflect and interact with each other on the issues discussed. 
 
 View the videos and find the links to their articles below:
 

@@ -1,6 +1,7 @@
 ---
-layout: default
-title: Mariah Branch
+short_name: mariah
+name: Mariah Branch
+position: CDL Student Affiliate
 ---
 
 <img src="/images/branch.png" alt="Mariah Branch" style="width:25%;float:left;padding-right:1.5em;"  />

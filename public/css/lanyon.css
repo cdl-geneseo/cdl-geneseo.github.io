@@ -334,12 +334,51 @@ a.sidebar-nav-item:focus {
   color: #365090;
   font-style: italic;
 }
+/* Labels */
+.categories {
+  padding-top: 1rem;
+  padding-bottom: .25rem;
+  border-top: 1px solid #eee;
+}
+
+.post-category {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  color: #00a700;
+  border: 1px solid #00a700;
+  border-radius: 10px;
+  padding: .25rem;
+}
+
+.post-category a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
+
+.tags {
+  padding-top: 1rem;
+  padding-bottom: .25rem;
+  border-top: none;
+
+}
+.post-tag {
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-size: .85rem;
+  color: #365090;
+  border: 1px solid #365090;
+  border-radius: 10px;
+  padding: .25rem;
+}
+
+.post-tag a:hover {
+  font-weight: bold;
+  text-decoration: none;
+}
 
 /* Related posts */
 .related {
   padding-top: 2rem;
   padding-bottom: 2rem;
-  border-top: 1px solid #eee;
+  border-top: none;
 }
 .related-posts {
   padding-left: 0;
@@ -358,6 +397,16 @@ a.sidebar-nav-item:focus {
 }
 .related-posts li a:hover small {
   color: inherit;
+}
+
+/* Drop Cap */
+
+.drop {
+  float: left;
+  padding-right: .05em;
+  font-size: 350%;
+  line-height: 80%;
+  color: #365090;
 }
 
 /*

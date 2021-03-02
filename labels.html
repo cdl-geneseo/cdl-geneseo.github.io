@@ -1,0 +1,32 @@
+---
+layout: default
+title: Posts by Label
+---
+<h1>Posts by Label</h1>
+<h2>Categories</h2>
+<h3 id="News">News</h3>
+
+{% for post in site.categories.News %}
+{% assign author = site.authors | where: 'short_name', post.author | first %}
+ <li><a href="{{ post.url }}">{{ post.title }}</a> | <span style="color: #9a9a9a;">{{ post.date | date_to_string }} | {{ author.name }}</span></li>
+{% endfor %}
+
+<h3 id="Perspectives">Perspectives</h3>
+
+{% for post in site.categories.Perspectives %}
+{% assign author = site.authors | where: 'short_name', post.author | first %}
+ <li><a href="{{ post.url }}">{{ post.title }}</a> | <span style="color: #9a9a9a;">{{ post.date | date_to_string }} | {{ author.name }}</span></li>
+{% endfor %}
+
+<h2 id="tags">Tags</h2>
+
+{% assign sorted-tags = site.tags | sort %}
+{% for tag in sorted-tags %}
+  <h3>{{ tag[0] }}</h3>
+  <ul>
+    {% for post in tag[1] %}
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    <li><a href="{{ post.url }}">{{ post.title }}</a> | <span style="color: #9a9a9a;">{{ post.date | date_to_string }} | {{ author.name }}</span></li>
+    {% endfor %}
+  </ul>
+{% endfor %}

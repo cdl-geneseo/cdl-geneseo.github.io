@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "ASSESStivus 2021: assessment for the rest of us"
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["online learning", "assessment"]
 ---
 
 ![CDL banner logo](/images/assesstivus-logo.png)
 
-SUNY Geneseo's annual presentation, workshop, and panel event "Assessment for the Rest of Us," or, ASSESStivus, is being held remotely this year, spanning Monday, January 25th and Tuesday, January 26th. This event is open only to members of the SUNY Geneseo campus community, and registration is required for security purposes, but attendees can register at any time, up to the end of the session.
+<span class="drop">S</span>UNY Geneseo's annual presentation, workshop, and panel event "Assessment for the Rest of Us," or, ASSESStivus, is being held remotely this year, spanning Monday, January 25th and Tuesday, January 26th. This event is open only to members of the SUNY Geneseo campus community, and registration is required for security purposes, but attendees can register at any time, up to the end of the session.
 
 See the ASSESStivus Schedule at https://www.geneseo.edu/assesstivus/schedule
 

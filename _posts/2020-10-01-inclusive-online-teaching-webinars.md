@@ -1,14 +1,14 @@
 ---
 layout: post
 title: Inclusive Online Teaching Webinars hosted by ACUE
-author: Amanda Wentworth
-role: CDL Digital Humanities and Learning Coordinator
-bio: /authors/wentworth
+author: amanda
+categories: News
+tags: ["online learning"]
 ---
 
 ![ACUE Logo](/images/ACUE_color2.png)
 
-The Association of College and University Educators is providing a timely and constructive webinar series that focuses on ["Effective Online Instruction"](https://acue.org/webinars/inclusive-online-teaching/) through "Inclusive Online Teaching". These webinars, featuring leading faculty experts in digital equity, are free, live, run for approximately 1 hour, and will include Q&A for participants at the end of each session. The Center for Digital Learning and the Teaching and Learning Center at Geneseo encourage any and all who are interested in attending this event to register with the ACUE.
+<span class="drop">T</span>he Association of College and University Educators is providing a timely and constructive webinar series that focuses on ["Effective Online Instruction"](https://acue.org/webinars/inclusive-online-teaching/) through "Inclusive Online Teaching". These webinars, featuring leading faculty experts in digital equity, are free, live, run for approximately 1 hour, and will include Q&A for participants at the end of each session. The Center for Digital Learning and the Teaching and Learning Center at Geneseo encourage any and all who are interested in attending this event to register with the ACUE.
 
 The webinars are available as follows:
 
