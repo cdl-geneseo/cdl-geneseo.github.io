@@ -6,7 +6,6 @@ url:                 https://cdl-geneseo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
-excerpt_separator:   <!--more-->
 
 # About/contact
 author:
