@@ -4,6 +4,7 @@ title: "A community conversation on student workload in online courses"
 author: paul
 categories: News
 tags: ["online learning", "covid-19"]
+excerpt_separator: <!--more-->
 ---
 
 ![Student workload conversation poster](/images/student-workload-forum.png)
@@ -13,7 +14,7 @@ tags: ["online learning", "covid-19"]
 The Zoom event, which requires [registration](https://www.google.com/url?q=https://geneseo.zoom.us/meeting/register/tJ0uf--urj8oGdalCe4LqPfU-tukMrOtq0aZ&sa=D&source=calendar&ust=1615822468144000&usg=AOvVaw3hn3hFSSbnXuMUH-NiiHCI), will be held Thursday, March 18, 1:45 — 2:45 p.m. Participation is limited to the first 150 registrants.
 
 The pandemic has been hard on everyone. Fear of illness, the reality of illness (one's own, a friend's, a family member's), and the consequences of both (including depression, disruption, and even death) have formed the background to a range of other challenges, including — for both students and faculty on our largely residential campus, with its focus on lively, face-to-face interaction in physical spaces — recalibrating our daily schedules and recalculating the time and effort required for learning when learning must happen in virtual spaces such as Zoom and Canvas.
-
+<!--more-->
 Hard as it's been, though, the pandemic has also created a valuable opportunity to re-examine old assumptions and move forward in better ways. We need to ask what the past year can teach us about the relationship between coursework and learning. When we return to in-person instruction at Geneseo next fall, are there lessons we can carry forward that improve every student's educational experience, whether in the physically present classroom or in the occasional post-pandemic online course that students will likely appreciate having as an option to give them greater autonomy and flexibility?
 
 We also need, urgently, to figure out what we can do *now* to make sure every Geneseo student has tools and strategies for completing the spring 2021 semester successfully.  
