@@ -11,6 +11,8 @@ tags: ["online learning"]
 
 <span class="drop">A</span>s we find ourselves nearing the end of another unconventional semester, it is as hard to believe that we’ve been going through this life-altering pandemic since March as it is hard to remember anything from the “before time.” Something that began as an unexpected emergency move in the spring shifted to “the plan” for the fall; but, be assured, it’s virtually impossible (no pun intended) to actually make an effective plan for such a massive shift that quickly. We’re still very much in emergency mode.
 
+<!--more-->
+
 While it may start to feel like this won’t ever end, it will. And when it does, things sure aren’t going to go back to the way they were. So, it’s really important that we figure out a plan, a real plan, going forward.
 
 At the Center for Digital Learning, that’s one thing we’re here to do in our first year: spark, encourage, and support conversations around the future of digital learning at Geneseo. Geneseo needs a strategic plan for digital learning, and the starting point for that plan needs to be input from faculty and students. 

@@ -11,6 +11,8 @@ tags: ["workshops", "command line", "accessibility"]
 
 <span class="drop">W</span>e're back at it with the workshops, folks! The CDL is thrilled to announce that we will be hosting 2 workshops at the end of this week, one on Thursday the 21st, and one on Friday the 22nd. Mark your calendars!
 
+<!--more-->
+
 ## Caption This!
 
 A workshop that will demonstrate user-friendly captioning options for video presentations and recordings, "Caption This!" will be presented by Alexis Clifton, Senior Instructional Support Specialist, Amy Fisk, Assistant Dean for Accessibility, and Laurie Fox, Director of Educational Technology for CIT and the CDL's Assistant Director for Online Learning.

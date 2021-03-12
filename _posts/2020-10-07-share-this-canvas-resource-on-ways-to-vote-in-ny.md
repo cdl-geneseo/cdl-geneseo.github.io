@@ -12,6 +12,8 @@ tags: democracy
 
 In order to help my students learn about the voting process, I [created an Announcement on Canvas](https://community.canvaslms.com/t5/Instructor-Guide/How-do-I-add-an-announcement-in-a-course/ta-p/1194) that succinctly summarizes the [three ways to cast a vote in the General Election](https://lor.instructure.com/resources/e889c8cc88a244c3ab04d4b8035c72f3?shared) in New York state. I was inspired by a mailer that I received from the [Monroe County Board of Elections](https://www.monroecounty.gov/elections) that provided the same information in an easily digestible format. (If my link above to the Announcement doesn't take you directly to it in Canvas, you can find it by going to your Canvas dashboard, clicking the link to *Commons*, and searching for it in the Geneseo Commons. Look for an image of the Statue of Liberty.)
 
+<!--more-->
+
 Initially, I sent the Announcement out only to my own courses. But the more I thought about it, the more I realized that the Announcement could be useful not only to students, but to faculty who similarly wanted to empower students to cast their votes. I decided to [share my Announcement on Canvas Commons](https://community.canvaslms.com/t5/Commons/How-do-I-share-a-resource-to-Commons/ta-p/1798) and then circulate the link to the Canvas resource on the Faculty-L listserv. The goal was to provide my faculty colleagues with an easy, ready-made resource on voting to share with their students.
 
 Here are the reasons why you should consider incorporating my Announcement into your Canvas courses, too.

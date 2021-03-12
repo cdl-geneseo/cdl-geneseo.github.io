@@ -11,6 +11,8 @@ tags: ["online learning", "privacy", "antiracism"]
 
 <span class="drop">T</span>he documentary [*Coded Bias*](https://www.codedbias.com/) follows MIT researcher [Joy Buolamwini](https://www.poetofcode.com/) as she explores why facial recognition technology fails to see dark-skinned faces, how biases of various kinds find their way into computer algorithms, and what citizens can do to fight algorithmic injustice.
 
+<!--more-->
+
 It's been available this week for Geneseo campus community members to stream for free as part of the college's [line-up of events for Black History Month](https://events.geneseo.edu/black_history_month). 
 
 Tomorrow, our community can also meet the director of *Coded Bias*, [Shalini Kantayaa](https://www.shalinikantayya.net/), who will join us virtually to discuss the film and answer questions. Registering for the Q&A session will get you a link to watch the film.

@@ -11,6 +11,8 @@ tags: ["workshops", "command line"]
 
 <span class="drop">N</span>ext week, The Center for Digital Learning kicks off a series of workshops called **&lt;the&nbsp;elements&nbsp;/&gt;**. As the name suggests, it's a series focused on elemental computing skills — skills that increase your power and autonomy as a scholar, creator, or citizen.
 
+<!--more-->
+
 The first workshop in the series takes place on **November 19 at 4:15 pm** in Zoom. *Talk to Me: Communicating with Your Computer Through the Command Line* will teach participants how to run a number of basic but powerful programs using simple, text-based commands rather than clicking on the icons of files and folders in their computer's default interface. 
 
 Knowing how to communicate with our computers in this elemental way is the first step toward learning how to do the sorts of things that many of us, increasingly, find necessary to our research &mdash; such as scraping the web for statistical data or textual content we'd like to analyze.

@@ -8,6 +8,8 @@ tags: ["big data", "privacy"]
 
 <span class="drop">I</span>n 2016, ProPublica published a series of short informational videos that explain how online algorithms influence our daily lives in numerous, and often concealed, ways. Each video is less than 3 minutes long, and is accompanied by a ProPublica article on a related topic, as well as an open comments section for readers to reflect and interact with each other on the issues discussed. 
 
+<!--more-->
+
 View the videos and find the links to their articles below:
 
 ## Episode 1: Profiling
