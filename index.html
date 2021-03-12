@@ -36,8 +36,10 @@ title: Home
     {% unless forloop.last %}&nbsp;{% endunless %}
     {% endfor %}
   </p>
-    {{ post.content }}
-  </div>
+    {{ post.excerpt }}
+  <p><a href="{{ post.url | absolute_url }}">
+      Read more &hellip;</a></p>
+</div>
   {% endfor %}
 </div>
 
