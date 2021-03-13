@@ -1,7 +1,7 @@
 ---
 short_name: jessica
 name: Jessica Gilbert
-position: Winter Intersession Antiracism Instructor
+position: Contributor
 ---
 <img src="/images/gilbert.png" alt="Jessica Gilbert" style="width:25%;float:left;padding-right:1.5em;" />
 

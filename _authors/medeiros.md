@@ -1,7 +1,7 @@
 ---
 short_name: melanie
 name: Melanie Medeiros
-position: Winter Intersession Antiracism Instructor
+position: Contributor
 ---
 <img src="/images/medeiros.png" alt="Melanie Medeiros" style="width:25%;float:left;padding-right:1.5em;" />
 

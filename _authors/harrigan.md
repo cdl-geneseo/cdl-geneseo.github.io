@@ -1,7 +1,7 @@
 ---
 short_name: meredith
 name: Meredith Harrigan
-position: Winter Intersession Antiracism Instructor
+position: Contributor
 ---
 <img src="/images/harrigan.png" alt="Meredith Harrigan" style="width:25%;float:left;padding-right:1.5em;" />
 

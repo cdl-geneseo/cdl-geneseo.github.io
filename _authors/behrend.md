@@ -1,7 +1,7 @@
 ---
 short_name: justin
 name: Justin Behrend
-position: Winter Intersession Antiracism Instructor
+position: Contributor
 ---
 <img src="/images/behrend.png" alt="Justin Behrend" style="width:25%;float:left;padding-right:1.5em;" />
 

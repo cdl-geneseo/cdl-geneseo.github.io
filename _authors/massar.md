@@ -1,7 +1,7 @@
 ---
 short_name: kiara
 name: Kiara Massar
-position: Winter Intersession Antiracism Instructor
+position: Contributor
 ---
 <img src="/images/massar.png" alt="Kiara Massar" style="width:25%;float:left;padding-right:1.5em;" />
 
