@@ -10,9 +10,9 @@ tags: ["online learning", "assessment"]
 
 <span class="drop">S</span>UNY Geneseo's annual presentation, workshop, and panel event "Assessment for the Rest of Us," or, ASSESStivus, is being held remotely this year, spanning Monday, January 25th and Tuesday, January 26th. This event is open only to members of the SUNY Geneseo campus community, and registration is required for security purposes, but attendees can register at any time, up to the end of the session.
 
-<!--more-->
-
 See the ASSESStivus Schedule at https://www.geneseo.edu/assesstivus/schedule
+
+<!--more-->
 
 ---
 

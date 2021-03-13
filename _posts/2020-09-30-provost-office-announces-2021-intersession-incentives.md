@@ -13,8 +13,6 @@ tags: ["online learning"]
 
 Before planning to take advantage of one of these incentives, please be sure to check with your department chair or dean about any courses you intend to teach. Remember that department chairs and deans, not individual faculty, submit courses for inclusion in the intersession schedule.
 
-<!--more-->
-
 Intersession 2021 will run for four weeks (January 4-29) rather than the usual three.
 
 Faculty base compensation for Intersession 2021 is $1000 per credit hour, assuming that the course enrolls at least eight students. Below eight students, a faculty member may agree to accept a prorated salary; otherwise, the course will be canceled.
@@ -22,6 +20,8 @@ Faculty base compensation for Intersession 2021 is $1000 per credit hour, assumi
 Faculty may teach no more than two Intersession 2021 course sections, for a maximum of eight credit hours.
 
 Faculty who agree to teach high-enrollment sections (with a cap of 40 or more students) will earn double the base salary if the course enrolls 31 or more students. Faculty may not teach multiple sections of the same course.
+
+<!--more-->
 
 Chairs have the discretion to limit offerings to ensure courses offered enroll sufficiently to run. Departments should not offer a second section of a given course unless the first one fills.
 
