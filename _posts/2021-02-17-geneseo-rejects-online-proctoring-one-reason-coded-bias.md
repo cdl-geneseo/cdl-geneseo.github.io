@@ -13,11 +13,11 @@ tags: ["online learning", "privacy", "antiracism"]
 
 It's been available this week for Geneseo campus community members to stream for free as part of the college's [line-up of events for Black History Month](https://events.geneseo.edu/black_history_month). 
 
+<!--more-->
+
 Tomorrow, our community can also meet the director of *Coded Bias*, [Shalini Kantayaa](https://www.shalinikantayya.net/), who will join us virtually to discuss the film and answer questions. Registering for the Q&A session will get you a link to watch the film.
 
 Together, the screening and visit provide an excellent opportunity to address Geneseo's stance on a hotly debated topic in education right now: online exam proctoring. Although  proctoring isn't a focus of Kantayya's film, it uses some of the same methods that the film scrutinizes and raises the same issues that lie at the film's moral and political heart: issues at the intersection of technology, privacy, autonomy, equity, and social justice. 
-
-<!--more-->
 
 Geneseo's decision not to pay for online proctoring services reflects a conviction that these services run afoul of the college's values and of its recently articulated [commitment to antiracism](https://www.geneseo.edu/tlc/becoming-antiracist-college-project).
 

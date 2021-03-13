@@ -13,9 +13,9 @@ tags: ["online learning"]
 
 While it may start to feel like this won’t ever end, it will. And when it does, things sure aren’t going to go back to the way they were. So, it’s really important that we figure out a plan, a real plan, going forward.
 
-At the Center for Digital Learning, that’s one thing we’re here to do in our first year: spark, encourage, and support conversations around the future of digital learning at Geneseo. Geneseo needs a strategic plan for digital learning, and the starting point for that plan needs to be input from faculty and students. 
-
 <!--more-->
+
+At the Center for Digital Learning, that’s one thing we’re here to do in our first year: spark, encourage, and support conversations around the future of digital learning at Geneseo. Geneseo needs a strategic plan for digital learning, and the starting point for that plan needs to be input from faculty and students. 
 
 That’s why the CDL is excited to announce that we will be holding several focus groups over the next few months composed of 5-10 student participants and run by members of the [CDL Student Affiliate Program](https://www.geneseo.edu/cdl/student-affiliates), Student Association, and Presidential Scholars. Through these focus groups we are eager to learn more about questions like:
 

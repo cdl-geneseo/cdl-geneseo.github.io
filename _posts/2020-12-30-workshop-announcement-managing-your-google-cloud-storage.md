@@ -8,6 +8,8 @@ tags: workshops
 
 <span class="drop">T</span>he Center for Digital Learning is excited to announce that we will be hosting a workshop on optimizing how you can organize and use your Google Drive at Geneseo. This workshop will be presented by [Laurie Fox](https://www.geneseo.edu/cdl/leadership), our Assistant Director for Online Learning.
 
+<!--more-->
+
 ## Description
 
 Geneseo faculty can store all of their work in one secure place with Google Drive, then access their files from any computer, tablet, or mobile device. This workshop will demonstrate:
@@ -28,5 +30,3 @@ January 5, 2021
 [Register on this page](https://geneseo.zoom.us/meeting/register/tJUrf-qvrzwvGtBKCPW00qljrCax_RC0bcBe)
 
 ![CDL Managing Your Google Cloud Storage workshop flyer](/images/CDLMYGCSWorkshopFlyer.png)
-
-<!--more-->

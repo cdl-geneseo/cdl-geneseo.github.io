@@ -12,9 +12,9 @@ tags: covid-19
 
 Procedures and standards for peer review of faculty are, of course, properly a matter for shared governance and contractual negotiation. At some point it will fall to Geneseo's college senate to approve guidelines for “observing” online instruction similar to [those it adopted in 2006 for on-ground instruction](https://wiki.geneseo.edu/download/attachments/109184288/Classroom%20Observation%20Procedures%20and%20Criteria.pdf?version=1&modificationDate=1479164407556&api=v2), possibly together with some online-specific modifications to the personnel evaluation forms for tenured/tenure-track and adjunct faculty. But because schools and departments need help with this question right now, I put down some thoughts and shared them with the CDL [faculty affiliates](https://www.geneseo.edu/cdl/faculty-affiliates), [student affiliates](https://www.geneseo.edu/cdl/student-affiliates), [associates](https://www.geneseo.edu/cdl/cdl-associates), and [leadership team](https://www.geneseo.edu/cdl/leadership), as well as the Academic Experience Planning Team convened last spring by Provost Robertson to develop recommendations for the transition to remote learning. I also consulted Wes Kennison, Geneseo UUP chapter president. I got a lot of terrific feedback, especially in the faculty affiliates' meeting on September 9. 
 
-What follows isn't a group document but rather my best advice, informed by the range of perspectives I heard in that feedback. As you might expect, the perspectives didn't line up neatly, but there was significant disagreement on only one point, which I discuss below. 
-
 <!--more-->
+
+What follows isn't a group document but rather my best advice, informed by the range of perspectives I heard in that feedback. As you might expect, the perspectives didn't line up neatly, but there was significant disagreement on only one point, which I discuss below. 
 
 I'm especially grateful to Wes for his precise insistence on the difference between mentorship and personnel review as processes. While the advice below raised no red flags for him, he cautioned that his personal lack of objection should not be construed as an official union endorsement.
 

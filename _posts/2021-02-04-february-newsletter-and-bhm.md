@@ -16,9 +16,9 @@ tags: antiracism
 
 This month, you can expect the CDL to be promoting the many Black History Month events planned and organized by the Antiracism and DEI subcommittee of the President’s Commission on Diversity and Community at Geneseo. 
 
-You'll find an image of our newsletter at the bottom of this post, which reads:
-
 <!--more-->
+
+You'll find an image of our newsletter at the bottom of this post, which reads:
 
 >February 2021 marks a particularly significant Black History Month following the simultaneously harrowing and hopeful events of 2020. As Amanda Gorman in her Inaugural Poem affirmed,
     

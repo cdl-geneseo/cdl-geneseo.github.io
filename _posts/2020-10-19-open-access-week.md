@@ -8,14 +8,12 @@ tags: ["open access"]
 ![Open Access Week logo](/images/oaweek.jpg)
 *Open Access Week 2020*{:.image-caption}
 
-And an unconventional Open Access Week it is. 
+<span class="drop">A</span>nd an unconventional Open Access Week it is. The theme of this year's week of amplifying and educating folks on Open Access is ["Open with Purpose: Taking Action to Build Structual Equity and Inclusion"](http://www.openaccessweek.org/profiles/blogs/2020-theme-announcement-english). With all of this year's challenges, it has proven itself a year of action for many, whether that has been through going to the medical frontlines of this pandemic, taking to the streets to demonstrate against social injustice, adding childcare to your school or workday, or casting your vote, we've all had to take action this year in, at times, unexpected ways. International Open Access Week is yet another opportunity for our community of open advocates "to coordinate in taking action to make openness the default for research and to ensure that equity is at the center of this work" (Shockey, 2020, [openaccessweek.org](openaccessweek.org/profiles/blogs/2020-theme-announcement-english)).
 
-<span class="drop">T</span>he theme of this year's week of amplifying and educating folks on Open Access is ["Open with Purpose: Taking Action to Build Structual Equity and Inclusion"](http://www.openaccessweek.org/profiles/blogs/2020-theme-announcement-english). With all of this year's challenges, it has proven itself a year of action for many, whether that has been through going to the medical frontlines of this pandemic, taking to the streets to demonstrate against social injustice, adding childcare to your school or workday, or casting your vote, we've all had to take action this year in, at times, unexpected ways. International Open Access Week is yet another opportunity for our community of open advocates "to coordinate in taking action to make openness the default for research and to ensure that equity is at the center of this work" (Shockey, 2020, [openaccessweek.org](openaccessweek.org/profiles/blogs/2020-theme-announcement-english)).
+<!--more-->
 
 The Open Services Committee, based out of [Milne Library](https://www.geneseo.edu/library), is offering numerous Open Access-themed events this week to educate and collaborate with 
 the Geneseo campus community around Open Access:
-
-<!--more-->
 
 ## Monday, October 19, 2020 — Sunday, October 25, 2020
 
