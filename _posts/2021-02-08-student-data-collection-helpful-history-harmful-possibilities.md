@@ -7,7 +7,7 @@ tags: ["big data", "privacy"]
 ---
 
 ![Blocks with letters D-A-T-A](/images/scrabble-data.jpg)
-*Photo by Flickr user [janneke staaks](https://flic.kr/p/nVGMsH), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/){:.image-caption}*
+*Photo by Flickr user [janneke staaks](https://flic.kr/p/nVGMsH), [CC BY-NC 2.0](https://creativecommons.org/licenses/by-nc/2.0/)*{:.image-caption}
 
 ---
 

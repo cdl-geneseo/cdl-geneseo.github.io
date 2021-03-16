@@ -7,7 +7,7 @@ tags: ["online learning", "privacy", "antiracism"]
 ---
 
 ![Still from Coded Bias film](/images/1_JoyinMaskStill_50-percent.png)
-*Media kit still from the film [Coded Bias](https://www.codedbias.com/marketing-and-social-kit)*
+*Media kit still from the film [Coded Bias](https://www.codedbias.com/marketing-and-social-kit)*{:.image-caption}
 
 <span class="drop">T</span>he documentary [*Coded Bias*](https://www.codedbias.com/) follows MIT researcher [Joy Buolamwini](https://www.poetofcode.com/) as she explores why facial recognition technology fails to see dark-skinned faces, how biases of various kinds find their way into computer algorithms, and what citizens can do to fight algorithmic injustice.
 
