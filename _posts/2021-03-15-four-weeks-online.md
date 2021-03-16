@@ -1,12 +1,13 @@
 ---
 layout: post
-title: "Four weeks online: Race, racism, and the Black experience in the Americas" 
+title: "Four weeks online: race, racism, and the Black experience in the Americas" 
 author: melanie
 categories: Perspectives
 tags: ["online learning", "antiracism", "intersession 2021"]
 ---
 
 ![Largodopelo image](https://upload.wikimedia.org/wikipedia/commons/5/52/Largodopelo.jpg)
+*Pelourinho Plaza, Salvador, Bahia, Brazil. Photo by Wikipedia user [Sitenl](https://commons.wikimedia.org/wiki/File:Largodopelo.jpg) (Samory Santos), [CC BY-SA 3.0](ttp://creativecommons.org/licenses/by-sa/3.0/), via Wikimedia Commons*{:.image-caption}
 
 *Editor’s note: During the January 2021 Intersession, as part of Geneseo’s project of [becoming an antiracist college](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), nearly a dozen faculty taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. Professor Medeiros’s post is the first in a series in which faculty reflect on their objectives and experience in these courses.*
 
