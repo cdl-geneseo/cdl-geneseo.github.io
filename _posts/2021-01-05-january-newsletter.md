@@ -1,6 +1,6 @@
 ---
 layout: post
-title: January 2021 newsletter & events calendar
+title: January 2021 newsletter and events calendar
 author: amanda
 categories: News
 ---
