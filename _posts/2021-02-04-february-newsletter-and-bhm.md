@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Black History Month & February 2021 newsletter
+title: Black History Month and February 2021 newsletter
 author: amanda
 categories: News
 tags: antiracism
