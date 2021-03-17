@@ -28,13 +28,10 @@ I knew I wanted to maintain the module structure that I use throughout the cours
 
 I started with the basics.
 
-  - > I incorporated additional texts. I introduced them to [Kendi’s perspective on antiracism](https://www.ted.com/talks/ibram_x_kendi_the_difference_between_being_not_racist_and_antiracist?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare). I provided information about [Geneseo's goal of becoming an antiracist college](https://www.geneseo.edu/tlc/becoming-antiracist-college-project). I shared antiracism resources available through the [National Communication Association](https://www.natcom.org/advocacy-public-engagement/nca-anti-racism-resource-bank), the [Department of Communication](https://docs.google.com/document/d/1IbOQ15SFxabA-ujgAVXEMEYiOAGHoh5GapE4Hs9oHJ4/edit), and the [Teaching and Learning Center](https://www.geneseo.edu/tlc/resources-antiracist-pedagogy).
-
-  - > I centered relevant concepts in my overview and quiz (in retrospect, I could have done this better).
-
-  - > I adjusted the discussion prompts to include a specific focus on the role of communication in racism and antiracism.
-
-  - > I chose to keep the synthesis assignment the same since it involves a narrative reflection about identity.
+  - I incorporated additional texts. I introduced them to [Kendi’s perspective on antiracism](https://www.ted.com/talks/ibram_x_kendi_the_difference_between_being_not_racist_and_antiracist?utm_campaign=tedspread&utm_medium=referral&utm_source=tedcomshare). I provided information about [Geneseo's goal of becoming an antiracist college](https://www.geneseo.edu/tlc/becoming-antiracist-college-project). I shared antiracism resources available through the [National Communication Association](https://www.natcom.org/advocacy-public-engagement/nca-anti-racism-resource-bank), the [Department of Communication](https://docs.google.com/document/d/1IbOQ15SFxabA-ujgAVXEMEYiOAGHoh5GapE4Hs9oHJ4/edit), and the [Teaching and Learning Center](https://www.geneseo.edu/tlc/resources-antiracist-pedagogy).
+  - I centered relevant concepts in my overview and quiz (in retrospect, I could have done this better).
+  - I adjusted the discussion prompts to include a specific focus on the role of communication in racism and antiracism.
+  - I chose to keep the synthesis assignment the same since it involves a narrative reflection about identity.
 
 Yet, I knew something more was needed.
 
@@ -48,18 +45,9 @@ With hope and optimism, I tried it. I found the growth posts to be richer and mo
 
 What did this opportunity teach me?
 
-1.  > Aligning values, goals, and choices is important but not always easy.
-
-<!-- end list -->
-
-2.  > Reflection is necessary for growth.
-
-<!-- end list -->
-
-3.  > We are all teachers and learners.
-
-<!-- end list -->
-
-4.  > Even the smallest change can make a big difference.
+1. Aligning values, goals, and choices is important but not always easy.
+2. Reflection is necessary for growth.
+3. We are all teachers and learners.
+4. Even the smallest change can make a big difference.
 
 I hope my students learned these lessons, too\!
