@@ -7,7 +7,6 @@ tags: ["online learning", "antiracism", "intersession 2021"]
 ---
 
 ![Measuring units image](https://live.staticflickr.com/7179/6903154833_f6a5c4f5b1_b.jpg)
-(They’re inches but they’re really big\!)
 
 *Editor’s note: During the January 2021 Intersession, as part of Geneseo’s project of [becoming an antiracist college](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), nearly a dozen faculty taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. Professor Harrigan’s post is one in a series in which faculty reflect on their objectives and experience in these courses. Previously, Professor Melanie Medeiros [described her experience](https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online/) teaching Race, Racism and the Black Experience in the Americas.*
 
