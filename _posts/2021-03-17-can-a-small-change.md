@@ -1,4 +1,10 @@
-Possible photo:
+---
+layout: post
+title: "Can a small change really make a big difference?" 
+author: meredith
+categories: Perspectives
+tags: ["online learning", "antiracism", "intersession 2021"]
+---
 
 ![Measuring units image](https://live.staticflickr.com/7179/6903154833_f6a5c4f5b1_b.jpg)
 (They’re inches but they’re really big\!)
