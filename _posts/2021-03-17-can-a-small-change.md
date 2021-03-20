@@ -11,7 +11,7 @@ tags: ["online learning", "antiracism", "intersession 2021"]
 
 *Editor’s note: During the January 2021 Intersession, as part of Geneseo’s project of [becoming an antiracist college](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), nearly a dozen faculty taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. Professor Harrigan’s post is one in a series in which faculty reflect on their objectives and experience in these courses. Previously, Professor Melanie Medeiros [described her experience](https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online/) teaching Race, Racism and the Black Experience in the Americas.*
 
-I am a relational communication teacher-scholar and a growth seeker. At the heart of my teaching is a value for dialogue, which is a unique communication process that prioritizes multivocality, listening, reflection, and connection.
+<span class="drop">I</span> am a relational communication teacher-scholar and a growth seeker. At the heart of my teaching is a value for dialogue, which is a unique communication process that prioritizes multivocality, listening, reflection, and connection.
 
 When I was presented with the opportunity to support the college’s value of inclusion through integrating antiracist content into my January 2021 intersession online course, I quickly jumped at the chance knowing that the process would foster my personal and professional growth. With feelings of excitement and apprehension, I began the work.
 
