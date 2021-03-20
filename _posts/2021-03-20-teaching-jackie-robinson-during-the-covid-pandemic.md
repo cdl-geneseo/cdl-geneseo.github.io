@@ -10,7 +10,7 @@ tags: ["online learning", "antiracism", "intersession 2021"]
 
 *Editor’s note: During the January 2021 Intersession, as part of Geneseo’s project of [<u>becoming an antiracist college</u>](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), nearly a dozen faculty taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. Professor Behrend’s post is one in a series in which faculty reflect on their objectives and experience in these courses. You can read previous posts in this series by Professor [Melanie Medeiros](https://cdl-geneseo.github.io/perspectives/2021/03/15/four-weeks-online/) and Professor [Meredith Harrigan](https://cdl-geneseo.github.io/perspectives/2021/03/17/can-a-small-change/).*
 
-For as long as I can remember, I have been a baseball fan. And not just a baseball fan, but a Dodger fan. Watching Dodger games on television and attending games at Dodger Stadium was a memorable part of my upbringing in Los Angeles.
+<span class="drop">F</span>or as long as I can remember, I have been a baseball fan. And not just a baseball fan, but a Dodger fan. Watching Dodger games on television and attending games at Dodger Stadium was a memorable part of my upbringing in Los Angeles.
 
 I don’t remember when I first learned about Jackie Robinson. He is, of course, known for breaking the color line in baseball: the first Black ballplayer in the major leagues in the twentieth century. But he’s also a Dodger legend. So I’ve long taken pride that my team — the Dodgers — was the team that began to break down segregation in baseball.
 
