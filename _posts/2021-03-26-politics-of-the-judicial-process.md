@@ -6,7 +6,7 @@ tags: ["online learning", "antiracism", "intersession 2021"]
 ---
 
 ![A mob of white men posing in front of the office of the black-owned Daily Record newspaper after burning it down, Wilmington, North Carolina, November 10, 1898](https://cdn.nybooks.com/wp-content/uploads/2020/10/blight_1-111920.jpg)
-*A mob of white men posing in front of the office of the black-owned Daily Record newspaper after burning it down, Wilmington, North Carolina, November 10, 1898.* {:.image-caption}
+*A mob of white men posing in front of the office of the black-owned Daily Record newspaper after burning it down, Wilmington, North Carolina, November 10, 1898.*{:.image-caption}
 
 *Editor’s note: This post is one in a series by Geneseo faculty who in Intersession 2021 taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. To find all posts in this series, part of Geneseo's project of [<u>becoming an antiracist college</u>](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), look for the [tag "intersession 2021"](/labels#tags).*
 
