@@ -1,5 +1,5 @@
 ---
-title: "PLSC 375: Politics of the judicial process" 
+title: "What do we do now?" 
 author: james
 categories: Perspectives
 tags: ["online learning", "antiracism", "intersession 2021"]
