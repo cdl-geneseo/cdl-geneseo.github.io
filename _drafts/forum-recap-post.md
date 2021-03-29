@@ -8,11 +8,15 @@ tags: ["online learning", "online pedagogy"]
 !(/images/)
 *caption*{:.image-caption}
 
-*Editor’s note: This post is one in a series by Geneseo faculty who in Intersession 2021 taught courses that either focused centrally on issues of racial justice or incorporated those issues via dedicated modules and interwoven content. To find all posts in this series, part of Geneseo's project of [<u>becoming an antiracist college</u>](https://www.geneseo.edu/tlc/becoming-antiracist-college-project), look for the [tag "intersession 2021"](/labels#tags).*
-
 <span class="drop">T</span>he Student Association and Center for Digital Learning co-sponsored event held on March 18, 2021 has given all involved a lot to think about regarding the student experience during the pandemic, particularly as it relates to workload in their online courses. 
 
+We invited students, staff, and faculty to join in a candid conversation with each other about their experiences with and perspectives on student workload during remote instruction after consistently hearing through social media based in Geneseo, and beyond, about how burdened students feel. Simultaneously, we would also hear about how hard some faculty are working to meet student needs and limitations while handling their own challenges, as well as how some things that currently frustrate students might be out of their hands. Furthermore, we've been hearing more from our students about how *talking isn't enough* when trying to solve issues that are impacting the mental, emotional, and, thereby, academic health of students, and that action needs to be taken. Soon.
+
+With that in mind, we set out to design a session for students to share their feelings and experiences in a wholly unintimidating environment while inviting faculty and staff to attend and share as well, but mostly listen. 
+
 Our time together was structured into three distinct parts: 
+
+<!--more-->
 
  ## An anonymous, collaborative slide deck
  
@@ -25,6 +29,4 @@ This session made clear a few expected, and unexpected, realities for both stude
 
 ### Students: Missing friends... and breaks.
 
-Covid has taken a toll on everyone's social life, but for college students it's extra impactful. Students shared that the precautions Geneseo and most universities have had to make to protect their campuses during this pandemic has exacerbated feelings of loneliness 
-
-<!--more-->
+Covid has taken a toll on everyone's social life, but for college students it's extra impactful. Students shared that the precautions Geneseo and most universities have had to take to protect their campuses during this pandemic has exacerbated feelings of loneliness and isolation. Furthermore, students point out that excessive Zoom meetings have made it difficult to leave their rooms during the day and socialize in person to the extent to which they are permitted during Covid. 
