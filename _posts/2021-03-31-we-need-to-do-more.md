@@ -5,7 +5,7 @@ categories: Perspectives
 tags: ["online learning", "antiracism", "intersession 2021"]
 ---
 
-![1771 map of the Country of the Six Nations](/images/bhs_midatl003443863_a-scaled_35pc_chenussio.jpg)
+[![1771 map of the Country of the Six Nations](/images/bhs_midatl003443863_a-scaled_35pc_chenussio.jpg)](https://cdl-geneseo.github.io/images/bhs_midatl003443863_a-scaled_35pc_chenussio.jpg)
 *1771 map of "The Country of the VI. Nations" inscribed to William Tryon, extracted from E. B. O'Callaghan, The Documentary History of the State of New York (1851). Via the [Brooklyn Historical Society](https://mapcollections.brooklynhistory.org/map/to-his-excellency-william-tryon-esqr-captain-general-governor-in-chief-of-the-province-of-new-york-this-map-of-the-country-of-the-vi-nations-proper-with-part-of-the-adjacent-colonies-is-hum/). Modified to highlight the location of Chenussio. Public domain.*{:.image-caption}
 
 <span class="drop">W</span>hat does it mean to teach Native American history on a campus committed to antiracism when that commitment does not extend to Indigenous Peoples? Sure, at Geneseo we do a territorial acknowledgment at the beginning of formal campus events, and the Haudenosaunee flag hangs in a gallery of national flags in MacVittie College Union and on stage at commencement. My Intersession 2021 class was included in a menu of “Antiracism” courses at Geneseo. But we will not fly the flag on the official campus flag pole like many of our sister institutions, and we have yet to make a determined investment in recruiting Native American students. We have no Native American faculty.
