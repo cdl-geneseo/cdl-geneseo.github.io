@@ -69,7 +69,31 @@ This portion of our session was dedicated to a live-annotation of [Jody Greene's
 
 ### The task
 
-We placed Greene's article in a private Google Doc shared only with the participants and asked them to use the highlight and comments function to dissect the issues and ideas brought up in the article and respond to one another's observations.
+We placed Greene's article in four private Google Docs shared only with the participants and asked them to use the highlight and comments functions to dissect the issues and ideas brought up in the article and respond to one another's observations. The article was copied into four different Docs in order to keep one document from getting overwhelmed by comments.
+
+### The results
+
+While the article is relatively brief, it took some time for folks to read through it if they hadn't had the opportunity to read it when we sent it out ahead of time. Then, slowly but surely, we started to see lots of highlighting and comments. Here are some of the most striking points our participants drew out of the article:
+
+> F(aculty): I have opted to eliminate many of my typical assignments from all of my classes in order to streamline them ... and hopefully make them more manageable.
+    >> S(tudent): I think that this would be more than beneficial to students. Spending time on assignments has taken away from my understanding of the class as a whole. I find myself focusing more on getting the assignment done than grasping the material.
+
+> F: I was not prepared to have students email me that they had lost a loved one to covid and wanting to still push through and get through the course. Math seems irrelevant at that point.
+
+> F: One of the struggles that needs to be addressed both from a workload and a mental health aspect is the opportunity to fail. Failure is no longer defined as poor participation or contributions to class - it is not feeling comfortable approaching online professors for help and disappearing.
+    >> S: This is true! I feel that the lack of face-to-face connection with professors makes it so much harder to feel comfortable talking one-on-one.
+
+> S: How to grade class participation seems to have definitely been a struggle for a lot of my professors. There is a large energy difference between commenting in person in a class and writing discussion board posts and replies. These small assignments take a lot of energy when multiplied over 3-4 courses. They are typically worth very little in terms of grading.
+
+> S: Something that's helped in a couple of my courses is to make it so that students are able to "skip" 2-3 assignments in a particular category (discussion posts, reading responses, etc.) so that students can opt out of an assignment if they're having a tough day/week, if needed, but only a few times per semester
+
+> F: Pandemic teaching has also taught us the importance of always practicing universal design.
+    >> S: As a student, this really speaks to me. I feel like there is a strong need for universal design in terms of presenting information.
+
+We appreciated how this exercise took away the anonymity provided in the last activity, where more personal feelings were being discussed, and allowed students and faculty looking at this article to communicate directly with each other. Were thrilled to see both parties taking advantage of the opportunity, especially as students actively engaged in responding to specific faculty comments.
+
+
+<h2 id="breakout-rooms">Breakout rooms with discussion questions and a collaborative note-taking document</h2>
 
 
 
