@@ -20,11 +20,15 @@ Realistically, the CDL can't affect institutional change; we're not administrati
 
 Our time together on March 18th was structured into three distinct parts: 
 
-## An anonymous, collaborative slide deck
+1. [An anonymous, collaborative slide deck](#slide-deck)
+1. [Annotating Jody Greene's "The Strange Case of the Exploding Student Workload"](#strange-case)
+1. [Breakout rooms with discussion questions and a collaborative note-taking document](#breakout-rooms)
+
+<h2 id="slide-deck">An anonymous, collaborative slide deck</h2>
  
 Facilitators provided a blank slide deck in Google slides asking "How are you feeling?" Sharing permissions were set so that participants could add their thoughts anonymously.
 
-Read through the slides below:
+Read through the [slides](https://docs.google.com/presentation/d/1fo4ANOcbeNZOeYs2a4k6CbplSlvyXpPk7EQLMJMN6zM/edit?usp=sharing).
 
 
 This session made clear a few expected, and unexpected, realities for both students and faculty.
@@ -47,4 +51,25 @@ According to what students shared in these slides, a good deal of their anxiety 
 
 Furthermore, there are students who express that a structured lecture time would relieve the pressure of gathering information and "teaching" it to themselves rather than having the guidance of either a synchronous lecture or carefully crafted modules that purposefully present information. While video lectures can help, some students struggle to find time to watch those lectures on top of their other assignments.
 
-The concerns brought up under this theme have a common quality: **organization**, both at the student and faculty level. Pandemic teaching and learning has asked both of these groups to change they way they structure their work and, for faculty, communicate that structure simultaneously. As if this weren't difficult enough, in remote classes neither of these parties can see the other in order to build empathetic, genuine relationships.
+The concerns brought up under this theme have a common quality: **organization**, both at the student and faculty level. Pandemic teaching and learning has asked both of these groups to change they way they structure their work and, for faculty, communicate that structure simultaneously. As if this weren't difficult enough, in remote classes neither of these parties can actually be in the same physical presence as the other person in order to build empathetic, genuine relationships.
+
+### Faculty: Feeling constrained and in-the-dark
+
+While we didn't get a lot of faculty feedback in this session, as it was primarily aimed at student experiences, we did get some. That feedback included a general feeling of working with students in a highly constrained and obscured way; an extension of this lack of connection discussed earlier. 
+
+Faculty share that they miss out on tailoring their class time and instruction to their students' unique interests and personalities, as many faculty maintain that each class has a different overall "self", when engaging in remote teaching. They also share that they are constrained in the way they can communicate with students be it via Canvas, email, or an inability to do either in such cases as when a student misses a COVID test and are locked out of their accounts and classes (Slide 15).
+
+This faculty perspective is invaluable to our understanding of the overall picture of student workload and the current student experience, and we appreciate those who were willing to share with us during this session.
+
+<h2 id="strange-case">Annotating Jody Greene's "The Strange Case of the Exploding Student Workload"</h2>
+
+### The article
+
+This portion of our session was dedicated to a live-annotation of [Jody Greene's](https://www.insidehighered.com/blogs/just-visiting/guest-post-strange-case-exploding-student-workload) article featured in *Inside Higher Ed* last December. 
+
+### The task
+
+We placed Greene's article in a private Google Doc shared only with the participants and asked them to use the highlight and comments function to dissect the issues and ideas brought up in the article and respond to one another's observations.
+
+
+
