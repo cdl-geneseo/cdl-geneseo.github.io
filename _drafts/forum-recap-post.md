@@ -69,7 +69,7 @@ This portion of our session was dedicated to a live-annotation of [Jody Greene's
 
 ### The task
 
-We placed Greene's article in four private Google Docs shared only with the participants and asked them to use the highlight and comments functions to dissect the issues and ideas brought up in the article and respond to one another's observations. The article was copied into four different Docs in order to keep one document from getting overwhelmed by comments.
+We placed Greene's article in four private Google docs shared only with the participants and asked them to use the highlight and comments functions to dissect the issues and ideas brought up in the article and respond to one another's observations. The article was copied into four different Docs in order to keep one document from getting overwhelmed by comments.
 
 ### The results
 
@@ -95,5 +95,28 @@ We appreciated how this exercise took away the anonymity provided in the last ac
 
 <h2 id="breakout-rooms">Breakout rooms with discussion questions and a collaborative note-taking document</h2>
 
-Our last activity of the session was to send the attendees into breakout rooms in Zoom to discuss a set of [discussion questions](https://docs.google.com/document/d/1L_P5XukB-Qxe4sHZmx8JHypMXKjREfn3tNechsxlUVE/edit?usp=sharing)
+Our last activity of the session was to send the attendees into breakout rooms in Zoom to address a set of [discussion questions](https://docs.google.com/document/d/1L_P5XukB-Qxe4sHZmx8JHypMXKjREfn3tNechsxlUVE/edit?usp=sharing). Each breakout room was intentionally structured to include multiple students to each faculty or staff members. This structure was important to us because not only did we want to amplify student voices by providing them greater representation, but we also didn't want any students to feel intimidated by being the only student in a room of faculty/staff. Not surprisingly, many students dropped off the call either once we announced at the beginning of the session that we would eventually be doing breakout rooms or once the breakout rooms actually began, so, unfortunately, this plan kind of fell through, and our ratio was skewed more heavily toward the faculty/staff side. 
+
+Regardless, we did have designated notetakers for each group that added to a collaborative [Google doc](https://docs.google.com/document/d/19P71sz-X6Meuod-vPaeRfzqKD_e2e2NRZP16JgLF4Bw/edit?usp=sharing) so that everyone could see how each group addressed their assigned question. While each group was assigned a single question, we ended up with one extra question originally intended for Group 3, but was orphaned after we lost enough participants to leave Group 3 empty. So, you'll notice that we invited groups to address Group 3's question if they had time after discussing their assigned question.
+
+Reading through this collaborative document, you'll find a common theme: students asking for clarity. This ask is a clear extension of the desire for organization and structure expressed earlier in the previous session activities. Students are concerned about not understanding their professors' expectations from the get-go. While it may seem like the answer to this concern would be to reach out to these professors, that may be a substantial barrier for students, and might not result in a prompt reply depending on the circumstances, thereby leaving students to rely solely on their assumptions.
+
+## Where we go from here
+
+It's no secret that we're approaching the end of this semester, which will, hopefully, be our last semester of pandemic-required online instruction and learning. That being said, we're clearly running out of time to help students where they're at *now*. However, we do have some tricks up our sleeves to guide students to a successful end-of-semester and future experiences with both online and in-person learning.
+
+### Micro workshops for student success
+
+Students are short on time, but they need tools to add to their toolboxes to get them through this semester, as well as those in the future. So, our team thought that the best thing we could do for students was to create short, 30-minute workshops for students on resources and practices that could help them now.
+
+To be clear, we are not creating these workshops as a way of telling students to "pull themselves up by their bootstraps," so to speak, but to help them salvage whatever academic situation they may find themselves in during this pandemic. Since our center is *not* considered part of Geneseo's administration, we have no feasible way of implementing complex, last-minute policy, which would be difficult even if we were administration. Rather, we want to offer our services as a *service center*, meaning in ways that help students students and faculty use tools they can already access to be successful.
+
+Some ideas for these workshops include teaching students how to leverage Gmail for maximum efficiency, especially when their professors rely heavily on email communication for their online instruction, as well as how to craft the perfect email to request flexibility on a deadline when something happens that impedes your work. We hope to bring these and more "micro workshops" to students before the end of the semester!
+
+### The Zoom-free option: resource and experience sharing via the CDL blog
+
+For those who are burnt out on Zoom to the point where even one more half hour popping into a Zoom room is simply not an option, we will be aggregating helpful resources on the topics covered in our micro workshops and highlighting the experiences of fellow students, their pandemic learning struggles, and how they are handling them to be shared on our [blog](https://cdl-geneseo.github.io/), so be sure to keep an eye on it!
+
+## The future of online learning at Geneseo
+
 
