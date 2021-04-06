@@ -95,5 +95,5 @@ We appreciated how this exercise took away the anonymity provided in the last ac
 
 <h2 id="breakout-rooms">Breakout rooms with discussion questions and a collaborative note-taking document</h2>
 
-
+Our last activity of the session was to send the attendees into breakout rooms in Zoom to discuss a set of [discussion questions](https://docs.google.com/document/d/1L_P5XukB-Qxe4sHZmx8JHypMXKjREfn3tNechsxlUVE/edit?usp=sharing)
 
