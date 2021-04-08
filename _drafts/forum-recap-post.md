@@ -5,8 +5,8 @@ categories: Perspectives
 tags: ["online learning", "online pedagogy"]
 ---
 
-!(/images/)
-*caption*{:.image-caption}
+![Lego person broken apart](/images/lego.jpg)
+*Students, faculty, and staff are finding it harder to keep everything together during the pandemic.*{:.image-caption}
 
 <span class="drop">T</span>he Student Association and Center for Digital Learning co-sponsored event held on March 18, 2021 has given all involved a lot to think about regarding the student experience during the pandemic, particularly as it relates to workload in their online courses. 
 
