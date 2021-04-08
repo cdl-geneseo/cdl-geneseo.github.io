@@ -119,4 +119,10 @@ For those who are burnt out on Zoom to the point where even one more half hour p
 
 ## The future of online learning at Geneseo
 
+Ultimately, it's our, and everyone's, hope that this will be the last pandemic learning experience for a long time.
+
+The being said, even when pandemic learning and instruction is over, the effects of this experience will be long-lasting in various ways. One of the most exciting effects, perhaps ironically, in this context, is this very newfound embrace of online learning at traditionally in-person exclusive schools like Geneseo. This was not something that Geneseo prioritized in its strategic plan up to this point, but now that that seal has been broken, so to speak, there is no going back, only forward.
+
+The CDL is thrilled to support instructors who are interested in continuing to teach online in Fall '21 through an experience currently being developed by Geneseo's talented team of [Instructional Designers](https://www.geneseo.edu/cit/instructional-design) we're calling the Online Teaching Institute (OTI). Instructors who go through this experience will be thoroughly familiarized with online teaching standards and best practices, as well as Geneseo's high expectations regarding online instruction. Not only is this OTI being designed and developed by our amazing instructional design team, but it's also being carefully reviewed by various other departments at Geneseo, including the [Office of Accessibility Serivces](https://www.geneseo.edu/accessibility-office), us at the [CDL](https://www.geneseo.edu/cdl), and the [Office of the Provost](https://www.geneseo.edu/provost), all with a keen eye on instructor success and what learning outcomes will most benefit their future students' experiences. 
+
 
