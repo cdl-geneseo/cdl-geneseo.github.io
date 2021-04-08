@@ -10,7 +10,7 @@ tags: ["online learning", "online pedagogy"]
 
 <span class="drop">T</span>he March 18 community conversation on student workload in online courses, co-sponsored by the Student Association and the Center for Digital Learning, gave all involved a lot to think about.
 
-The event invited students, staff, and faculty to talk candidly with each other about their experiences with and perspectives on student workload during "emergency remote" pandemic instruction. On social media, students throughout higher education, including those at Geneseo, were describing how burdened they feel. On this issue and others impacting students' mental, emotional, and, thereby, academic health, they were also insisting that *talking isn't enough*. Action was required. Soon.
+The event invited students, staff, and faculty to talk candidly with each other about their experiences with and perspectives on student workload during "emergency remote" pandemic instruction. On social media, students throughout higher education, including those at Geneseo, were describing how burdened they feel. On this issue and others impacting students' mental, emotional, academic health, they were also insisting that *talking isn't enough*. Action was required. Soon.
 
 At the same time, some faculty were describing their exhausting efforts to meet student needs and limitations while handling their own challenges, noting that it might be beyond their power to change some of the things frustrating their students.
 
@@ -23,8 +23,8 @@ As one office in a complex institution, the CDL can't effect institutional chang
 Our time together on March 18 was divided into three parts: 
 
 1. [An anonymous, collaborative slide deck](#slide-deck)
-1. [Annotating Jody Greene's "The Strange Case of the Exploding Student Workload"](#strange-case)
-1. [Breakout rooms with discussion questions and a collaborative note-taking document](#breakout-rooms)
+2. [Annotating Jody Greene's "The Strange Case of the Exploding Student Workload"](#strange-case)
+3. [Breakout rooms with discussion questions and a collaborative note-taking document](#breakout-rooms)
 
 <h2 id="slide-deck">An anonymous, collaborative slide deck</h2>
  
@@ -32,14 +32,13 @@ Facilitators provided a blank slide deck in Google slides asking "How are you fe
 
 Read through the [slides](https://docs.google.com/presentation/d/1fo4ANOcbeNZOeYs2a4k6CbplSlvyXpPk7EQLMJMN6zM/edit?usp=sharing).
 
-
 This session exposed a number of realities for both students and faculty.
 
 ### Students: Missing friends &hellip; and breaks
 
 Covid-19 has taken a toll on everyone's social life, but for college students it's extra impactful. Students shared that the precautions Geneseo and most universities have taken to protect everyone during the pandemic have exacerbated feelings of loneliness and isolation. Furthermore, students pointed out that repeated Zoom meetings and near-constant screen use have made it difficult to leave their rooms during the day and socialize in person even to the extent to which they are permitted.
 
-Additionally, while the college has implemented "rejuvenation days" in lieu of the conventional Thanksgiving or Spring breaks, students don't feel that they get a real opportunity to rejuvenate, as many are saddled with due dates immediately following. Students miss having an extended period of time to not think about their work and recharge. The same screen-time that keeps students from socializing with those in their bubbles is also a constant exposure to their work as they find themselves going from Zoom call to discussion board to assignment in one continuous flow.
+Additionally, while the college has implemented "rejuvenation days" in lieu of the conventional Thanksgiving or Spring break, students don't feel that they get a real opportunity to rejuvenate, as many are saddled with due dates immediately following. Students miss having an extended period of time to not think about their work and recharge. The same screen-time that keeps students from socializing with those in their bubbles is also a constant exposure to their work as they find themselves going from Zoom call to discussion board to assignment in one continuous flow.
 
 Some students single out discussion boards as one task in particular that overloads their to-do lists. Many students feel that requiring lengthy discussion board responses overlooks the time-consuming reality of that work. As one student put it: 
 
@@ -127,5 +126,3 @@ The said, even when pandemic learning and instruction are over, the effects of t
 One of the most exciting effects is a new embrace of online learning at Geneseo. There is clearly interest from both faculty and students in more, and better, opportunities for online instruction, with its potential to alleviate schedule conflicts and create more flexible paths to degree completion.
 
 The CDL is thrilled to support instructors who are interested in continuing to teach online in fall 2021 through this summer's Online Teaching Institute, under development by Geneseo's talented team of [Instructional Designers](https://www.geneseo.edu/cit/instructional-design). Faculty who complete the institute will craft fall online courses that meet Geneseo's high standards, based on decades of research in best practices. The instructional design team is collaborating with the [Office of Accessibility Services](https://www.geneseo.edu/accessibility-office), members of the [Office of the Provost](https://www.geneseo.edu/provost) focused on student academic success, and the [CDL](https://www.geneseo.edu/cdl) to make online learning at Geneseo the best possible experience for everyone involved. 
-
-
