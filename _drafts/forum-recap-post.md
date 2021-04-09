@@ -50,7 +50,7 @@ All-in-all, students are feeling run-down and overburdened, and they don't know 
 
 According to what students shared in the slides, a good deal of their anxiety is coming from feeling "lost" in their courses. Some students describe this as constantly worrying whether or not they're missing a deadline or not being able to locate the relevant materials instructors have shared in Canvas. Hand-in-hand with this issue is the fact that some students are struggling with either not not finding structure in their course's Canvas presence or not understanding the structure they find there. 
 
-Furthermore, there are students who stressed by the pressure of gathering information and "teaching" it to themselves rather than having the guidance of either a synchronous lecture or carefully crafted modules that purposefully present information. While video lectures can help, some students struggle to find time to watch those lectures on top of their other assignments.
+Furthermore, there are students stressed by the pressure of gathering information and "teaching" it to themselves rather than having the guidance of either a synchronous lecture or carefully crafted modules that purposefully present information. While video lectures can help, some students struggle to find time to watch those lectures on top of their other assignments.
 
 There is a common theme in these concerns: *organization*, both at the student and faculty level. Pandemic teaching and learning have asked both groups to change the way they structure work and communicate about it. As if this weren't difficult enough, in remote classes neither students and faculty find it challenging to build the empathetic, genuine relationships they know how to create in a shared physical space.
 
