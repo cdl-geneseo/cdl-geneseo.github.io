@@ -2,21 +2,21 @@
 title: "Burned out and bewildered: students respond to pandemic online teaching" 
 author: amanda
 categories: Perspectives
-tags: ["online learning", "online pedagogy"]
+tags: ["online learning", "online pedagogy", "covid-19"]
 ---
 
 ![Lego person broken apart](/images/lego.jpg)
 *Students, faculty, and staff are finding it harder to keep everything together during the pandemic.*{:.image-caption}
 
-<span class="drop">T</span>he March 18 community conversation on student workload in online courses, co-sponsored by the Student Association and the Center for Digital Learning, gave all involved a lot to think about.
+<span class="drop">T</span>he [March 18 community conversation](/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses) on student workload in online courses, co-sponsored by the Student Association and the Center for Digital Learning, gave all involved a lot to think about.
 
 The event invited students, staff, and faculty to talk candidly with each other about their experiences with and perspectives on student workload during "emergency remote" pandemic instruction. On social media, students throughout higher education, including those at Geneseo, were describing how burdened they feel. On this issue and others impacting students' mental, emotional, academic health, they were also insisting that *talking isn't enough*. Action was required. Soon.
+
+<!--more-->
 
 At the same time, some faculty were describing their exhausting efforts to meet student needs and limitations while handling their own challenges, noting that it might be beyond their power to change some of the things frustrating their students.
 
 With this context in mind, we set out to design a session for students to share their feelings and experiences in a welcoming environment. We invited faculty and staff to attend as well: to share, but mostly to listen. We wanted students to receive a hearing from open hearts and minds. And we wanted to come away with ideas for action.
-
-<!--more-->
 
 As one office in a complex institution, the CDL can't effect institutional change all by itself. But we want to do everything we can to help students where they're at *now*, hopefully in time to get them through the rest of what we anticipate to be their last semester of emergency pandemic learning. Fortunately, there are a few ways our center can help, as I'll explain below.
 
