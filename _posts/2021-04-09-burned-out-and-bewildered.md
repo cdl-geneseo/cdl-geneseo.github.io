@@ -1,5 +1,5 @@
 ---
-title: "Burned out and bewildered: students respond to pandemic online teaching" 
+title: "Burned out and bewildered: students respond to pandemic online learning" 
 author: amanda
 categories: Perspectives
 tags: ["online learning", "online pedagogy", "covid-19"]
