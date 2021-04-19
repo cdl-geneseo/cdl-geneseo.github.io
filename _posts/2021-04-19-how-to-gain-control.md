@@ -8,7 +8,7 @@ tags: ["online learning", "workshops"]
 ![Woman biting pencil stressfully while looking at laptop screen](/images/email.jpg)
 *Photo by <a href="https://unsplash.com/@jeshoots?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">JESHOOTS.COM</a> on <a href="https://unsplash.com/s/photos/email?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>*{:.image-caption}
 
-<span class="drop">I</span>n response to our [Conversation on Student Workload in Online Courses](https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses/), the CDL [made a commitment](/2021-04-09-burned-out-and-bewildered.md/#where-we-go) to provide the Geneseo student community with easily-consumable workshops and resources to make the remainder of their (hopefully) last semester of pandemic online learning even a little more mangageable. 
+<span class="drop">I</span>n response to our [Conversation on Student Workload in Online Courses](https://cdl-geneseo.github.io/news/2021/03/11/a-community-conversation-on-student-workload-in-online-courses/), the CDL [made a commitment](https://cdl-geneseo.github.io/perspectives/2021/04/09/burned-out-and-bewildered/#where-we-go) to provide the Geneseo student community with easily-consumable workshops and resources to make the remainder of their (hopefully) last semester of pandemic online learning even a little more mangageable. 
 
 Lucky for the CDL, we have productivity expert extraordinaire, [CIT](https://www.geneseo.edu/cit)'s Director for Education Technology and the [CDL](https://www.geneseo.edu/cdl)'s Assistant Director for Online Learning, Laurie Fox to run micro-workshops on efficiently managing all sorts of obligations in the form of to-do lists.
 
@@ -32,7 +32,7 @@ Below you'll find the recording of Laurie's fabulous presentation on "How to gai
 
 Hover your mouse over the video timeline to select the portion you'd like to jump to!
 
-<iframe src="https://www.youtube.com/watch?v=X3BuyHHzJkA" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowFullScreen="true"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3BuyHHzJkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Up next!
 
