@@ -101,7 +101,7 @@ Designated notetakers in each group added to a single collaborative [Google doc]
 
 Reading through this collaborative document, you'll find a common theme: students asking for *clarity*. This ask is a clear extension of the desire for organization and structure expressed earlier in the previous session activities. Students are concerned about not understanding their professors' expectations from the get-go. While it may seem like the answer to this concern would be to reach out to these professors, that may be a substantial barrier for students, and might not result in a prompt reply depending on the circumstances, thereby leaving students to rely solely on their assumptions.
 
-## Where we go from here
+## [Where we go from here](#where-we-go)
 
 It's no secret that we're approaching the end of this semester, which will, hopefully, be our last semester of pandemic-required online instruction and learning. The time is short to help students where they're at *now*. We've been working on some ideas designed to guide students to a successful end-of-semester as well as help them in their future learning, whether online or in person.
 
