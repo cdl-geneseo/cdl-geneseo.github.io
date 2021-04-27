@@ -4,8 +4,8 @@ author: paul
 categories: News
 tags: ["digital humanities"]
 ---
-![Collection of works on astronomy and astronomical instruments](/images/ms_or_285_openn.jpg)
-*Partial view of a manuscript page from a collection of works on astronomy and astronomical instruments in the [Columbia University Rare Book &amp; Manuscript Library](https://openn.library.upenn.edu/Data/0032/html/ms_or_285.html#a1r), dating to the late 17th or 18th century. Public domain.*{:.image-caption}
+![Partial page from Columbia University manuscript collection](/images/ms_or_285_openn.jpg)
+*Partial view of a manuscript page from a collection of works on astronomy and astronomical instruments in the [Columbia University Rare Book &amp; Manuscript Library](https://openn.library.upenn.edu/Data/0032/html/ms_or_285.html#a1r). The collection is part of the [Muslim World Manuscripts](https://openn.library.upenn.edu/html/muslimworld_contents.html) project, with which Geneseo history professor Mohammad Sadegh Ansari worked in preparing his doctoral dissertation on the science of music in the medieval Islamic world. Public domain. Learn more about Professor Ansari's work with this and other manuscripts in [this interview on the Columbia University Global Studies Blog](https://blogs.cul.columbia.edu/global-studies/2020/02/03/the-mwm-project-an-interview-with-sadegh-ansari-music-as-science-pythagoras-in-baghdad/)*{:.image-caption}
 
 <span style="drop">T</span>his fall, Geneseo Assistant Professor of History [Mohammad Sadegh Ansari](https://www.geneseo.edu/history/mohammad-sadegh-ansari) will offer a 4-credit course in digital humanities. The course, Digital Tools in History: Digital Humanities (HIST 303), will meet Tuesdays and Thursdays, 2:30 p.m. - 4:10 p.m. 
 
