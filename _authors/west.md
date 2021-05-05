@@ -1,0 +1,8 @@
+---
+short_name: karleen
+name: Karleen West
+position: CDL Faculty Affiliate
+---
+<img src="/images/west.png" alt="Karleen West" style="width:25%;float:left;padding-right:1.5em;" />
+
+**Karleen West**, Ph.D., is an Associate Professor in Political Science and International Relations. She specializes in Latin American politics, with an emphasis on comparative institutions, political representation, and the politics of sustainability. Her research has been funded by the National Science Foundation and the Latin American Public Opinion Project, and has been published in leading journals, including *Comparative Political Studies* and the *Latin American Research Review*. Her two books with Oxford University Press examine politics in Ecuador: [*Candidate Matters*](https://global.oup.com/academic/product/candidate-matters-9780190068844?lang=en&cc=us) and [*Who Speaks for Nature?*](https://www.amazon.com/Who-Speaks-Nature-Petro-State-Comparative/dp/0190908955/ref=sr_1_2?dchild=1&keywords=who+speaks+for+nature+eisenstadt&qid=1594144960&sr=8-2) (with Todd Eisenstadt). Her interests in digital learning include student-produced blogs, such as [Global Environmental Politics and COVID-19](https://wp.geneseo.edu/gepcovid19/); the open-access short documentary based on her research, [*Who Speaks for Nature? A Film by Larry Engel*](https://www.youtube.com/watch?v=PXEawtC_Kj8&feature=youtu.be); and [Digital Open Modules on Environmental Sustainability (DOMES)](https://knightscholar.geneseo.edu/sustainability-curriculum/) (with Suann Yang), an open educational resource that enables teaching about sustainability across the college curriculum.

@@ -1,12 +1,35 @@
 Paul Schacht:
   name: Paul Schacht
+  role: CDL Director
   github: whatthedickens
   author-page: /authors/schacht
 Amanda Wentworth:
   name: Amanda Wentworth
+  role: CDL Digital Humanities and Learning Coordinator
   github: ajeannette
   author-page: /authors/wentworth
 Karleen West:
   name: Karleen West
+  role: CDL Faculty Affiliate
   github:
   author-page: /authors/west
+Emma Raupp:
+  name: Emma Raupp
+  role: CDL Student Affiliate
+  github: emr13
+  author-page: /authors/raupp
+Abigail Henry:
+  name: Abigail Henry
+  role: CDL Student Affiliate
+  github: abigailhenry
+  author-page: /authors/henry
+Mariah Branch:
+  name: Mariah Branch
+  role: CDL Student Affiliate
+  github: marbranch
+  author-page: /authors/branch
+Laurie Fox:
+  name: Laurie Fox
+  role: CDL Assistant Director of Digital Learning
+  github: 
+  author-page: /authors/fox

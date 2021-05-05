@@ -6,17 +6,40 @@ url:                 https://cdl-geneseo.github.io
 baseurl:             ''
 paginate:            5
 permalink:           pretty
+excerpt_separator: <!--more-->
 
 # About/contact
 author:
-  name:              Center for Digital Learning
+  name:              'Center for Digital Learning'
   url:               https://www.geneseo.edu
   email:             cdl@geneseo.edu
 
 # Gems
 plugins:
   - jekyll-paginate
+  - jemoji
 
 # Custom vars
 version:             1.1.0
 google_analytics_id: #UA-XXXX-Y
+
+# Authors
+collections:
+  authors:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "authors"
+    values:
+      layout: "author"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"

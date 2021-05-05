@@ -11,13 +11,35 @@ title: Home
         {{ post.title }}
       </a>
     </h1>
-  <span class="post-date">{{ post.date | date_to_string }}</span>
-  <span class="post-author">by<a rel="author"
-    href="{{ site.baseurl}}{{ post.bio }}"
-    title="{{ post.author }}">
-      {{ post.author }}</a></span>
-    {{ post.content }}
-  </div>
+  <p>
+    <span class="post-date">{{ post.date | date_to_string }}</span>
+    {% assign author = site.authors | where: 'short_name', post.author | first %}
+    {% if author %}
+      <span class="post-author" style="padding-top:.5em;">by <a href="{{ author.url }}">{{ author.name }}</a>, {{author.position}}</span>
+    {% endif %}
+    {% if post %}
+    {% assign categories = post.categories %}
+  {% else %}
+    {% assign categories = page.categories %}
+  {% endif %}
+  {% for category in categories %}
+  <span style="font-family: 'PT Sans', Helvetica, Arial, sans-serif;font-weight:bold;">Labels:</span>&nbsp;&nbsp;<span class="post-category" style="margin-right: .8rem;"><a style="color:#00a700;" href="{{site.baseurl}}/labels/#{{category|slugize}}">{{category}}</a></span>
+  {% unless forloop.last %}&nbsp;{% endunless %}
+  {% endfor %}
+  {% if post %}
+      {% assign tags = post.tags %}
+    {% else %}
+      {% assign tags = page.tags %}
+    {% endif %}
+    {% for tag in tags %}
+    <span class="post-tag"><a href="{{site.baseurl}}/labels#tags">{{tag}}</a></span>
+    {% unless forloop.last %}&nbsp;{% endunless %}
+    {% endfor %}
+  </p>
+    {{ post.excerpt }}
+  <p><a href="{{ post.url | absolute_url }}">
+      Read more &hellip;</a></p>
+</div>
   {% endfor %}
 </div>
 

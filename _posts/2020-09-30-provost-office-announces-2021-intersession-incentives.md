@@ -1,16 +1,19 @@
 ---
 layout: post
 title: Provost Office Announces Faculty Incentives for Intersession 2021
-author: Paul Schacht
-bio: /authors/schacht
+author: paul
+categories: News
+tags: ["online learning"]
 ---
 
 ![Sketch of a megaphone](/images/megaphone.jpg)
 *Megaphone, by Flickr user Jeff Ferzoco, CC BY-NC 2.0*{:.image-caption}
 
-The Office of the Provost is excited to offer a new round of faculty [incentives for Intersession 2021](https://forms.gle/zxuRPPuTEoiEtJ2JA).
+<span class="drop">T</span>he Office of the Provost is excited to offer a new round of faculty [incentives for Intersession 2021](https://forms.gle/zxuRPPuTEoiEtJ2JA).
 
 Before planning to take advantage of one of these incentives, please be sure to check with your department chair or dean about any courses you intend to teach. Remember that department chairs and deans, not individual faculty, submit courses for inclusion in the intersession schedule.
+
+<!--more-->
 
 Intersession 2021 will run for four weeks (January 4-29) rather than the usual three.
 
