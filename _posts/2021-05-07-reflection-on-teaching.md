@@ -1,5 +1,5 @@
 ---
-title: "Reflection on teaching: COVID-19 and beyond" 
+title: "Reflection on teaching: Covid-19 and beyond" 
 author: amanda
 categories: News
 tags: ["workshops", "online learning", "online pedagogy", "covid-19"]
