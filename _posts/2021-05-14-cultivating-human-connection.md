@@ -1,15 +1,15 @@
 ---
 title: Cultivating human connection in online learning
-author: 
+author: abby
 categories: Perspectives
 tags: ["online learning"]
 ---
-<span style="color:#365090;">*by [Abby Henry](/authors/henry) and [Emma Raupp](/authors/raupp), CDL Student Affiliates*</span>
+<span style="color:#365090;">*Note: This post was co-authored by [Abby Henry](/authors/henry) and CDL Student Affiliate [Emma Raupp](/authors/raupp)*</span>
 
 ![Laptop and cup of coffee](/images/laptop.jpg)
 *Photo by <a href="https://unsplash.com/@cwmonty">Chris Montgomery</a> on <a href="https://unsplash.com/s/photos/online-learning">Unsplash</a>*{:.image-caption}
 
-As digital classrooms became the "new normal" in lieu of physical classrooms during the pandemic, many social aspects of learning took a hit. Without in-person meetings, many students came to feel isolated from their peers and instructors. Feeling disconnected from a shared learning environment lowers our motivation to participate and keeping up with coursework quickly becomes a struggle. There are many factors in this widespread sense of burn-out — a decline in mental health, political stressors, and family crises are just a few that come to mind — but one factor with a feasible solution is the lack of genuine human connection in digital learning environments. We don't want students to feel alone if they're struggling, but the unfortunate reality is that they often do. One solution to this problem is fostering a stronger human connection between instructors and students, in the hope of creating a more supportive digital learning community. 
+<span class="drop">A</span>s digital classrooms became the "new normal" in lieu of physical classrooms during the pandemic, many social aspects of learning took a hit. Without in-person meetings, many students came to feel isolated from their peers and instructors. Feeling disconnected from a shared learning environment lowers our motivation to participate and keeping up with coursework quickly becomes a struggle. There are many factors in this widespread sense of burn-out — a decline in mental health, political stressors, and family crises are just a few that come to mind — but one factor with a feasible solution is the lack of genuine human connection in digital learning environments. We don't want students to feel alone if they're struggling, but the unfortunate reality is that they often do. One solution to this problem is fostering a stronger human connection between instructors and students, in the hope of creating a more supportive digital learning community. 
 
 <!--more-->
 
