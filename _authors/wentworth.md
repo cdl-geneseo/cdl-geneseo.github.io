@@ -1,6 +1,6 @@
 ---
 short_name: amanda
-name: Amanda Wentworth
+name: Amanda Wentworth Schmidt
 position: CDL Digital Humanities and Learning Coordinator
 ---
 
