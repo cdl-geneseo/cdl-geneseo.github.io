@@ -6,6 +6,7 @@ tags:
 ---
 
 ![Graphic of the CDL squirrel wearing a birthday hat in front of a piece of cake.](/images/birthday1.png)
+
 *Happy first birthday to us!*{:.image-caption}
 
 <span class="drop">W</span>here has the time gone? 
