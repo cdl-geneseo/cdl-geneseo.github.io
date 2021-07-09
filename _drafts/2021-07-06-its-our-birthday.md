@@ -15,11 +15,6 @@ This week marks the CDL's first year of existence. In this time, we sought to de
 
 <!--more-->
 
-We have lots of plans as we look forward toward our second year. Overall, we're looking foward to moving past the "pandemic mode" that we operated in for much of our first year. We learned a lot from this work as a center, and we're eager both to continue supporting the structures that we helped put in place during this time and to build on these services in an increasingly in-person capacity. 
-
-Stick with us this semester to see the cool things we have in store! :sunglasses: 
+We have lots of plans for the year ahead. Overall, we're looking foward to moving past the "pandemic mode" that we operated in for much of our first year. We learned a lot from this work, and we're eager both to continue supporting the structures that we helped put in place during this time and to build on these services in an increasingly in-person capacity. But the pandemic also forced us to put a few exciting ideas on the shelf for a bit, and we're more than ready to get back to work on them. Stick with us this semester to see the cool things we have in store! :sunglasses: 
 
 And have a treat to celebrate our birthday &hellip; maybe you can stop by in person for next year's celebration! :birthday:
-
-<!-- Some involve continuing what we've been working on up to this point, such as writing and publishing blog posts here and leading workshops for staff, faculty, and students. -->
-
