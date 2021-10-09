@@ -14,7 +14,7 @@ tags: ["digital humanities", "python", "women"]
 *Registration required*
 
 - **12:00 p.m.: Prof. Lytton Smith (English/CIL), Python Poetry**. This hands-on, one-hour Zoom workshop will use [Trinket.io](https://trinket.io/) to introduce you to the basics of code-inspired poetry. You'll learn about some of the exciting writers producing digital poetry today, generate two poems of your own, and think about how the poetics of code can also help your offline writing. No knowledge of code required! [Register now.](https://geneseo.zoom.us/meeting/register/tZIqfuCgrTkjHdat9ckldEoY88XyNL7nQjd-)
-- **1:30 p.m.: Prof. Anne Pellerin (Physics)**: Women in Astronomy. Prof. Pellerin will give a half-hour Zoom presentation on the important contributions women have made to the field of astronomy, with time afterwards for questions and discussion. [Register now.](https://geneseo.zoom.us/meeting/register/tZwucO2gpzwuHtK1-KjqGK-nRPI61tADweFY)
+- **1:30 p.m.: Prof. Anne Pellerin (Physics), Women in Astronomy**. Prof. Pellerin will give a half-hour Zoom presentation on the important contributions women have made to the field of astronomy, with time afterwards for questions and discussion. [Register now.](https://geneseo.zoom.us/meeting/register/tZwucO2gpzwuHtK1-KjqGK-nRPI61tADweFY)
 
 <!--more-->
 
