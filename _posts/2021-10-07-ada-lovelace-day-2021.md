@@ -7,7 +7,7 @@ tags: ["digital humanities", "python", "women"]
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/713px-Ada_Lovelace_portrait.jpg" width="700" alt="Portrait of Ada Lovelace" />
 *Portrait of Ada Lovelace by [Alfred Edward Chalon](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg), Public domain, via Wikimedia Commons*{:.image-caption}.
 
-<span style="drop">T</span>he Center for Digital Learning invites you to join in Geneseo's first-ever celebration of Ada Lovelace Day on Tuesday, October 12. To help us mark the occasion, **Prof. Anne Pellerin (Physics)** will give a Zoom presentation on the important contributions of women to the field of astronomy, and **Prof. Lytton Smith (English)** will run a hands-on Zoom workshop on writing poetry with Python. We want to make ALD a regular Geneseo thing, and you can be sure that we'll be coming to you for help in planning future celebrations!
+<span style="drop">T</span>he Center for Digital Learning invites you to join in our first-ever celebration of Ada Lovelace Day on Tuesday, October 12. To help us mark the occasion, **Prof. Anne Pellerin (Physics)** will give a Zoom presentation on the important contributions of women to the field of astronomy, and **Prof. Lytton Smith (English)** will run a hands-on Zoom workshop on writing poetry with Python. We want to make ALD a regular Geneseo thing, and you can be sure that we'll be coming to you for help in planning future celebrations!
 
 ## Geneseo Ada Lovelace Day 2021
 
@@ -33,7 +33,7 @@ In her selection of Lovelace's letters, [*Ada, The Enchantress of Numbers: Poeti
 > Imagination is the <span style="text-decoration:underline;">Discovering</span> Faculty, pre-eminently. It is that which penetrates into the unseen worlds around us, the worlds of Science. &hellip;
 > Mathematical Science shows what <span style="text-decoration:underline;">is</span>. It is the language of unseen relations between things. But to use &amp; apply that language we must be able fully to appreciate, to feel, to seize, the unseen, the unconscious. Imagination too shows what <span style="text-decoration:underline;">is</span>, the <span style="text-decoration:underline;">is</span> beyoned the senses. Hence she is or should be especially cultivated by the truly Scientific, — those who wish to enter into the worlds around us!
 
-In the spirit of Ada Lovelace's interdisciplinary perspective, our celebration of Ada Lovelace Day at Geneseo will highlight not only the achievements of women in STEM but also the ways in which the methods and insights of STEM fields and those of the arts and humanities inform each other — or, at least, ought to.
+In the spirit of Ada Lovelace's interdisciplinary perspective, the CDL's celebration of Ada Lovelace Day will highlight not only the achievements of women in STEM but also the ways in which the methods and insights of STEM fields and those of the arts and humanities inform each other — or, at least, ought to.
  
 
 
