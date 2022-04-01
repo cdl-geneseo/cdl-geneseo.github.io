@@ -7,7 +7,7 @@ tags: ["digital humanities", "python", "women"]
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Ada_Lovelace_portrait.jpg/713px-Ada_Lovelace_portrait.jpg" width="700" alt="Portrait of Ada Lovelace" />
 *Portrait of Ada Lovelace by [Alfred Edward Chalon](https://commons.wikimedia.org/wiki/File:Ada_Lovelace_portrait.jpg), Public domain, via Wikimedia Commons*{:.image-caption}.
 
-<span style="drop">T</span>he Center for Digital Learning invites you to join in our first-ever celebration of Ada Lovelace Day on Tuesday, October 12. To help us mark the occasion, **Prof. Anne Pellerin (Physics)** will give a Zoom presentation on the important contributions of women to the field of astronomy, and **Prof. Lytton Smith (English)** will run a hands-on Zoom workshop on writing poetry with Python. We want to make ALD a regular Geneseo thing, and you can be sure that we'll be coming to you for help in planning future celebrations!
+<span class="drop">T</span>he Center for Digital Learning invites you to join in our first-ever celebration of Ada Lovelace Day on Tuesday, October 12. To help us mark the occasion, **Prof. Anne Pellerin (Physics)** will give a Zoom presentation on the important contributions of women to the field of astronomy, and **Prof. Lytton Smith (English)** will run a hands-on Zoom workshop on writing poetry with Python. We want to make ALD a regular Geneseo thing, and you can be sure that we'll be coming to you for help in planning future celebrations!
 
 ## Geneseo Ada Lovelace Day 2021
 

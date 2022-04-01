@@ -6,9 +6,9 @@ tags: ["encryption", "cryptocurrency", "security", "privacy"]
 ---
 ![Tales from the Crypto series poster](/images/tales-from-the-crypto.png)
 
-*Tales from the Crypto series poster*{:.image-caption}
+*Tales from the Crypto series poster by Amanda Schmidt*{:.image-caption}
 
-<span style="drop">C</span>ryptocurrency, ledgers, digital wallets, NFTs: Suddenly they're everywhere. But for many of us, these terms and the technologies they stand for remain ciphers, shrouded in mystery. How do they work, and how are they affecting our world?
+<span class="drop">C</span>ryptocurrency, ledgers, digital wallets, NFTs: Suddenly they're everywhere. But for many of us, these terms and the technologies they stand for remain ciphers, shrouded in mystery. How do they work, and how are they affecting our world?
 
 To help you penetrate the fog, the Center for Digital Learning is bringing together SUNY Geneseo faculty experts from multiple disciplines for two virtual sessions. Each will leave time for Q&A and discussion. Registration required.
 
