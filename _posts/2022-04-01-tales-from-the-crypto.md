@@ -14,7 +14,7 @@ To help you penetrate the fog, the Center for Digital Learning is bringing toget
 
 <!--more-->
 
-## Presenting&hellip;*Tales from the Crypto*:
+## Presenting&hellip;*Tales from the Crypto*
 
 Tale I (April 8, 2:30 p.m.): "The Thing From the Blockchain!" A spinetingling introduction to blockchain, cryptographic authentication, and other technologies that have brought cryptocurrency to life, related by Prof. Doug Baldwin (Mathematics).
 
