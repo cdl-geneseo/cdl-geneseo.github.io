@@ -16,8 +16,8 @@ To help you penetrate the fog, the Center for Digital Learning is bringing toget
 
 ## Presenting&hellip;*Tales from the Crypto*
 
-Tale I (April 8, 2:30 p.m.): "The Thing From the Blockchain!" A spinetingling introduction to blockchain, cryptographic authentication, and other technologies that have brought cryptocurrency to life, related by Prof. Doug Baldwin (Mathematics).
+Tale I (April 8, 2:30 p.m.): ["The Thing From the Blockchain!"](https://events.geneseo.edu/event/tales_from_the_crypto_the_thing_from_the_blockchain) A spinetingling introduction to blockchain, cryptographic authentication, and other technologies that have brought cryptocurrency to life, related by Prof. Doug Baldwin (Mathematics).
 
-Tale II (April 13, 2:30 p.m.): "This Won’t Hurt a Bit!" A roundtable discussion on how the specter of cryptocurrency is haunting the financial world, politics, and the environment, featuring Profs. Karleen West (Political Science and International Relations), Chinmay Jain (School of Business), and Andrew Hart (Political Science and International Relations).
+Tale II (April 13, 2:30 p.m.): ["This Won’t Hurt a Bit!"](https://events.geneseo.edu/event/tales_from_the_crypto_the_thing_from_the_blockchain) A roundtable discussion on how the specter of cryptocurrency is haunting the financial world, politics, and the environment, featuring Profs. Karleen West (Political Science and International Relations), Chinmay Jain (School of Business), and Andrew Hart (Political Science and International Relations).
 
-Questions? Please contact [cdl@geneseo.edu](mailto:cdl@geneseo.edu).
+Questions? Drop us a line at [cdl@geneseo.edu](mailto:cdl@geneseo.edu).
