@@ -10,7 +10,7 @@ tags: ["digital humanities", "black history month"]
 
 <span class="drop">T</span>his February 14, as part of Black History Month, SUNY Geneseo will participate for the first time in [Douglass Day](https://douglassday.org/), a global annual event intended to [create communal spaces for remembering and preserving Black history with Black communities](https://douglassday.org/about/principles/) in ways that promote critical reflection and joy.
 
-*Please join the SUNY Geneseo Center for Digital Learning, Center for Integrative Learning, and Teaching and Learning Center of February 14 as we celebrate Douglass Day in the **College Union Hunt Room from 12 p.m. to 3 p.m.***, watching the organizers' live stream together and participating in this year's Douglass Day transcribe-a-thon. 
+*Please join the SUNY Geneseo Center for Digital Learning, Center for Integrative Learning, and Teaching and Learning Center on **February 14** as we celebrate Douglass Day in the **College Union Hunt Room from 12 p.m. to 3 p.m.***&mdash;watching the organizers' live stream together and participating in this year's Douglass Day transcribe-a-thon. 
 
 You'll find more information about the event on Geneseo's [local Douglass Day website](https://cdl-geneseo.github.io/douglass-day). But, you may already be asking yourself, "What is a transcribe-a-thon?"
 
