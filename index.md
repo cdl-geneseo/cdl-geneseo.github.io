@@ -27,7 +27,7 @@ features:
 
   - title: "Collaborate"
     image: "/assets/images/headers/douglass-day.jpg"
-    text: "We host events, like Geneseo's yearly Douglass Day celebration, that give community members an opportunity to use their digital skills to contribute to the public good."
+    text: "We host events, like Geneseo’s yearly Douglass Day celebration, that give community members an opportunity to put their digital skills to work for the public good."
     link: "/collaborate"
     link-text: "Learn more"
     more:
@@ -39,7 +39,7 @@ features:
   - title: "Explore"
     image: "/assets/images/headers/life-in-plain-text.jpg"
     filter: "woodcut"
-    text: "We create resources that you can use yourself or share with others to promote thoughtful and effective use of digital technology in service of Geneseo's core values."
+    text: "We create resources that you can use yourself or share with others to promote thoughtful and effective use of digital technology that advances Geneseo’s values: learning, creativity, belonging, civic engagement, and sustainability."
     link: "/explore"
     link-text: "Learn more"
     zoom: 110%
