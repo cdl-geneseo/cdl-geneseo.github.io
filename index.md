@@ -1,10 +1,8 @@
 ---
-title: SUNY Geneseo Center for Digital Learning
+title: Home
 layout: base
-description: "Amaranth is UNM's Digital Humanities Studio: a research and teaching space for AI-assisted humanities inquiry, public scholarship, community collaboration, and classroom digital literacy."
+description: "SUNY Geneseo Center for Digital Learning."
 header-image: /assets/images/headers/power_ekelund.jpg
-# https://www.flickr.com/photos/marcus-e/9525492664/in/photolist-fvJD79-eEt3K-2jwye27-8z2dyz-549UNr-4b6tsr-eNgmi-2jZeGnj-2o1g3LL-6ftKi8-2kTVTRk-4AttVx-a5URmr-4Wvaz2-2o73JQ3-2pFd1Bh-2pjXTJN-2qr7pMV-G1PJ4y-73PGh-fxLWTB-Ls5ZR-2p35bBM-phhX6N-d5uAM9-4Zdp19-fQgpGM-2jnAAxy-2onK9TB-a9ZJG-23JerwP-85Yh3X-267UiS-4YRKNi-VtptHQ-9sGYFG-5Fq3MC-bpQEUp-Zq1BT-H5Ca9Z-2qofBbu-XgCoof-c2Kh4U-7siQHN-2n5JKdY-kabRYA-8uRady-9pAQB-2mnTw2D-9jrcP
-# https://www.flickr.com/photos/mag3737/2514168670/in/ Marcus Ekelund photolist-4QaLKG-2naAF6b-255ug-zTaeN-2rGaR-2qxfCwu-2pPUq9P-fvJD79-eEt3K-2jwye27-8z2dyz-549UNr-4b6tsr-eNgmi-2jZeGnj-2o1g3LL-6ftKi8-2kTVTRk-4AttVx-a5URmr-4Wvaz2-2o73JQ3-2pFd1Bh-2pjXTJN-2qr7pMV-G1PJ4y-73PGh-fxLWTB-Ls5ZR-2p35bBM-phhX6N-d5uAM9-4Zdp19-fQgpGM-2jnAAxy-2onK9TB-a9ZJG-23JerwP-85Yh3X-267UiS-4YRKNi-VtptHQ-9sGYFG-5Fq3MC-bpQEUp-Zq1BT-H5Ca9Z-2qofBbu-XgCoof-c2Kh4U Tom Magliery
 header-filter: photo
 header-height: 100vh
 header-eyebrow: "Power Up"
