@@ -8,7 +8,7 @@ header-height: 100vh
 header-eyebrow: "Power Up"
 header-title: Center for Digital Learning
 nav-below-hero: false
-date: 2024-12-02
+date: 2026-10-19
 features:
 
   - title: "Create"
