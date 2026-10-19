@@ -27,7 +27,7 @@ features:
 
   - title: "Collaborate"
     image: "/assets/images/headers/douglass-day.jpg"
-    text: "We host events, like Geneseo’s yearly Douglass Day celebration, that give community members an opportunity to put their digital skills to work for the public good."
+    text: "We host events that give community members an opportunity to put their digital skills to work for the public good — like Douglass Day, a yearly celebration of Black history and culture focused on transcribing digitized archival documents."
     link: "/collaborate"
     link-text: "Learn more"
     more:
