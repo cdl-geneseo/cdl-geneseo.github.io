@@ -1,0 +1,278 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+
+  <title>Collaborate // SUNY Geneseo Center for Digital Learning</title>
+
+  <meta name="description" content="The heart of our mission is collaboration.">
+  <meta name="author" content="Paul Schacht">
+  <link rel="icon" href="/favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+
+  <!-- Canonical URL -->
+  <link rel="canonical" href="http://localhost:4000/collaborate.html">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Collaborate">
+  <meta property="og:description" content="The heart of our mission is collaboration.">
+  <meta property="og:url" content="http://localhost:4000/collaborate.html">
+  <meta property="og:site_name" content="SUNY Geneseo Center for Digital Learning">
+  <meta property="og:type" content="website">
+  
+  <meta property="og:image" content="http://localhost:4000/assets/images/headers/douglass-day.jpg">
+  
+
+  <!-- Twitter/X Card -->
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Collaborate">
+  <meta name="twitter:description" content="The heart of our mission is collaboration.">
+  
+  <meta name="twitter:image" content="http://localhost:4000/assets/images/headers/douglass-day.jpg">
+  
+
+  <!-- Structured Data (JSON-LD) -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "EducationalOrganization",
+    "name": "Amaranth Digital Humanities Studio",
+    "alternateName": "Amaranth",
+    "url": "http://localhost:4000",
+    "description": "Power up",
+    "parentOrganization": {
+      "@type": "CollegeOrUniversity",
+      "name": "University of New Mexico",
+      "url": "https://www.unm.edu"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "Mesa Vista Hall",
+      "addressLocality": "Albuquerque",
+      "addressRegion": "NM",
+      "postalCode": "87131",
+      "addressCountry": "US"
+    },
+    "sameAs": [
+      "https://github.com/amaranth-unm"
+    ]
+  }
+  </script>
+
+  
+
+  <!-- juxtapose.js CSS -->
+  <link rel="stylesheet" href="https://cdn.knightlab.com/libs/juxtapose/latest/css/juxtapose.css">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Inter:wght@300;400;500;600&family=IM+Fell+English:ital@0;1&family=Space+Mono:wght@400;700&family=DM+Sans:wght@300;400;500&family=Oswald:wght@400;500;600;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Asimovian&display=swap" rel="stylesheet">
+
+  <!-- Bootstrap CSS -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-SgOJa3DmI69IUzQ2PVdRZhwQ+dy64/BUtbMJw1MZ8t5HZApcHrRKUc4W0kG879m7" crossorigin="anonymous">
+
+  <!-- littlefoot CSS: footnotes as popups (same library as Xanthan; styled in amaranth-unm.css) -->
+  <link rel="stylesheet" href="https://unpkg.com/littlefoot@4.1.4/dist/littlefoot.css">
+
+  <!-- default CSS-->
+  <link href="/assets/css/backgrounds.css" rel="stylesheet">
+  <link href="/assets/css/amaranth-unm.css" rel="stylesheet">
+  
+  <!-- if the YAML has a css parameter, load the file specified -->
+  
+
+
+</head>
+
+  <body>
+
+    
+      <nav class="navbar navbar-expand-lg">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/"><span>SUNY Geneseo CDL</span></a>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
+        
+
+        <!-- <li class="nav-item">
+          <a class="nav-link" href="/collaborate">Collaborate</a>
+        </li> -->
+      </ul>
+      <!-- Workshop Mode Toggle (only visible on guide pages) -->
+      
+    </div>
+  </div>
+</nav>
+
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+
+      <!--
+  Unified header system — three tiers, four filter modes.
+  Activated automatically whenever a page has header-image in front matter.
+
+  Parameters:
+    tier:        hero | section | banner (default: hero)
+                 Heights set in CSS: hero 100vh, section 45vh, banner 22vh
+
+    filter:      botanical | sketch | woodcut | etching | photo (default: photo)
+                 botanical = line-art engravings on white bg (invert + red tint + screen blend)
+                             requires: dark lines on white or near-white background
+                 sketch    = thin/faint line drawings on white bg — like botanical but adds
+                             contrast() pre-boost to darken faint lines before inverting, so
+                             they emerge as vivid red rather than dim. Use when botanical
+                             produces lines that are barely visible.
+                 woodcut   = historical images with natural color preserved
+                             slight darken only, no color transformation; use for color
+                             manuscripts, illuminations, woodcuts with their own color
+                 etching   = color photos → high-contrast silhouette + red tint
+                             NOTE: produces bold shapes, not fine lines — different aesthetic
+                             from botanical/woodcut; for photos needing line-art look, pre-
+                             process the image and use botanical instead
+                 photo     = color photos kept photographic (darkened, slight desaturate)
+
+    image-path:  background image path
+    bg-position: CSS background-position (default: center right)
+                 e.g. "left center", "80% 50%", "center top"
+    bg-opacity:  override CSS opacity (0–1). Defaults: hero 0.28, section 0.18, banner 0.10
+    zoom:        zoom level as a percentage (default: cover). e.g. "150%" zooms in
+                 showing less of the image but larger; "200%" shows half the image
+                 at 2x size. Combine with bg-position to frame the subject.
+    title:       page title (shown in all tiers)
+    eyebrow:     small caps line above title (hero only)
+    divider:     text between decorative lines (hero only)
+    subtitle:    paragraph below title (hero only)
+    height:      override CSS default height (e.g. "60vh")
+-->
+
+
+
+
+
+
+
+<div class="header-studio header-studio--section">
+  
+  <div class="header-studio-bg header-studio-bg--photo" style="background-image: url('/assets/images/headers/douglass-day.jpg'); background-position: center right;"></div>
+  
+  
+  <div class="header-studio-grid"></div>
+  <div class="header-studio-bar"></div>
+  
+  <div class="header-studio-caption">
+    Douglass Day 2024 in the College Union Ballroom<a href="https://cdl-geneseo.github.io/douglass-day" target="_blank" rel="noopener" aria-label="Image source">↗</a>
+  </div>
+  
+  <div class="header-studio-content">
+    
+      
+      <h1>Collaborate</h1>
+      
+    
+  </div>
+</div>
+
+
+    
+
+    
+
+    <div class="container">
+      <h1 id="the-heart-of-our-mission-is-collaboration">The heart of our mission is collaboration</h1>
+
+<p>We bring people together for events like <a href="https://douglassday.org">Douglass Day</a>, an international celebration of Black history and activism occurring yearly on or near February 14, the date that Frederick Douglass chose to celebrate as his birthday. Geneseo students, faculty, and staff join a live stream hosted by the Douglass Day organizers at the <a href="https://digblk.psu.edu/">Center for Black Digital Research at Penn State</a> and elsewhere, and they participate in collaborative transcription of digitized documents important to Black history and culture. See our <a href="https://cdl-geneseo.github.io/douglass-day">local Douglass Day site</a> for photos, videos, and other documentation of our yearly participation in this event.</p>
+
+<p>We’ve also brought people together for <a href="https://findingada.com">Ada Lovelace Day</a>, a yearly international celebration of women in STEM that we’ve also treated locally as a celebration of connections between the natural sciences and the arts and humanities. Ada Lovelace, the nineteenth-century mathematician widely regarded as a pioneer in the thinking that led to the development of digital computing, was the daughter of British romantic poet George Gordon, Lord Byron.</p>
+
+<p>The CDL’s own work is highly collaborative. To help advance digital learning, pedagogy, and scholarship, we work together with instructional designers and programmers in the department of Computing and Information Technology (CIT) and with our colleagues in Milne Library, the Teaching and Learning Center, the Center for Integrative Learning, the Office of Accessibility Services, the Office of Multicultural Affairs, and the Career Design Center.</p>
+
+<p>The CDL contributes to and occasionally leads efforts to develop institutional guidance with respect to campus technology, whether in areas like <a href="https://cdl-geneseo.github.io/instructional-modes/">online learning</a> or <a href="https://cdl-geneseo.github.io/ai-statement/">artificial intelligence</a>.</p>
+
+<p>The CDL director is a member of Geneseo’s newly formed <a href="https://www.geneseo.edu/workforce-development/">workforce development</a> team, which advances the college’s equity-centered liberal arts mission through career education and community partnerships.</p>
+
+
+    </div> <!-- /main -->
+
+    <!-- JavaScript
+  ================================================== -->
+  <script src="https://use.fontawesome.com/a1660defb1.js"></script>
+
+  <!-- <script src="https://code.jquery.com/jquery-3.7.1.slim.min.js" integrity="sha256-kmHvs0B+OpCW5GVHUNjv9rOmY0IvSIRcf7zGUDTDQM8=" crossorigin="anonymous"></script> -->
+   
+  <script src="https://cdn.knightlab.com/libs/juxtapose/latest/js/juxtapose.min.js"></script>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.5/dist/js/bootstrap.bundle.min.js" integrity="sha384-k6d4wzSIapyDyv1kpU366/PK5hCdSbCRGRCMv+eplOQJWyd1fbcAu9OCUj5zNLiq" crossorigin="anonymous"></script>
+
+  <!-- littlefoot: turns markdown footnotes ([^label]) into popups.
+       Same setup as Xanthan, plus hover to open on desktop. -->
+  <script src="https://unpkg.com/littlefoot@4.1.4/dist/littlefoot.js" type="application/javascript"></script>
+  <script type="application/javascript">
+    littlefoot.littlefoot({
+      activateOnHover: true,
+      dismissOnUnhover: true,
+      buttonTemplate: '<button aria-label="Footnote <%= number %>" class="littlefoot__button"><%= number %></button>'
+    });
+  </script>
+  <script type="text/javascript">
+  const myCarouselElement = document.querySelector('#carouselExample')
+
+  const carousel = new bootstrap.Carousel(myCarouselElement, {
+    interval: 20000,
+    touch: false
+  })
+</script>
+
+
+
+    <footer class="site-footer bg-dark text-light py-5 mt-5">
+  <div class="container">
+    <div class="row row-cols-2 row-cols-md-5 g-4">
+
+      
+
+    </div>
+
+    <hr class="my-4" style="width: 0px;">
+
+<div class="footer-bottom">
+      <div class="footer-bottom-brand">
+        <span class="footer-brand"><a href="https://geneseo.edu" style="color:var(--geneseo-light-blue);text-decoration: none;">SUNY Geneseo</a></span>
+        <span class="footer-sep">|</span>
+        <span>New York&rsquo;s public honors college</span>
+        <!-- <span class="footer-sep">·</span> -->
+        <!-- <span>Made with <span style="color: var(--unm-cherry)">&hearts;</span> in ABQ</span> -->
+      </div>
+      <div class="footer-bottom-contact">
+        <!-- <a href="mailto:amaranth@unm.edu">amaranth@unm.edu</a> -->
+        <!-- <span class="footer-sep">·</span> -->
+        <!-- <span>Mesa Vista Hall, Room 2068 · University of New Mexico</span> -->
+        <span>This site built with Jekyll using a theme generously shared by <a href="https://amaranth.unm.edu/" style="color:var(--unm-cherry)">Amaranth Studio</a> at the University of New Mexico.</span><br />
+        <span>Home page cover photo: <a href="https://www.flickr.com/photos/marcus-e/9525492664/in/photolist-fvJD79-eEt3K-2jwye27-8z2dyz-549UNr-4b6tsr-eNgmi-2jZeGnj-2o1g3LL-6ftKi8-2kTVTRk-4AttVx-a5URmr-4Wvaz2-2o73JQ3-2pFd1Bh-2pjXTJN-2qr7pMV-G1PJ4y-73PGh-fxLWTB-Ls5ZR-2p35bBM-phhX6N-d5uAM9-4Zdp19-fQgpGM-2jnAAxy-2onK9TB-a9ZJG-23JerwP-85Yh3X-267UiS-4YRKNi-VtptHQ-9sGYFG-5Fq3MC-bpQEUp-Zq1BT-H5Ca9Z-2qofBbu-XgCoof-c2Kh4U-7siQHN-2n5JKdY-kabRYA-8uRady-9pAQB-2mnTw2D-9jrcP" style="color: var(--geneseo-light-blue); text-decoration: none;"><q>Power</q></a> by <a href="https://www.flickr.com/photos/marcus-e/" style="color: var(--geneseo-light-blue); text-decoration: none;">Markus Ekelund</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en" style="color: var(--geneseo-light-blue); text-decoration: none;">CC-BY-NC-2</a></span>
+      </div>
+    </div>
+</footer>
+
+    
+  </body>
+</html>

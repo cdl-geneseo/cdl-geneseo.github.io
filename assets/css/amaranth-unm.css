@@ -1,0 +1,2291 @@
+/* Amaranth UNM — Restrained Dark Theme with UNM Brand Colors */
+
+/* Fonts loaded via <link> in header-default.html:
+   Space Grotesk (headings), Inter (body), Asimovian (hero title only) */
+
+/*****************************************************
+COLOR PALETTE — UNM Brand + Amaranth Plant Family
+*****************************************************/
+:root {
+  /* UNM Primary */
+  --unm-cherry: #ba0c2f;
+  --unm-turquoise: #007a86;
+  --unm-turquoise-light: #2ab0be;  /* brightened for text/hover on dark bg */
+  --unm-silver: #a7a8aa;
+  --unm-lobo-gray: #63666a;
+  --unm-lobo-gray-dark: #2a2d31;
+
+  /* UNM Secondary — Southwest */
+  --unm-high-noon: #ffc600;
+  --unm-sandia-sunset: #ed8b00;
+  --unm-terra: #c05131;
+  --unm-mesa: #d6a461;
+
+  /* Amaranth Plant Color Family */
+  --amaranth: #e52b50;           /* vivid base — standard amaranth */
+  --amaranth-bright: #f0607a;    /* lightened for heading text on dark bg */
+  --amaranth-red: #cf1b24;       /* deeper crimson — borders, structural */
+  --amaranth-purple: #9f2b68;    /* deep magenta-purple — decorative */
+  --amaranth-muted: #b87098;     /* muted rose-purple — h4, subtle accents */
+  --amaranth-pink: #f19cbb;      /* soft warm pink — hover, highlights */
+
+  /* Geneseo Additions */
+  --geneseo-blue: #003087;       /* official geneseo blue */
+  --geneseo-light-blue: #92a8d1; /* lighter blue for headings and links */
+  --geneseo-yellow: #ffef96;
+
+  /* Semantic */
+  --primary: var(--unm-turquoise);
+  --surface: #3a3d40;
+  --surface-hover: #4a4d51;
+  --text-primary: whitesmoke; /* #e8e8e8; */
+  --text-secondary: whitesmoke; /* #b8b8b8; */
+  --text-muted: #888;
+  --border-color: #3a3a3a;
+
+  /* Shadows — neutral, no color tint */
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.2);
+  --shadow-md: 0 4px 12px rgba(0, 0, 0, 0.25);
+  --shadow-lg: 0 8px 24px rgba(0, 0, 0, 0.3);
+
+  --radius-sm: 4px;
+  --radius-md: 8px;
+  --radius-lg: 12px;
+  --transition: all 0.25s ease;
+}
+
+
+/*****************************************************
+BASE
+*****************************************************/
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+html { font-size: 17px; scroll-behavior: smooth; }
+
+body {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background-color: var(--unm-lobo-gray-dark) !important;
+  color: var(--text-primary);
+  line-height: 1.6;
+  font-weight: 400;
+  overflow-x: hidden;
+}
+
+
+/*****************************************************
+TYPOGRAPHY
+*****************************************************/
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Oswald', sans-serif; /* 'Space Grotesk', sans-serif; */
+  font-weight: 600;
+  line-height: 1.3;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  letter-spacing: 0.01em;
+}
+
+h1 {
+  font-size: clamp(1.8rem, 4.5vw, 2.5rem);
+  color: var(--geneseo-light-blue); /* var(--unm-cherry); */
+  margin-top: 3rem;
+  margin-bottom: 0.8rem;
+  letter-spacing: -0.02em;
+}
+
+h2 {
+  font-size: clamp(1.4rem, 2.85vw, 1.95rem);
+  color: var(--geneseo-light-blue); /*  #92a8d1; var(--unm-mesa); */ /*var(--amaranth-bright); */
+  margin-top: 2.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h3 {
+  font-size: clamp(1.05rem, 2vw, 1.35rem);
+  font-weight: 500;
+  color: var(--amaranth);
+  margin-top: 2rem;
+  margin-bottom: 0.7rem;
+}
+
+h4 {
+  font-size: clamp(1.125rem, 2vw, 1.5rem);
+  font-weight: 400;
+  color: var(--amaranth-muted);
+  margin-top: 1.75rem;
+  margin-bottom: 0.65rem;
+}
+
+h5 {
+  font-size: clamp(1rem, 1.5vw, 1.25rem);
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+h6 {
+  font-size: clamp(0.875rem, 1.25vw, 1.125rem);
+  font-weight: 400;
+  color: var(--text-secondary);
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+/* Base body-text size. Lists below match it; headings and .lead set their own. */
+p {
+  font-size: 1.125rem;
+  color: var(--text-secondary);
+  margin-bottom: 1rem;
+}
+
+strong, b {
+  color: var(--text-primary);
+  font-weight: 600;
+}
+
+
+/*****************************************************
+LAYOUT
+*****************************************************/
+.container {
+  max-width: 60rem;
+  margin: 0 auto;
+  padding: 0 2rem;
+}
+
+/* Prose containers (direct children of body) are narrower for readability.
+   Feature blocks live inside .section-alt > .container, which is NOT a direct
+   child of body, so they stay at 60rem. */
+body > .container {
+  max-width: 52rem;
+}
+
+/* Homepage intro paragraphs — larger lead text.
+   Targets the intro container specifically: it's the only .container
+   that has .showcase-strip as a subsequent sibling. */
+.container:has(~ .showcase-strip) p {
+  font-size: 1.15rem;
+  line-height: 1.65;
+}
+
+.container:has(~ .showcase-strip) p.lead {
+  font-size: 1.6rem;
+  line-height: 1.6;
+}
+
+/* Hero tier: flex centering in viewport */
+.header-studio--hero {
+  display: flex;
+  align-items: flex-start;
+  padding-top: 22vh;
+  padding-bottom: 0;
+}
+
+.header-studio--hero .header-studio-content {
+  height: auto;
+}
+
+/* Reduce gap between studio header and first content */
+.header-studio ~ .container h1:first-child {
+  margin-top: 1rem;
+}
+
+.header-studio--section ~ .container h2:first-child {
+  margin-top: 1.5rem;
+}
+
+.header-studio--banner ~ .container h2:first-child {
+  margin-top: 1.5rem;
+}
+
+.section { padding: 4rem 0; }
+.section-title { text-align: center; margin-bottom: 3rem; }
+
+/* Full-width alternating section backgrounds for visual rhythm */
+.section-alt {
+  background-color: #000000; /* var(--surface); */
+  margin-top: 3rem;
+  padding: 5rem 0 2rem;
+}
+
+.section-alt h2 {
+  color: var(--unm-mesa) /* var(--amaranth); slightly darker than --amaranth-bright; holds weight on lighter bg */
+}
+
+.section-alt h2:first-child,
+.section-alt .container > h2:first-child {
+  margin-top: 0;
+}
+
+.section-alt h3 {
+  margin-top: 2.5rem;
+}
+
+.section-alt h3:first-of-type {
+  margin-top: 1rem;
+}
+
+/* Feature blocks — image + text rows with alternating layout */
+.feature-block {
+  display: flex;
+  align-items: center;
+  gap: 3rem;
+  padding: 2.5rem 0;
+  border-top: none;
+  position: relative;
+  z-index: 0;
+}
+
+.feature-block::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100vw;
+  height: 100%;
+  z-index: -1;
+}
+
+.feature-block:nth-child(odd)::before {
+  background-color: #000000; /* var(--unm-lobo-gray-dark); */
+}
+
+.feature-block:nth-child(even)::before {
+  background-color: #000000; /* #33373c; */
+}
+
+.feature-block:first-of-type {
+  border-top: none;
+}
+
+.feature-block-reverse {
+  flex-direction: row-reverse;
+}
+
+.feature-block-image {
+  flex: 0 0 45%;
+  height: 280px;
+  background-size: cover;
+  background-position: center;
+  border-radius: var(--radius-lg);
+  /* filter: grayscale(0.85) sepia(0.2) brightness(0.85); */
+}
+
+/* Woodcut filter — additional warmth for European woodcuts */
+.feature-block-image.filter-woodcut {
+  filter: grayscale(0.85) sepia(0.3) brightness(0.85);
+}
+
+/* Screenshot mode — site thumbnails shown unfiltered in a browser-window
+   frame, alternating sides so a long run of projects has some rhythm */
+.feature-block-screenshot {
+  gap: 3.5rem;
+  padding: 3.5rem 0;
+}
+
+.feature-block-screenshot:nth-child(even) {
+  flex-direction: row-reverse;
+}
+
+.feature-block-browser {
+  flex: 0 0 54%;
+  display: block;
+  border-radius: 10px;
+  overflow: hidden;
+  background: #1b1d20;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  box-shadow: 0 18px 40px rgba(0, 0, 0, 0.45), 0 2px 6px rgba(0, 0, 0, 0.3);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.feature-block-browser:hover,
+.feature-block-browser:focus-visible {
+  transform: translateY(-4px);
+  box-shadow: 0 26px 50px rgba(0, 0, 0, 0.55), 0 0 0 1px rgba(240, 96, 122, 0.45);
+  text-decoration: none;
+}
+
+.feature-block-browser-bar {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.5rem 0.8rem;
+}
+
+.feature-block-browser-dots {
+  display: flex;
+  gap: 0.35rem;
+  flex-shrink: 0;
+}
+
+.feature-block-browser-dots i {
+  width: 0.55rem;
+  height: 0.55rem;
+  border-radius: 50%;
+  background: #4a4d52;
+}
+
+.feature-block-browser-address {
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  padding: 0.15rem 0.7rem;
+  border-radius: 999px;
+  background: #2a2d31;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.72rem;
+  letter-spacing: 0.02em;
+  color: var(--text-muted);
+  transition: color 0.3s ease;
+}
+
+.feature-block-browser:hover .feature-block-browser-address,
+.feature-block-browser:focus-visible .feature-block-browser-address {
+  color: var(--text-primary);
+}
+
+.feature-block-browser img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 10;
+  object-fit: cover;
+  object-position: top;
+}
+
+.feature-block-screenshot .feature-block-text h2 {
+  font-size: clamp(1.5rem, 2.4vw, 1.85rem);
+  text-transform: none;
+  letter-spacing: -0.01em;
+  color: var(--amaranth-bright);
+  margin-bottom: 0.6rem;
+}
+
+.feature-block-screenshot .feature-block-text p {
+  font-size: 1.05rem;
+  color: var(--text-primary);
+  margin-bottom: 0;
+}
+
+.feature-block-screenshot .btn-cta {
+  margin-top: 1.4rem;
+}
+
+/* Technical/innovation notes — smaller and quieter than the description,
+   set off by a hairline. The li rule matters: the global li size is in rem,
+   so items won't inherit a smaller size from the ul on their own. */
+.feature-block-features {
+  list-style: none;
+  padding: 0.9rem 0 0;
+  margin: 1.1rem 0 0;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+  line-height: 1.5;
+}
+
+.feature-block-features li {
+  position: relative;
+  padding-left: 1rem;
+  margin-bottom: 0.35rem;
+  font-size: 0.85rem;
+  color: #9a9da1;
+}
+
+.feature-block-features li::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0.55em;
+  width: 0.35rem;
+  height: 0.35rem;
+  border-radius: 1px;
+  background: var(--unm-turquoise-light);
+}
+
+.feature-block-text {
+  flex: 1;
+}
+
+.feature-block-text h2 {
+  font-family: 'Oswald', sans-serif;
+  font-size: clamp(1.5rem, 2.2vw, 1.6rem);
+  text-transform: uppercase;
+  font-weight: 700;
+  letter-spacing: -0.0em;
+  margin-top: 0;
+  color: var(--geneseo-light-blue); /* #92a8d1; var(--unm-cherry); */
+}
+
+/* Secondary links under a block's CTA — the rest of that section's top-nav
+   items, so each block shows the same shape as the menu it corresponds to. */
+.feature-block-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.15rem;
+  list-style: none;
+  margin: 1.1rem 0 0;
+  padding: 0;
+}
+
+.feature-block-links a {
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.85rem;
+  letter-spacing: 0.03em;
+  color: var(--text-secondary);
+  border-bottom: 1px solid transparent;
+}
+
+.feature-block-links a:hover {
+  color: white; /* var(--amaranth-bright); */
+  text-decoration: none;
+  border-bottom-color: white; /* var(--amaranth-bright); */
+}
+
+/* Showcase strip — homepage gallery preview */
+/* Hidden for now — remove display:none to restore */
+.showcase-strip {
+  display: none;
+  padding: 4.5rem 0 4rem;
+  margin: 1.5rem 0;
+  background-color: rgba(186, 12, 47, 0.25);
+  border-top: 3px solid rgba(186, 12, 47, 0.7);
+  border-bottom: 3px solid rgba(186, 12, 47, 0.7);
+}
+
+.showcase-strip h2 {
+  margin-top: 0;
+}
+
+.showcase-row {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 1.25rem;
+}
+
+.showcase-thumb {
+  display: block;
+  text-decoration: none;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+}
+
+.showcase-thumb:hover {
+  transform: translateY(-3px);
+  box-shadow: var(--shadow-lg);
+  text-decoration: none;
+}
+
+.showcase-thumb img {
+  width: 100%;
+  height: 140px;
+  object-fit: cover;
+  object-position: top;
+  display: block;
+  margin: 0;
+}
+
+.showcase-thumb span {
+  display: block;
+  padding: 0.5rem 0.1rem;
+  font-family: 'DM Sans', sans-serif;
+  font-size: 0.8rem;
+  color: var(--text-secondary);
+  background: transparent;
+  letter-spacing: 0.02em;
+}
+
+.showcase-thumb:hover span {
+  color: var(--text-secondary);
+}
+
+.showcase-link {
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.showcase-link a {
+  font-size: 0.9rem;
+  color: var(--text-muted);
+}
+
+@media (max-width: 768px) {
+  .showcase-row {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 480px) {
+  .showcase-row {
+    grid-template-columns: 1fr 1fr;
+    gap: 0.75rem;
+  }
+  .showcase-thumb img {
+    height: 100px;
+  }
+}
+
+
+/* Warm accent section — for invitations and calls to action */
+.section-warm {
+  background-color: rgba(186, 12, 47, 0.06);
+  border-top: 3px solid var(--unm-cherry);
+  border-bottom: 3px solid var(--unm-cherry);
+  padding: 3rem 0 2rem;
+}
+
+.section-warm h2:first-child,
+.section-warm .container > h2:first-child {
+  margin-top: 0;
+}
+
+main {
+  margin-top: 0;
+  padding: 0;
+  min-height: calc(100vh - 200px);
+  margin-bottom: 3rem;
+  display: flex;
+  flex-direction: column;
+}
+
+main .container { display: block; }
+
+.site-footer .container { display: block !important; }
+.site-footer .row { display: flex !important; }
+
+
+/*****************************************************
+LINKS
+*****************************************************/
+a {
+  color: var(--geneseo-yellow); /* var(--amaranth-pink); */
+  text-decoration: none;
+  transition: var(--transition);
+  font-size: inherit;  /* explicitly inherit to maintain context size */
+}
+
+a:hover {
+  /* color: var(--amaranth-bright); */
+  text-decoration: underline;
+}
+
+
+/*****************************************************
+NAVBAR — Bootstrap overrides
+Aesthetic: specimen-sheet lightness, cherry-tinted dark
+*****************************************************/
+.navbar {
+  background-color: #003087;  /* rgba(20, 5, 10, 0.97) !important; */
+  border-bottom: 1px solid #003087; /* 1px solid rgba(186, 12, 47, 0.25) !important; */
+  padding: 0 !important;
+  height: 52px !important;
+  position: sticky !important;
+  top: 0 !important;
+  z-index: 1030 !important;
+  margin-bottom: 0 !important;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.5) !important;
+}
+
+.navbar > .container,
+.navbar > .container-fluid {
+  display: flex !important;
+  align-items: center !important;
+  height: 52px !important;
+  padding-top: 0 !important;
+  padding-bottom: 0 !important;
+  margin-top: 0 !important;
+  margin-bottom: 0 !important;
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+.navbar-collapse {
+  flex-grow: 0 !important;
+  align-self: center !important;
+}
+
+.navbar + *,
+.navbar ~ * {
+  margin-top: 0 !important;
+  padding-top: 0 !important;
+}
+
+/* Brand — Space Mono with bracket treatment */
+.navbar-brand {
+  font-family: 'Space Mono', monospace !important;
+  font-size: 1.35rem !important;
+  font-weight: 400 !important;
+  color: white !important;
+  text-decoration: none !important;
+  letter-spacing: 0.04em !important;
+  line-height: 1.2 !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  text-transform: none !important;
+  display: flex !important;
+  align-items: center !important;
+  height: 52px !important;
+}
+
+.navbar-brand span {
+  color: white; /*var(--unm-cherry) !important; */
+}
+
+.navbar-brand:hover {
+  color: white !important;
+}
+
+.navbar-brand:hover span {
+  color: white; /* var(--unm-cherry) !important; */
+}
+
+/* Nav links — DM Sans, light and thin */
+.navbar-nav {
+  margin-bottom: 0 !important;
+  align-items: center !important;
+  height: 52px !important;
+  gap: 0.25rem !important;
+}
+
+.navbar-nav .nav-link {
+  font-family: 'DM Sans', sans-serif !important;
+  color: rgba(255, 255, 255, 0.55) !important;
+  font-weight: 400 !important;
+  font-size: 0.92rem !important;
+  padding: 0.4rem 1rem !important;
+  border-radius: 0 !important;
+  transition: var(--transition) !important;
+  text-decoration: none !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+}
+
+.navbar-nav .nav-link.dropdown-toggle {
+  padding-right: 0.6rem !important;
+}
+
+.navbar-nav .nav-link.dropdown-toggle::after {
+  margin-left: 0.15em !important;
+  opacity: 0.4;
+}
+
+.navbar-nav .nav-link:hover,
+.navbar-nav .nav-link:focus {
+  color: rgba(255, 255, 255, 0.85) !important;
+  background-color: transparent !important;
+}
+
+.navbar-nav .nav-link.active {
+  color: rgba(255, 255, 255, 0.85) !important;
+  background-color: transparent !important;
+}
+
+.navbar li {
+  margin-bottom: 0;
+}
+
+/* Dropdown menus */
+.dropdown-menu {
+  background-color: rgba(20, 5, 10, 0.97) !important;
+  border: 1px solid rgba(255, 255, 255, 0.08) !important;
+  border-radius: var(--radius-sm) !important;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.4) !important;
+  padding: 0.25rem !important;
+  margin-top: 0 !important;
+}
+
+.dropdown-item {
+  font-family: 'DM Sans', sans-serif !important;
+  color: rgba(255, 255, 255, 0.5) !important;
+  font-weight: 400 !important;
+  font-size: 0.82rem !important;
+  padding: 0.6rem 1rem !important;
+  border-radius: var(--radius-sm) !important;
+  transition: var(--transition) !important;
+  text-decoration: none !important;
+  border-left: 2px solid transparent !important;
+  letter-spacing: 0.02em !important;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+  color: rgba(255, 255, 255, 0.85) !important;
+  background-color: transparent !important;
+  border-left-color: var(--unm-cherry) !important;
+}
+
+.dropdown-item.disabled {
+  color: var(--text-muted) !important;
+  opacity: 0.5 !important;
+}
+
+.navbar-toggler {
+  border: 1px solid rgba(186, 12, 47, 0.3) !important;
+  padding: 0.4rem !important;
+  border-radius: var(--radius-sm) !important;
+}
+
+.navbar-toggler:focus {
+  box-shadow: 0 0 0 2px rgba(186, 12, 47, 0.25) !important;
+}
+
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.5%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+}
+
+/* Mobile: position collapse absolutely below the fixed-height navbar bar */
+@media (max-width: 991px) {
+  .navbar-collapse {
+    position: absolute !important;
+    top: 52px !important;
+    left: 0 !important;
+    right: 0 !important;
+    z-index: 1029 !important;
+    background-color: rgba(20, 5, 10, 0.99) !important;
+    padding: 0.5rem 1rem 0.75rem !important;
+    border-top: 1px solid rgba(186, 12, 47, 0.2) !important;
+  }
+
+  .navbar-nav {
+    height: auto !important;
+    align-items: flex-start !important;
+  }
+
+  .dropdown-menu {
+    border: none !important;
+    box-shadow: none !important;
+    padding-left: 1rem !important;
+  }
+}
+
+.mb-2, .mb-lg-0, .me-auto { margin-bottom: 0 !important; }
+
+
+/*****************************************************
+CARDS
+*****************************************************/
+.card {
+  background: #30343799;
+  border: 1px solid var(--border-color);
+  border-radius: var(--radius-lg);
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  transition: var(--transition);
+  position: relative;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+
+.card:hover {
+  background: var(--surface);
+  transform: translateY(-1px);
+  box-shadow: var(--shadow-md, 0 4px 12px rgba(0,0,0,0.3));
+  border-color: var(--unm-turquoise);
+}
+
+.card:hover .card-title {
+  color: var(--unm-turquoise-light);
+}
+
+.card a { text-decoration: none; }
+.card a:hover { text-decoration: none; }
+
+.card-title {
+  font-family: 'Space Grotesk', sans-serif;
+  color: var(--amaranth-bright);
+  margin-top: 1rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.35rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  line-height: 1.3;
+  transition: color 0.25s ease;
+}
+
+.card-img-top + .card-body { padding-top: 0.75rem; }
+
+.card-content {
+  color: var(--text-muted);
+  line-height: 1.4;
+  flex-grow: 1;
+  font-size: 0.85rem;
+  transition: color 0.25s ease;
+}
+
+.card:hover .card-content {
+  color: var(--text-secondary);
+}
+
+.card .row { display: flex; align-items: center; }
+
+.card .card-body {
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+}
+
+/* Card images */
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: var(--radius-lg) var(--radius-lg) 0 0;
+  margin: 0 0 1rem 0;
+  width: 100%;
+  transition: transform 0.3s ease;
+}
+
+.card:hover .card-img-top {
+  transform: scale(1.03);
+}
+
+.card:has(.card-img-top) {
+  padding-top: 0;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.card-img-top + .card-body {
+  padding: 0 1.5rem 1.5rem 1.5rem;
+}
+
+/* Team cards (About page) */
+.card-horizontal .card-subtitle {
+  color: var(--text-secondary) !important;
+  margin-bottom: 0.1rem !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.05em !important;
+}
+
+.card-horizontal .card-title {
+  color: var(--amaranth-bright) !important;
+  margin-top: 0.2rem !important;
+  margin-bottom: 1rem !important;
+}
+
+.card-horizontal .card-text {
+  color: #d0d0d0 !important;
+}
+
+.card-features {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  line-height: 1.6;
+}
+
+.card-features li {
+  padding-left: 1.2em;
+  position: relative;
+  margin-bottom: 0.1rem;
+}
+
+/* Tile grid (card-grid.html) */
+.tile-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+}
+
+.tile-card:hover { text-decoration: none; }
+
+.tile-img-wrap {
+  position: relative;
+  overflow: hidden;
+  border-radius: var(--radius-md, 6px);
+}
+
+.tile-card img {
+  width: 100%;
+  aspect-ratio: 3/2;
+  object-fit: cover;
+  margin-bottom: 0;
+  display: block;
+  opacity: 0.75;
+  transition: opacity 0.25s ease;
+}
+
+.tile-tooltip {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.78);
+  color: #b8b8b8;
+  font-size: 0.9rem;
+  line-height: 1.45;
+  padding: 0.6rem 0.8rem;
+  transform: translateY(100%);
+  transition: transform 0.22s ease;
+}
+
+.tile-tooltip span {
+  display: block;
+}
+
+.tile-tooltip span + span {
+  margin-top: 0.6rem;
+}
+
+/* Gallery breakout — escapes the prose column on wide screens */
+.tile-grid-gallery {
+  margin-left: -6vw;
+  margin-right: -6vw;
+}
+
+.gallery-heading {
+  margin-left: -6vw;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--amaranth-bright);
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 900px) {
+  .tile-grid-gallery {
+    margin-left: -10vw;
+    margin-right: -10vw;
+  }
+  .gallery-heading {
+    margin-left: -10vw;
+  }
+}
+
+.tile-card h3 {
+  font-family: inherit;
+  color: var(--text-muted);
+  font-size: 0.95rem;
+  font-weight: 400;
+  margin-top: 0.9rem;
+  margin-bottom: 0.2rem;
+  text-transform: none;
+  letter-spacing: normal;
+}
+
+.tile-card p {
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  margin: 0;
+  line-height: 1.5;
+}
+
+.tile-card:hover img { opacity: 1; }
+.tile-card:hover .tile-tooltip { transform: translateY(0); }
+.tile-card:hover h3 { color: var(--amaranth-bright); }
+
+.card-features li::before {
+  content: '—';
+  position: absolute;
+  left: 0;
+  color: var(--amaranth);
+  opacity: 0.5;
+}
+
+
+/*****************************************************
+EVENTS — botanical specimen aesthetic
+*****************************************************/
+
+/* Section label: "Upcoming" / "Past" — thin rule, monospace, all caps */
+.event-section-label {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.18em;
+  color: var(--amaranth);
+  border-bottom: 1px solid var(--amaranth);
+  padding-bottom: 0.4rem;
+  margin: 3rem 0 0;
+}
+
+/* Event row: date column | body */
+.event-entry {
+  display: grid;
+  grid-template-columns: 6rem 1fr;
+  gap: 0 2.5rem;
+  align-items: start;
+  padding: 1.75rem 0;
+  border-bottom: 1px solid rgba(255,255,255,0.1);
+}
+
+.event-entry:last-child { border-bottom: none; }
+
+/* Date column: month / day / weekday stacked, right-aligned */
+.event-date {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  text-align: right;
+  padding-top: 0.15rem;
+  flex-shrink: 0;
+}
+
+.event-month {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.95rem;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--amaranth);
+  line-height: 1.4;
+}
+
+.event-day {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 3.2rem;
+  color: var(--text-primary);
+  line-height: 1;
+  margin-bottom: 0.15rem;
+}
+
+.event-weekday {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+/* Annotation line: time · place */
+.event-meta {
+  font-family: 'Space Mono', monospace;
+  font-size: 1rem;
+  color: var(--text-secondary);
+  letter-spacing: 0.02em;
+  margin-bottom: 0.3rem;
+  line-height: 1.4;
+}
+
+/* Speaker name (for talk-style events) */
+.event-speaker {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.1rem;
+  color: var(--text-secondary);
+  margin-bottom: 0.2rem;
+}
+
+.event-title { margin-top: 0; }
+.event-title a { color: inherit; text-decoration: none; }
+.event-title a:hover { text-decoration: underline; }
+
+/* Abstract: body text, not dominant */
+.event-abstract {
+  font-size: 0.92rem;
+  color: var(--text-primary);
+  line-height: 1.65;
+}
+
+.event-abstract p { margin-bottom: 0.4rem; }
+.event-abstract p:last-child { margin-bottom: 0; }
+
+.event-download {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.78rem;
+  margin-top: 0.5rem;
+}
+
+/* Past events: subdued */
+.event-past { opacity: 0.8; }
+
+
+/*****************************************************
+GRIDS
+*****************************************************/
+.grid { display: grid; gap: 2rem; margin: 2rem 0; }
+.grid-2 { grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); }
+.grid-3 { grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); }
+.grid-4 { grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); }
+
+.image-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.image-gallery figure {
+  margin: 0;
+  float: none !important;
+}
+
+
+/*****************************************************
+BUTTONS
+*****************************************************/
+.btn-primary {
+  background: var(--amaranth);
+  color: white;
+  border: none;
+}
+
+.btn-primary:hover {
+  background: var(--geneseo-blue);
+  transform: translateY(-1px);
+}
+
+.btn-secondary {
+  background: transparent;
+  color: var(--primary);
+  border: 2px solid var(--primary);
+}
+
+.btn-secondary:hover {
+  background: var(--primary);
+  color: white;
+}
+
+.btn-cta {
+  background-color: var(--geneseo-blue); /*var(--amaranth-bright) !important; */
+  color: white !important;
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-weight: 600 !important;
+  font-size: 1rem !important;
+  padding: 0.7rem 2.25rem !important;
+  border: none !important;
+  border-radius: var(--radius-md) !important;
+  text-decoration: none !important;
+  display: inline-block !important;
+  transition: var(--transition) !important;
+}
+
+.btn-cta:hover {
+  background-color: blue; /* var(--amaranth-red) !important; */
+  transform: translateY(-1px) !important;
+}
+
+.btn-cta:focus {
+  background-color: blue !important;
+  outline: none !important;
+  /* box-shadow: 0 0 0 3px rgba(229, 43, 80, 0.4) !important; */
+}
+
+.btn-cta-nav {
+  font-family: 'DM Sans', sans-serif !important;
+  font-size: 0.72rem !important;
+  font-weight: 500 !important;
+  padding: 0.3rem 0.85rem !important;
+  letter-spacing: 0.05em !important;
+  text-transform: uppercase !important;
+  margin-left: 0.75rem !important;
+  border-radius: 2px !important;
+  background-color: transparent !important;
+  border: 1px solid rgba(186, 12, 47, 0.4) !important;
+  color: rgba(255, 255, 255, 0.55) !important;
+}
+
+.btn-cta-nav:hover {
+  background-color: rgba(186, 12, 47, 0.12) !important;
+  border-color: var(--unm-cherry) !important;
+  color: rgba(255, 255, 255, 0.85) !important;
+}
+
+
+/*****************************************************
+CODE
+*****************************************************/
+code {
+  font-family: 'SFMono-Regular', Consolas, 'Liberation Mono', Menlo, monospace;
+  background: var(--surface);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-sm);
+  font-size: 0.875rem;
+  color: var(--unm-mesa);
+  border: 1px solid var(--border-color);
+}
+
+pre {
+  background: var(--surface);
+  padding: 1.5rem;
+  border-radius: var(--radius-md);
+  border: 1px solid var(--border-color);
+  overflow-x: auto;
+  margin: 1.5rem 0;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border: none;
+  color: var(--text-secondary);
+}
+
+
+/*****************************************************
+BLOCKQUOTES
+*****************************************************/
+blockquote {
+  border-left: 4px solid var(--unm-turquoise);
+  padding: 1rem 1.5rem;
+  margin: 2rem 0;
+  background: var(--surface);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  font-style: italic;
+  color: var(--text-secondary);
+}
+
+blockquote.pull-quote {
+  position: relative;
+  z-index: 0;
+  clear: both;
+  max-width: 820px;
+  margin: 3.5rem auto;
+  padding: 2.3rem 2.4rem 2.1rem;
+  border: 0;
+  border-top: 1px solid rgba(240, 96, 122, 0.35);
+  border-bottom: 1px solid rgba(240, 96, 122, 0.35);
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  color: var(--text-primary);
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: clamp(1.7rem, 3.2vw, 2.45rem);
+  font-style: normal;
+  line-height: 1.25;
+  text-align: center;
+}
+
+blockquote.pull-quote::before {
+  content: "“";
+  position: absolute;
+  z-index: 0;
+  top: -1.3rem;
+  left: 50%;
+  transform: translateX(-50%);
+  color: rgba(240, 96, 122, 0.18);
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: clamp(13rem, 28vw, 22rem);
+  line-height: 1;
+  pointer-events: none;
+}
+
+blockquote.pull-quote p {
+  position: relative;
+  z-index: 1;
+  margin: 0;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+/* Optional attribution line in markdown:  > <cite>Name, source, date</cite> */
+blockquote.pull-quote p:has(> cite) {
+  margin-top: 1rem;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+blockquote.pull-quote cite {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.8rem;
+  font-style: normal;
+  letter-spacing: 0.04em;
+  color: var(--text-muted);
+}
+
+blockquote.pull-quote cite::before { content: "— "; }
+
+/* .note-box is the general-purpose name for the same highlight box */
+.meaning-note,
+.note-box {
+  clear: both;
+  margin: 2rem 0;
+  padding: 1.25rem 1.5rem;
+  border-left: 4px solid var(--amaranth-bright);
+  border-radius: 0 var(--radius-md) var(--radius-md) 0;
+  background: rgba(58, 61, 64, 0.78);
+  box-shadow: var(--shadow-sm);
+}
+
+.meaning-note__label,
+.note-box__label {
+  display: block;
+  margin-bottom: 0.4rem;
+  color: var(--amaranth-pink);
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.8rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.meaning-note p,
+.note-box p {
+  margin-bottom: 0;
+  color: var(--text-primary);
+  font-size: 1.125rem;
+  line-height: 1.65;
+}
+
+/* Color variants: <div class="note-box note-box--rose" markdown="1">
+                   <div class="note-box note-box--purple" markdown="1"> */
+.note-box--rose {
+  background:
+    linear-gradient(rgba(229, 43, 80, 0.12), rgba(229, 43, 80, 0.12)),
+    rgba(58, 61, 64, 0.78);
+}
+
+.note-box--purple {
+  border-left-color: var(--amaranth-muted);
+  background:
+    linear-gradient(rgba(159, 43, 104, 0.18), rgba(159, 43, 104, 0.18)),
+    rgba(58, 61, 64, 0.78);
+}
+
+/* lighter than --amaranth-muted so the label reads on the purple tint (5.3:1) */
+.note-box--purple .note-box__label { color: #d9a6c8; }
+
+.note-box ul { margin-bottom: 0; }
+.note-box ul + p { margin-top: 1rem; }   /* space before a second subheading */
+.note-box li { color: var(--text-primary); font-size: 1.125rem; }
+
+.studio-bridge {
+  clear: both;
+  margin: 3rem 0;
+  padding: 2rem;
+  border: 1px solid rgba(42, 176, 190, 0.35);
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg, rgba(0, 122, 134, 0.22), rgba(186, 12, 47, 0.12));
+}
+
+.studio-bridge h2 {
+  margin-top: 0;
+}
+
+.studio-bridge p:last-child {
+  margin-bottom: 0;
+}
+
+
+/*****************************************************
+ESSAY TYPOGRAPHY
+Optional touches for long-form essays. In markdown:
+  {: .dropcap}         on the line after a paragraph:
+                       large initial letter
+  * * *                a section break; add
+  {: .section-break}   on the next line for a centered
+                       ornament instead of a plain rule
+*****************************************************/
+p.dropcap::first-letter {
+  float: left;
+  margin: 0.08em 0.12em 0 0;
+  color: var(--amaranth-pink);
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 3.6em;
+  line-height: 0.8;
+}
+
+hr.section-break {
+  clear: both;
+  height: auto;
+  margin: 2rem auto;
+  border: 0;
+  opacity: 1;
+  text-align: center;
+}
+
+hr.section-break::after {
+  content: "⁂";
+  color: var(--amaranth-pink);
+  font-size: 1.4rem;
+}
+
+
+/*****************************************************
+LISTS
+*****************************************************/
+ul, ol { margin-left: 1.5rem; margin-bottom: 1.5rem; font-size: 1.125rem; }
+li { color: var(--text-secondary); margin-bottom: 0.5rem; font-size: 1.125rem; }
+
+
+/*****************************************************
+IMAGES & FIGURES
+*****************************************************/
+img { margin-bottom: 0.25rem; }
+figure { margin-bottom: 2rem; }
+
+figcaption {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  font-style: italic;
+  margin-top: 0.25rem;
+  margin-bottom: 0;
+  line-height: 1.4;
+  text-align: left;
+}
+
+figcaption p { margin-bottom: 0.5rem; font-size: inherit; color: inherit; }
+figcaption a { color: var(--text-muted); text-decoration: underline; }
+figcaption a:hover { color: var(--primary); }
+
+figure.left { float: left; margin-right: 1rem; margin-bottom: 1rem; width: 33%; }
+figure.right { float: right; margin-left: 2rem; margin-bottom: 1.5rem; max-width: 45%; }
+figure.center { display: block; margin: 0 auto 2rem auto; text-align: center; clear: both; }
+
+.clear { clear: both; }
+
+
+/*****************************************************
+TABLES
+*****************************************************/
+.table-responsive {
+  margin-bottom: 2rem;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+}
+
+.table {
+  background-color: var(--surface);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+  margin-bottom: 0;
+}
+
+.table th {
+  background-color: var(--unm-turquoise);
+  color: white;
+  border-color: var(--border-color);
+  font-weight: 600;
+  font-size: 0.9rem;
+  padding: 1rem 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.table td {
+  background-color: var(--surface);
+  border-color: var(--border-color);
+  color: var(--text-primary);
+  padding: 0.75rem;
+  vertical-align: top;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.table tbody tr:hover td { background-color: var(--surface-hover); }
+.table-bordered, .table-bordered th, .table-bordered td { border: 1px solid var(--border-color); }
+.table img { max-width: 120px; height: auto; border-radius: var(--radius-sm); }
+
+
+/*****************************************************
+CAROUSEL
+*****************************************************/
+.carousel {
+  margin: 2rem auto;
+  max-width: 70%;
+  border-radius: var(--radius-lg);
+  overflow: hidden;
+}
+
+.carousel img { height: 400px; object-fit: cover; object-position: center; }
+.carousel-control-prev, .carousel-control-next { width: 5%; }
+.carousel-indicators { margin-bottom: 1rem; }
+
+
+/*****************************************************
+HEADER — STUDIO (Option 3)
+Typography-forward dark header with line grid + cherry bar
+*****************************************************/
+.header-studio {
+  position: relative;
+  width: 100%;
+  height: 100vh;
+  overflow: hidden;
+  background: #4a2838;
+  box-sizing: content-box;
+  padding-bottom: 120px;
+}
+
+.header-studio::after {
+  content: '';
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 350px;
+  background: linear-gradient(to bottom, transparent, #2a2d31);
+  pointer-events: none;
+  z-index: 5;
+}
+
+.header-studio-bg {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center right;
+  background-repeat: no-repeat;  /* lets header-zoom shrink an image without tiling it */
+  opacity: 0.50;
+}
+
+.header-studio-grid {
+  position: absolute;
+  inset: 0;
+  opacity: 0.025;
+  background-image:
+    linear-gradient(rgba(255,255,255,1) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255,255,255,1) 1px, transparent 1px);
+  background-size: 40px 40px;
+}
+
+.header-studio-bar {
+  display: none;
+}
+
+.header-studio-caption {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  padding: 0.5rem 1.25rem;
+  background: rgba(0, 0, 0, 0.35);
+  font-family: 'Space Mono', monospace;
+  font-size: 0.68rem;
+  letter-spacing: 0.04em;
+  color: rgba(255, 255, 255, 0.55);
+  pointer-events: none;
+}
+
+.header-studio-caption a {
+  color: inherit;
+  text-decoration: none;
+  pointer-events: auto;
+  margin-left: 0.35em;
+  opacity: 0.8;
+}
+
+.header-studio-caption a:hover {
+  color: rgba(255, 255, 255, 0.9);
+  text-decoration: none;
+  opacity: 1;
+}
+
+.header-studio-content {
+  position: relative;
+  z-index: 10;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  padding: 3rem 5rem;
+  margin-left: 3rem;
+}
+
+.header-studio-eyebrow {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.85rem;
+  letter-spacing: 0.3em;
+  color: rgba(200, 200, 200, 0.7);
+  text-transform: uppercase;
+  margin-bottom: 1rem;
+}
+
+.header-studio h1 {
+  font-family: 'Oswald'; /* 'IM Fell English', serif !important; */
+  font-size: clamp(4.8rem, 10.8vw, 7.8rem) !important; /* clamp(4.8rem, 10.8vw, 7.8rem) !important; */
+  font-weight: 400 !important;
+  color: white !important;
+  line-height: 1.0;
+  margin-bottom: 0.4rem !important;
+  text-shadow: none !important;
+  text-indent: -0.06em; /* optical alignment — serif overhang */
+  letter-spacing: 0 !important;
+}
+
+/* Hero title only — amaranth red */
+.header-studio--hero h1 {
+  color: blue; /* var(--amaranth) !important; */
+}
+
+.header-studio-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1rem 0 1.5rem;
+}
+
+.header-studio-divider-line {
+  height: 1px;
+  width: 60px;
+  background: rgba(200, 200, 200, 0.2);
+}
+
+.header-studio-divider span {
+  font-family: 'Space Mono', monospace;
+  font-size: 0.75rem;
+  letter-spacing: 0.3em;
+  color: rgba(200, 200, 200, 0.45);
+  text-transform: uppercase;
+}
+
+.header-studio p {
+  font-size: 1.15rem;
+  color: rgba(200, 200, 200, 0.55);
+  line-height: 1.75;
+  font-weight: 300;
+  letter-spacing: 0.06em;
+  margin-bottom: 0;
+  max-width: 540px;
+}
+
+/* --- Tier: Section (mid-level pages) --- */
+.header-studio--section {
+  height: 60vh;
+  padding-bottom: 60px;
+}
+
+.header-studio--section::after {
+  height: 180px;
+}
+
+.header-studio--section .header-studio-content {
+  margin-left: 2rem;
+  padding: 2rem 3rem;
+  max-width: 40%;
+  border-left-width: 2px;
+}
+
+.header-studio--section h1 {
+  font-size: clamp(3.5rem, 3.2vw, 2.4rem) !important;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+  text-shadow:
+    0 0 25px rgba(0, 0, 0, 0.95),
+    0 0 55px rgba(0, 0, 0, 0.75),
+    0 0 90px rgba(0, 0, 0, 0.45) !important;
+}
+
+.header-studio--section .header-studio-grid {
+  opacity: 0.015;
+}
+
+.header-studio--section .header-studio-bg {
+  opacity: 0.18;
+}
+
+
+/* --- Tier: Banner (internal pages) --- */
+.header-studio--banner {
+  height: 22vh;
+  padding-bottom: 0;
+}
+
+.header-studio--banner::after {
+  height: 100px;
+}
+
+.header-studio--banner .header-studio-content {
+  margin-left: 2rem;
+  padding: 1rem 2rem;
+  max-width: none;
+  border-left-width: 2px;
+}
+
+.header-studio--banner h1 {
+  font-family: 'Space Grotesk', sans-serif !important;
+  font-size: clamp(1.3rem, 2.5vw, 1.8rem) !important;
+  font-weight: 500 !important;
+  letter-spacing: 0.02em !important;
+  text-indent: 0;
+  margin-bottom: 0 !important;
+  margin-top: 0 !important;
+}
+
+.header-studio--banner .header-studio-grid {
+  opacity: 0.01;
+}
+
+.header-studio--banner .header-studio-bg {
+  opacity: 0.10;
+}
+
+.header-studio--banner .header-studio-bar {
+  width: 3px;
+}
+
+
+/*
+  ┌─────────────────────────────────────────────────────────────────────────┐
+  │ Header filter system                                                    │
+  │                                                                         │
+  │ botanical  Line-art engravings on white background (processed images,   │
+  │            botanical illustrations, fine hatching). Core effect:        │
+  │            invert → dark lines become glowing red lines; white bg       │
+  │            becomes transparent via mix-blend-mode: screen.              │
+  │            Requires: dark lines on a white or near-white background.    │
+  │                                                                         │
+  │ woodcut    Early modern woodcuts on off-white/cream paper. Same         │
+  │            mechanism as botanical but contrast(3) pre-boost pushes      │
+  │            cream paper → white before inverting, preventing the         │
+  │            off-white from showing through as a dim haze.                │
+  │            Requires: high-contrast black printing on paper.             │
+  │                                                                         │
+  │ etching    Color photos → silhouette/stencil aesthetic. grayscale +     │
+  │            threshold (contrast 5+) collapses continuous tone to         │
+  │            hard-edged black/white shapes, then inverts + tints red.     │
+  │            NOTE: produces bold shapes, not fine lines — reads as a      │
+  │            different aesthetic than botanical/woodcut. For photos that   │
+  │            need to match line-art visually, pre-process the image       │
+  │            (threshold + edge detection in Photoshop/GIMP, or AI)       │
+  │            and use the botanical filter instead.                        │
+  │            Tune: pre-brightness 1.0–1.8, contrast 4–8, post-brightness │
+  │            0.4–0.7.                                                      │
+  │                                                                         │
+  │ photo      Color photos kept photographic — darkened and desaturated    │
+  │            slightly. No inversion. Use when you want the image to read  │
+  │            as a photo rather than a graphic treatment.                  │
+  └─────────────────────────────────────────────────────────────────────────┘
+*/
+
+/* --- Filter: Botanical (line-art engravings on white background) --- */
+.header-studio-bg--botanical {
+  filter: invert(1) sepia(0.3) hue-rotate(340deg) saturate(0.6) brightness(1.6);
+  mix-blend-mode: screen;
+}
+
+/* Botanical accent layer — red-tinted version masked to the flower region.
+   Sits on top of the base botanical layer. The radial gradient mask
+   reveals this red layer only where the amaranth flower is. */
+.header-studio-bg--botanical-accent {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center right;
+  filter: invert(1) sepia(0.8) hue-rotate(320deg) saturate(4) brightness(1.0);
+  mix-blend-mode: screen;
+  opacity: 0.80;
+  -webkit-mask-image: radial-gradient(ellipse 45% 70% at 72% 55%, black 0%, transparent 70%);
+  mask-image: radial-gradient(ellipse 45% 70% at 72% 55%, black 0%, transparent 70%);
+}
+
+/* Botanical hero — dark background matching site, bright illustration lines. */
+.header-studio:has(.header-studio-bg--botanical) {
+  background: var(--unm-lobo-gray-dark);
+}
+
+.header-studio:has(.header-studio-bg--botanical) .header-studio-bg {
+  opacity: 0.7;
+}
+
+.header-studio:has(.header-studio-bg--botanical)::after {
+  background: linear-gradient(to bottom, transparent, #2a2d31);
+}
+
+.header-studio:has(.header-studio-bg--botanical) .header-studio-grid {
+  opacity: 0;
+}
+
+
+/* --- Filter: Sketch (thin line drawings on white background)
+     Like botanical but pre-contrast boost darkens faint lines before inverting,
+     so they emerge as brighter red rather than dim. Then brightness() lifts the
+     result further. Tune: contrast (2–4, higher = thicker/bolder lines),
+     brightness at end (1.5–2.5, higher = more vivid red). --- */
+.header-studio-bg--sketch {
+  filter: grayscale(1) contrast(2.5) invert(1) sepia(0.6) hue-rotate(320deg) saturate(3) brightness(2);
+  mix-blend-mode: screen;
+}
+
+.header-studio--section .header-studio-bg--sketch {
+  opacity: 0.55;
+}
+
+.header-studio--banner .header-studio-bg--sketch {
+  opacity: 0.35;
+}
+
+
+/* --- Filter: Woodcut (historical images with natural color preserved)
+     No color transformation: the image shows as-is, slightly darkened for text legibility.
+     Use for color manuscripts, color woodcuts, medieval illuminations, and any historical
+     image whose natural color is worth keeping. Tune brightness and opacity to balance
+     image presence vs. text readability. --- */
+.header-studio-bg--woodcut {
+  filter: saturate(1.05) brightness(0.85);
+  mix-blend-mode: normal;
+  opacity: 0.75;
+}
+
+.header-studio--section .header-studio-bg--woodcut {
+  opacity: 0.65;
+}
+
+.header-studio--banner .header-studio-bg--woodcut {
+  opacity: 0.45;
+}
+
+
+/* --- Filter: Etching (color photos → high-contrast silhouette with red tint)
+     Produces bold shapes with hard edges, not fine hatching lines.
+     Pipeline: grayscale → pre-brighten → threshold contrast → post-darken → invert → tint
+     contrast(5+) acts as a threshold, collapsing continuous tone to black/white.
+     Pre-brightness(1.3) shifts which tones fall above threshold (raise = show more detail).
+     Post-brightness(0.55) controls darkness of the inverted result before tinting. --- */
+.header-studio-bg--etching {
+  filter: grayscale(1) brightness(1.3) contrast(5) brightness(0.55) invert(1) sepia(0.5) hue-rotate(320deg) saturate(3);
+  mix-blend-mode: screen;
+}
+
+.header-studio--section .header-studio-bg--etching {
+  opacity: 0.40;
+}
+
+.header-studio--banner .header-studio-bg--etching {
+  opacity: 0.25;
+}
+
+
+/* --- Filter: Photo (color photos, photographic aesthetic)
+     saturate(1.05) gives a slight color lift; brightness(0.85) darkens just enough
+     for text legibility without washing out color. Opacity lets the dark background
+     create depth at edges. Tune opacity up if image is too faint, down if text
+     becomes hard to read. --- */
+.header-studio-bg--photo {
+  filter: saturate(1.05) brightness(0.85);
+  mix-blend-mode: normal;
+  opacity: 0.80;
+}
+
+.header-studio--section .header-studio-bg--photo {
+  opacity: 0.72;
+}
+
+.header-studio--banner .header-studio-bg--photo {
+  opacity: 0.50;
+}
+
+
+@media (max-width: 768px) {
+  .header-studio-content {
+    padding: 2rem 1.5rem;
+  }
+  .header-studio--section {
+    height: 30vh !important;
+  }
+  .header-studio--section .header-studio-content {
+    padding: 1.5rem 1.5rem;
+    margin-left: 1rem;
+  }
+  .header-studio--banner .header-studio-content {
+    padding: 0.75rem 1rem;
+    margin-left: 1rem;
+  }
+}
+
+
+/*****************************************************
+LEAD PARAGRAPH
+Usage: <p class="lead">First paragraph of a page.</p>
+*****************************************************/
+.lead {
+  font-family: Oswald, sans-serif; /* 'IM Fell English', serif; */
+  /* font-style: italic; */
+  font-size: 1.6rem;
+  line-height: 1.6;
+  color: var(--text-primary);
+  font-weight: 100;
+  letter-spacing: 0;
+  margin-top: 3rem;
+  margin-bottom: 2rem;
+}
+
+.lead::first-line {
+  letter-spacing: 0.07em;
+  font-weight: 400;
+}
+
+
+/*****************************************************
+SECTION LINK BAR
+Section-end navigation link — cherry left bar with woven link text.
+Usage: <p class="section-link-bar"><a href="...">text →</a></p>
+*****************************************************/
+.section-link-bar {
+  border-left: 3px solid rgba(186, 12, 47, 0.55);
+  padding-left: 1rem;
+  margin-top: 0.75rem;
+  font-family: 'Space Mono', monospace;
+  color: var(--text-secondary);
+}
+
+
+/*****************************************************
+FOOTNOTES
+Write [^label] in the text and "[^label]: citation" at the
+bottom of the markdown file. littlefoot (loaded in
+bottom-js.html) turns each reference into a numbered button
+that opens the note in a popup. The plain list below is what
+shows when printing or if JavaScript doesn't load.
+*****************************************************/
+/* Compiled bibliography (e.g., inside an expandable drawer).
+   In markdown, put {: .bibliography} on the line after the list. */
+.bibliography {
+  list-style: none;
+  margin-left: 0;
+  padding-left: 1.5em;
+}
+
+.bibliography li {
+  text-indent: -1.5em;   /* hanging indent */
+  font-size: 0.95rem;
+  margin-bottom: 0.6rem;
+}
+
+.footnotes {
+  margin-top: 3rem;
+  padding-top: 1rem;
+  border-top: 1px solid rgba(186, 12, 47, 0.55);
+  font-size: 0.875rem;
+  color: var(--text-secondary);
+}
+
+/* littlefoot is themed through its own CSS variables.
+   Buttons are hollow circles: the number and its outline share one color. */
+.littlefoot {
+  --button-background-color: transparent;
+  --button-active-background-color: transparent;
+  --button-text-color: var(--text-muted);
+  --button-active-text-color: var(--amaranth-pink);
+  --button-border: 1px solid currentColor;
+  --button-border-radius: 50%;
+  --button-height: 1.15rem;
+  --button-padding: 0;
+  --button-font-size: 0.65rem;
+  --button-font-weight: 500;
+  --popover-background-color: var(--surface);
+  --popover-text-color: var(--text-primary);
+  --popover-border: 1px solid var(--border-color);
+  --popover-border-radius: var(--radius-md);
+  --popover-shadow: var(--shadow-md);
+  --popover-font-family: 'Inter', sans-serif;
+  --popover-font-size: 0.9rem;
+  --popover-width: 24rem;
+  --popover-scroll-indicator-color: var(--text-muted);
+}
+
+.littlefoot__button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 1.15rem;   /* same as the height, so single digits make a circle */
+  position: relative;
+  top: -0.15em;
+  margin: 0 0.1em;
+}
+
+.littlefoot__button:hover,
+.littlefoot__button:focus {
+  color: var(--amaranth-pink);
+}
+
+.littlefoot__content { line-height: 1.6; }
+.littlefoot__content p { margin: 0 0 0.5rem 0; font-size: inherit; color: inherit; }
+.littlefoot__content p:last-child { margin-bottom: 0; }
+
+
+/*****************************************************
+FEATURE LIST
+*****************************************************/
+.feature-list { list-style: none; margin: 0; }
+
+.feature-list li {
+  background: var(--surface);
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+  border-radius: var(--radius-md);
+  border-left: 4px solid var(--unm-turquoise);
+  transition: var(--transition);
+}
+
+.feature-list li:hover {
+  background: var(--surface-hover);
+  transform: translateX(4px);
+}
+
+
+/*****************************************************
+FOOTER
+*****************************************************/
+.site-footer {
+  margin-top: 4rem !important;
+  clear: both !important;
+}
+
+.footer-list { list-style: none; padding-left: 0; margin-left: 0; }
+.footer-list li { margin-bottom: 0.5rem; }
+.footer-list li a { color: var(--text-secondary); text-decoration: none; }
+.footer-list li a:hover { color: var(--amaranth-bright); text-decoration: none; }
+.footer-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 0.85rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+.footer-list li a { font-size: 0.78rem; }
+
+.footer-brand {
+  font-family: 'Inter', sans-serif; /* 'Space Grotesk', sans-serif; */
+  color: var(--geneseo-light-blue); /* var(--unm-cherry); */
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.footer-bottom {
+  text-align: center;
+}
+
+.footer-bottom-brand {
+  display: flex;
+  align-items: baseline;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.9rem;
+  color: var(--geneseo-light-blue); /* var(--text-secondary); */
+  margin-bottom: 0.4rem;
+}
+
+.footer-bottom-contact {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.footer-bottom-contact a {
+  color: var(--text-muted);
+  text-decoration: none;
+}
+
+.footer-bottom-contact a:hover {
+  color: var(--amaranth-bright);
+}
+
+.footer-sep {
+  color: var(--text-muted);
+  padding: 0 0.1rem;
+}
+
+
+/*****************************************************
+UTILITY
+*****************************************************/
+.text-center { text-align: center; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+.accent-line { height: 3px; background: var(--unm-turquoise); border-radius: 2px; margin: 2rem 0; }
+.highlight { background: rgba(186, 12, 47, 0.15); padding: 0.25rem 0.5rem; border-radius: var(--radius-sm); color: var(--text-primary); }
+.fade-in { animation: fadeInUp 0.6s ease-out; }
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(20px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+
+/*****************************************************
+RESPONSIVE
+*****************************************************/
+@media (max-width: 768px) {
+  .container { padding: 0 1rem; }
+  .section { padding: 2rem 0; }
+  .grid-2, .grid-3, .grid-4 { grid-template-columns: 1fr; }
+  .card { padding: 1.25rem; }
+  .card-title { font-size: 1.2rem; }
+  main { margin-top: 60px; padding: 2rem 0; }
+
+  figure, figure.left, figure.right {
+    width: 100% !important;
+    max-width: 100% !important;
+    float: none !important;
+    margin: 0 auto 2rem auto !important;
+    padding: 0 !important;
+  }
+
+  img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  .carousel { max-width: 95%; }
+  .carousel img { height: 250px; }
+
+  .feature-block,
+  .feature-block.feature-block-reverse,
+  .feature-block-screenshot:nth-child(even) {
+    flex-direction: column;
+    align-items: stretch;
+  }
+  .feature-block-screenshot {
+    gap: 1.75rem;
+    padding: 2.5rem 0;
+  }
+  .feature-block-image,
+  .feature-block-browser {
+    flex: none;
+    width: 100%;
+  }
+}
+
+@media (max-width: 700px) {
+  .event-entry { grid-template-columns: 3.5rem 1fr; gap: 0 1.5rem; }
+  .event-day { font-size: 2rem; }
+  .event-title { font-size: clamp(1.1rem, 4vw, 1.35rem); }
+}
+
+
+/*****************************************************
+ALERTS & CALLOUTS
+*****************************************************/
+
+/* Studio Hours Callout — Amaranth-themed with gradient */
+.callout {
+  position: relative;
+  padding: 2rem 2rem 2rem 2.5rem;
+  margin: 2.5rem 0;
+  border-left: 6px solid var(--amaranth-red);
+  border-radius: var(--radius-md);
+  background: linear-gradient(135deg,
+    rgba(229, 43, 80, 0.12) 0%,      /* amaranth base, subtle */
+    rgba(186, 12, 47, 0.15) 50%,     /* UNM cherry */
+    rgba(159, 43, 104, 0.12) 100%    /* amaranth purple */
+  );
+  box-shadow: var(--shadow-md);
+}
+
+.callout .callout-heading {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.5rem;
+  font-weight: 700;
+  color: var(--unm-cherry);  /* bold UNM red, distinct from page h2s (amaranth-bright) */
+  margin: 0 0 1rem 0;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+.callout p {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: var(--amaranth-pink);  /* soft warm pink for readability on gradient */
+  margin-bottom: 0.5rem;
+}
+
+.callout ul {
+  list-style: none;
+  margin: 1rem 0 0 0;
+  padding: 0;
+}
+
+.callout li {
+  font-size: 1.15rem;
+  line-height: 2;
+  color: var(--amaranth-pink);  /* matches paragraph text */
+  padding-left: 1.5rem;
+  position: relative;
+}
+
+.callout li::before {
+  content: "▸";
+  position: absolute;
+  left: 0;
+  color: var(--amaranth-pink);
+  font-weight: bold;
+}
+
+.callout a {
+  color: var(--unm-turquoise-light);
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 3px;
+  transition: var(--transition);
+}
+
+.callout a:hover {
+  color: var(--amaranth-pink);
+  text-decoration-color: var(--amaranth-pink);
+}
+
+/*****************************************************
+EXPANDABLE SECTIONS
+*****************************************************/
+.xanthan-expandable {
+  margin: 1rem 0;
+  border: 1px solid rgba(167, 168, 170, 0.28);
+  border-radius: var(--radius-md);
+  background: rgba(58, 61, 64, 0.72);
+  box-shadow: var(--shadow-sm);
+  overflow: hidden;
+}
+
+.xanthan-expandable__summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1rem 1.1rem;
+  cursor: pointer;
+  color: var(--text-primary);
+  list-style: none;
+  transition: var(--transition);
+}
+
+.xanthan-expandable__summary::-webkit-details-marker {
+  display: none;
+}
+
+.xanthan-expandable__summary:hover {
+  background: rgba(186, 12, 47, 0.16);
+}
+
+.xanthan-expandable__title {
+  font-family: 'Space Grotesk', sans-serif;
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.xanthan-expandable__icon {
+  width: 0.7rem;
+  height: 0.7rem;
+  border-right: 2px solid var(--amaranth-pink);
+  border-bottom: 2px solid var(--amaranth-pink);
+  transform: rotate(45deg);
+  transition: transform 0.2s ease;
+  flex: 0 0 auto;
+}
+
+.xanthan-expandable[open] .xanthan-expandable__icon {
+  transform: rotate(225deg);
+}
+
+.xanthan-expandable__content {
+  padding: 0.25rem 1.35rem 1.1rem;
+  border-top: 1px solid rgba(167, 168, 170, 0.2);
+}
+
+.xanthan-expandable__content > :last-child {
+  margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .callout {
+    padding: 1.5rem 1.5rem 1.5rem 2rem;
+    border-left-width: 4px;
+  }
+
+  .callout .callout-heading {
+    font-size: 1.3rem;
+  }
+
+  .callout p,
+  .callout li {
+    font-size: 1rem;
+  }
+}

@@ -1,0 +1,38 @@
+<footer class="site-footer bg-dark text-light py-5 mt-5">
+  <div class="container">
+    <div class="row row-cols-2 row-cols-md-5 g-4">
+
+      {% for section in site.data.top-nav %}
+        <div class="col">
+          <h4 class="footer-heading">{{ section.title }}</h4>
+          <ul class="footer-list">
+            {% for item in section.items %}
+              {% unless item.divider or item.hidden or item.disabled %}
+                <li><a href="{{site.baseurl}}{{ item.url }}">{{ item.title }}</a></li>
+              {% endunless %}
+            {% endfor %}
+          </ul>
+        </div>
+      {% endfor %}
+
+    </div>
+
+    <hr class="my-4" style="width: 0px;">
+
+<div class="footer-bottom">
+      <div class="footer-bottom-brand">
+        <span class="footer-brand"><a href="https://geneseo.edu" style="color:var(--geneseo-light-blue);text-decoration: none;">SUNY Geneseo</a></span>
+        <span class="footer-sep">|</span>
+        <span>New York&rsquo;s public honors college</span>
+        <!-- <span class="footer-sep">·</span> -->
+        <!-- <span>Made with <span style="color: var(--unm-cherry)">&hearts;</span> in ABQ</span> -->
+      </div>
+      <div class="footer-bottom-contact">
+        <!-- <a href="mailto:amaranth@unm.edu">amaranth@unm.edu</a> -->
+        <!-- <span class="footer-sep">·</span> -->
+        <!-- <span>Mesa Vista Hall, Room 2068 · University of New Mexico</span> -->
+        <span>This site built with Jekyll using a theme generously shared by <a href="https://amaranth.unm.edu/" style="color:var(--unm-cherry)">Amaranth Studio</a> at the University of New Mexico.</span><br />
+        <span>Home page cover photo: <a href="https://www.flickr.com/photos/marcus-e/9525492664/in/photolist-fvJD79-eEt3K-2jwye27-8z2dyz-549UNr-4b6tsr-eNgmi-2jZeGnj-2o1g3LL-6ftKi8-2kTVTRk-4AttVx-a5URmr-4Wvaz2-2o73JQ3-2pFd1Bh-2pjXTJN-2qr7pMV-G1PJ4y-73PGh-fxLWTB-Ls5ZR-2p35bBM-phhX6N-d5uAM9-4Zdp19-fQgpGM-2jnAAxy-2onK9TB-a9ZJG-23JerwP-85Yh3X-267UiS-4YRKNi-VtptHQ-9sGYFG-5Fq3MC-bpQEUp-Zq1BT-H5Ca9Z-2qofBbu-XgCoof-c2Kh4U-7siQHN-2n5JKdY-kabRYA-8uRady-9pAQB-2mnTw2D-9jrcP" style="color: var(--geneseo-light-blue); text-decoration: none;"><q>Power</q></a> by <a href="https://www.flickr.com/photos/marcus-e/" style="color: var(--geneseo-light-blue); text-decoration: none;">Markus Ekelund</a>, <a href="https://creativecommons.org/licenses/by-nc-sa/2.0/deed.en" style="color: var(--geneseo-light-blue); text-decoration: none;">CC-BY-NC-2</a></span>
+      </div>
+    </div>
+</footer>

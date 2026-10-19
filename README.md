@@ -1,3 +1,4 @@
-# cdl-geneseo.github.io
+# Geneseo CDL
 
-Repository for the CDL GitHub pages site at [https://cdl-geneseo.github.io](https://cdl-geneseo.github.io).
+Independent website for the SUNY Geneseo Center for Digital Learning.
+

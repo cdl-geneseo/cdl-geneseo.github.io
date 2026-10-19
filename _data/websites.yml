@@ -1,0 +1,159 @@
+# Central data source for all showcase websites.
+# category: class-project | portfolio | scrollstory
+# featured: true → appears in gallery
+# display-order: controls sort order within each category
+
+# Class projects
+
+#- title: Campus Histories
+#  thumbnail: /assets/images/projects/campus.jpg
+#  display-order: 1
+#  description: Each semester, a new cohort of students researches and writes the history of a UNM building, adding another layer to a growing public record of the campus.
+#  features:
+#    - Multi-semester project — each cohort builds on what previous students made
+#    - UNM site styling baked in via Xanthan
+#    - Card-based navigation through individual building histories
+#  link: https://amaranth.unm.edu/campus-history/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: Metahistory
+#  thumbnail: /assets/images/projects/metahistory.jpg
+#  display-order: 2
+#  description: Students in UNM's historiography courses each write an essay on a period or historian, growing a shared encyclopedia of the history of history from antiquity to the present.
+#  features:
+#    - Spans multiple courses and years of student contributions
+#    - Permanent left sidebar with auto-generated table of contents
+#    - New pages picked up automatically as students add them
+#  link: https://unm-historiography.github.io/metahistory/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: The Silk Road
+#  thumbnail: /assets/images/projects/silk-road.jpg
+#  display-order: 3
+#  description: Students researched individual objects and wrote thematic essays tracing how materials, ideas, and people moved along the Silk Road, tied together with an interactive map.
+#  features:
+#    - Object pages with images, metadata, and interpretive essays
+#    - Thematic essays connecting multiple objects and historical patterns
+#    - Map-based view of places and materials connected through exchange
+#  link: https://amaranth.unm.edu/silk-road/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: Farming the Middle Rio Grande
+#  thumbnail: /assets/images/projects/farming-oral-histories.jpg
+#  display-order: 4
+#  description: Students conducted and recorded oral history interviews with Rio Grande farmers, then wrote profiles pairing those interviews with research on local food systems.
+#  features:
+#    - Farmer profiles combining oral history interviews and student-written web pages
+#    - Cross-course collaboration between qualitative methods and local food systems courses
+#    - Recordings archived in the UNM Digital Repository
+#  link: https://oral-histories-mrg.github.io/oral-histories-of-farming/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: Medieval Elite Marriages
+#  thumbnail: /assets/images/projects/medieval-marriages.jpg
+#  display-order: 5
+#  description: Each student chose a single historical artifact and built a page arguing what it reveals about medieval elite marriage.
+#  features:
+#    - Each page centers on a single historical artifact
+#    - Shows how material objects can anchor historical argument
+#  link: https://jeseyfried.github.io/medieval-marriages/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: Santa Fe Trail Sites
+#  thumbnail: /assets/images/projects/trails.jpg
+#  display-order: 6
+#  description: Students researched historic Santa Fe Trail locations and built a map-first site for navigating them geographically — still running, untouched, nearly a decade later.
+#  features:
+#    - Map integration with linked individual location pages
+#    - Geographic navigation as the primary entry point
+#    - Still running without maintenance after nearly a decade
+#  link: https://historic-trails.unm.edu/
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#- title: Histories of the Future
+#  thumbnail: /assets/images/projects/histscifi.jpg
+#  display-order: 7
+#  description: Proceedings from a 2015 Princeton workshop on history and science fiction, preserved as a permanent public site instead of disappearing after the event.
+#  features:
+#    - Workshop proceedings preserved as a permanent public site
+#    - Shows how event output can have lasting web presence
+#  link: http://histscifi.com
+#  link-text: "Visit site →"
+#  category: class-project
+#  featured: true
+#
+#
+## Portfolios
+#
+#- title: Fred Gibbs
+#  thumbnail: /assets/images/projects/fred-gibbs.jpg
+#  display-order: 1
+#  features:
+#    - Syllabi and teaching materials alongside research and CV
+#    - Integrated blog archive
+#    - Easter egg poster gallery
+#  link: https://fredgibbs.net
+#  category: portfolio
+#
+#- title: Jonathan Seyfried
+#  thumbnail: /assets/images/projects/jonathan-seyfried.jpg
+#  display-order: 2
+#  features:
+#    - Clean implementation of the basic portfolio structure
+#    - Permanent left sidebar layout
+#  link: https://jonathanseyfried.net
+#  category: portfolio
+#
+#
+## ScrollStories
+#
+#- title: A Cultural History of Arkham Asylum
+#  thumbnail: /assets/images/projects/asylum.jpg
+#  display-order: 1
+#  features:
+#    - Dense visual narrative with many layered images
+#    - Shows how cultural criticism can work as a scroll-driven experience
+#    - Complex interplay of text, image, and pacing
+#  link: https://hadas496.github.io/comics-and-Reaganomics-/
+#  category: scrollstory
+#  featured: true
+#
+#- title: Sugar, Emeralds, and Unicorn Horn
+#  thumbnail: https://jeseyfried.github.io/sugar-emeralds-unicorn/images/davallano-1.jpg
+#  display-order: 2
+#  features:
+#    - Accessible starting point for ScrollStory work
+#    - Straightforward pacing with several images
+#    - Good model before attempting complex layering
+#  link: https://jeseyfried.github.io/sugar-emeralds-unicorn/
+#  category: scrollstory
+#
+#- title: Why Amaranth?
+#  thumbnail: /about/name-origins/images/amaranth.jpg
+#  display-order: 3
+#  features:
+#    - Internal demo of the scrollstory format
+#    - Rich use of botanical and historical imagery
+#  link: /about/name-origins/
+#  category: scrollstory
+#
+#- title: Mesa Vista Hall
+#  thumbnail: /public-scholarship/scrollstories/mesa-vista-hall/images/mvh-construction.jpg
+#  display-order: 4
+#  features:
+#    - Demo scrollstory using archival UNM photographs
+#    - Good preview of the format before committing to a full project
+#  link: /public-scholarship/scrollstories/mesa-vista-hall/
+#  category: scrollstory

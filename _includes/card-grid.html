@@ -1,0 +1,26 @@
+<!-- change include.cols (default 3) for different number of columns -->
+{% assign grid_cards = include.cards | default: page.cards %}
+{% assign _cols = include.cols | default: 3 %}
+{% assign row_class = "row row-cols-1 row-cols-sm-2 row-cols-md-" | append: _cols | append: " gx-4 gy-5" %}
+{% if include.gallery %}{% assign row_class = row_class | append: " tile-grid-gallery" %}{% endif %}
+<div class="{{ row_class }}">
+
+{% for card in grid_cards %}
+{% assign card_img = card.image | default: card.thumbnail %}
+<div class="col">
+  <a class="tile-card" href="{{ card.link }}" target="_blank" rel="noopener noreferrer">
+    <div class="tile-img-wrap">
+      <img src="{{ card_img }}" alt="{{ card.title | escape }}">
+      {% if card.features %}
+      <div class="tile-tooltip">{% for f in card.features %}<span>{{ f }}</span>{% endfor %}</div>
+      {% elsif card.summary %}
+      <div class="tile-tooltip">{{ card.summary }}</div>
+      {% endif %}
+    </div>
+    <h3>{{ card.title }}</h3>
+    {% unless include.title-only %}<p>{{ card.summary }}</p>{% endunless %}
+  </a>
+</div>
+{% endfor %}
+
+</div>

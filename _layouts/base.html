@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+
+  {% include header-default.html %}
+
+  <body>
+
+    {% unless page.nav-below-hero %}
+      {% include nav-top.html %}
+    {% endunless %}
+
+    {% assign headerimage = page.header-image %}
+    {% assign headertitle = page.header-title %}
+    {% assign headersubtitle = page.header-subtitle %}
+    {% assign headerheight = page.header-height %}
+    {% assign headerposition = page.header-position %}
+    {% assign headersize = page.header-size %}
+    {% assign headerclass = page.header-class %}
+    {% assign headertitleposition = page.header-title-position %}
+    {% assign headersubtitle = page.header-subtitle %}
+
+    {% if headerimage %}
+
+      {% include header-studio.html
+        image-path = headerimage
+        title = headertitle
+        subtitle = headersubtitle
+        eyebrow = page.header-eyebrow
+        divider = page.header-divider
+        height = headerheight
+        tier = page.header-tier
+        filter = page.header-filter
+        bg-position = headerposition
+        bg-opacity = page.header-opacity
+        zoom = page.header-zoom
+        caption = page.header-caption
+        image-link = page.header-image-link
+      %}
+
+    {% endif %}
+
+    {% if page.nav-below-hero %}
+      {% include nav-top.html %}
+    {% endif %}
+
+    <div class="container">
+      {{ content }}
+    </div> <!-- /main -->
+
+    {% include bottom-js.html %}
+
+    {% include footer.html %}
+    
+  </body>
+</html>

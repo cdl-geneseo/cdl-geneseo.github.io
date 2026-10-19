@@ -1,0 +1,74 @@
+{% comment %}
+  Shared full-bleed showcase rows. Reads include.cards; falls back to
+  page.features for the homepage's own sections. Each entry takes:
+    title, image (or thumbnail), text (or description), an optional
+    features: list of technical/innovation notes (rendered smaller, below
+    the main text), link + link-text for the main button, and an optional
+    more: list of {title, url}.
+  Pass screenshot=true for site-screenshot thumbnails rather than
+  header-style photography: the image is shown unfiltered inside a
+  browser-window frame (with the site's address in the bar), links to the
+  site, and alternates sides from row to row. Screenshots should be 16:10
+  (e.g. 1600x1000) so nothing important gets cropped.
+{% endcomment %}
+{::nomarkdown}
+</div>
+{:/nomarkdown}
+
+<div class="section-alt">
+  <div class="container">
+
+    {% if include.title %}
+    <h2>{{ include.title }}</h2>
+    {% endif %}
+
+    {% assign items = include.cards | default: page.features %}
+
+    {% for feature in items %}
+    {% assign block_image = feature.image | default: feature.thumbnail %}
+    {% assign block_text = feature.text | default: feature.description %}
+    {% assign is_external = false %}
+    {% if feature.link contains 'http' %}{% assign is_external = true %}{% endif %}
+    <div class="feature-block{% if include.screenshot %} feature-block-screenshot{% endif %}">
+      {% if include.screenshot %}
+      {% comment %} Split/join drops the protocol and any trailing slash {% endcomment %}
+      {% assign address = feature.link | remove: 'https://' | remove: 'http://' | split: '/' | join: '/' %}
+      <a class="feature-block-browser" href="{{ feature.link }}"{% if is_external %} target="_blank" rel="noopener noreferrer"{% endif %} aria-label="Visit {{ feature.title }}">
+        <span class="feature-block-browser-bar" aria-hidden="true">
+          <span class="feature-block-browser-dots"><i></i><i></i><i></i></span>
+          <span class="feature-block-browser-address">{{ address }}</span>
+        </span>
+        <img src="{{ block_image }}" alt="Screenshot of the {{ feature.title }} website" width="1600" height="1000" loading="lazy"{% if feature.position %} style="object-position: {{ feature.position }};"{% endif %}>
+      </a>
+      {% else %}
+      <div class="feature-block-image{% if feature.filter %} filter-{{ feature.filter }}{% endif %}"
+        style="background-image: url('{{ block_image }}'); background-position: {{ feature.position | default: 'center' }}; background-size: {{ feature.zoom | default: 'cover' }};"
+        role="img" aria-label="{{ feature.title }}">
+      </div>
+      {% endif %}
+      <div class="feature-block-text">
+        <h2>{{ feature.title }}</h2>
+        {% if block_text %}<p>{{ block_text }}</p>{% endif %}
+        {% if feature.features %}
+        <ul class="feature-block-features">{% for f in feature.features %}<li>{{ f }}</li>{% endfor %}</ul>
+        {% endif %}
+        {% if feature.link %}
+        <a href="{{ feature.link }}" class="btn-cta"{% if is_external %} target="_blank" rel="noopener noreferrer"{% endif %}>{{ feature.link-text | default: "Learn more →" }}</a>
+        {% endif %}
+        {% if feature.more %}
+        <ul class="feature-block-links">
+          {% for entry in feature.more %}
+          <li><a href="{{ entry.url }}">{{ entry.title }}</a></li>
+          {% endfor %}
+        </ul>
+        {% endif %}
+      </div>
+    </div>
+    {% endfor %}
+
+  </div>
+</div>
+
+{::nomarkdown}
+<div class="container">
+{:/nomarkdown}

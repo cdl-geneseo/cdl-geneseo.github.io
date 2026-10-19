@@ -1,0 +1,56 @@
+
+# - title: "Collaborate"
+#  url: "/collaborate"
+
+#- title: "About"
+#  items:
+#    - title: "Philosophy"
+#      url: "/about/ethos"
+#    - title: "The Studio"
+#      url: "/studio/space"
+#    - title: "Why the name"
+#      url: "/about/why-the-name"
+
+#- title: "AI"
+#  items:
+#    - title: "AI Ethics"
+#      url: "/ai/ethics"
+#    - title: "AI for Humanities"
+#      url: "/ai/humanities-research"
+#    - title: "Humanities for AI"
+#      url: "/ai/humanities-for-ai"
+#    - title: "AI Sketchbook"
+#      url: "/ai/sketchbook"
+#    - title: "AI Brownbag Sessions"
+#      url: "/reliable-ai"
+#    - title: "Local LLMs"
+#      url: "/local-llms"
+#
+#
+#- title: "Public Scholarship"
+#  items:
+#    - title: "Xanthan"
+#      url: "/public-scholarship/xanthan"
+#    - title: "Class Websites"
+#      url: "/public-scholarship/class-projects"
+#    - title: "Portfolio Websites"
+#      url: "/public-scholarship/portfolios"
+#    - title: "ScrollStories"
+#      url: "/public-scholarship/scrollstories"
+#    - title: "Posters"
+#      url: "/public-scholarship/posters"
+#
+#    - divider: true
+#
+#    - title: "Gallery"
+#      url: "/public-scholarship/gallery"
+#
+#
+#- title: "3D Pedagogy"
+#  items:
+#    - title: "Tactile Learning"
+#      url: "/3d-pedagogy"
+#    - title: "3D Prints"
+#      url: "/3d-pedagogy/printing"
+#    - title: "Objex"
+#      url: "/3d-pedagogy/objex"
