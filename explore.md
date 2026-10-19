@@ -3,12 +3,12 @@ layout: base
 title: Explore
 author: Paul Schacht
 date: 2026-10-18
-description: "We create resources that you can use yourself or share with others to promote thoughtful and effective use of digital technology in service of Geneseo's core values.."
+description: "We create resources that you can use yourself or share with others to promote thoughtful and effective use of digital technology in service of Geneseo's core values."
 header-image: /assets/images/headers/plaintext_lg.jpg
 header-title: Explore
 header-tier: section
 header-filter: photo
-header-caption: The SUNY Create homepage
+header-caption: CDL resource Life in Plain Text 
 header-image-link: https://geneseo.sunycreate.cloud
 ---
 
