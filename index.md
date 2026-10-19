@@ -39,7 +39,7 @@ features:
   - title: "Explore"
     image: "/assets/images/headers/life-in-plain-text.jpg"
     filter: "woodcut"
-    text: "We create resources that you can use yourself or share with others to promote thoughtful and effective use of digital technology that advances Geneseo’s values: learning, creativity, belonging, civic engagement, and sustainability."
+    text: "We create resources that you can use yourself or share with others to foster digital practices that advance Geneseo’s values: learning, creativity, belonging, civic engagement, and sustainability."
     link: "/explore"
     link-text: "Learn more"
     zoom: 110%
@@ -61,11 +61,11 @@ We empower students, faculty, and staff to take control of their digital lives t
 
 ## Why we're here
 
-In a world where all of us are increasingly pressured to adopt "agentic" software, it's never been more important to possess skills that enable us to *be our own agents.* 
+In a world where all of us are increasingly pressured to adopt automated software "agents," it's never been more important to possess skills that enable us to *be our own agents.* 
 
 "Program or be programmed," declared the media theorist [Douglass Rushkoff](https://en.wikipedia.org/wiki/Douglas_Rushkoff) in a 2010 book of that title. It's a stark choice, arguably an oversimplified one. You don't have to be a programmer to hold onto your digital agency. But at the very least, it's important to understand some basic things about the computer hardware and software that so thoroughly pervades our lives, if only to distinguish the reality about that hardware and software from the hype. That's the premise of the CDL's self-paced course on [Critical Digital Practices](https://cdl-geneseo.github.io/critical-digital-practices). (If you do want to learn a little programming, the course will help you with that, too.)
 
-Our agency increases when we not only understand digital technology but know how to *build* with it: to create websites, for example, over which we're able to exercise creative control — websites that live not on corporate platforms but on hosting we're able to manage, websites built with open-source tools we're free to inspect and modify. That's the premise of our participation in the SUNY-wide initiative [SUNY Create](https://sunycreate.cloud), which gives users on participating campuses the ability to manage their own bit of real estate on the web, where they can install open-source software like [WordPress](https://wordpress.org) or [Omeka](https://omeka.org), or simply host their own files built with [Jekyll](https://jekyllrb.com) or another static site generator.
+Our agency increases when we not only understand digital technology but know how to *build* with it: to create websites, for example, over which we're able to exercise creative control — websites that live not on corporate platforms but on hosting we're able to manage, websites built with open-source tools we're free to inspect and modify. That's the premise of Geneseo's participation in the SUNY-wide initiative [SUNY Create](https://sunycreate.cloud), which gives users on participating campuses the ability to manage their own bit of real estate on the web, where they can install open-source software like [WordPress](https://wordpress.org) or [Omeka](https://omeka.org), or simply host their own files built with [Jekyll](https://jekyllrb.com) or another static site generator.
 
 Our agency also increases when we have tools that enable us to work effectively with others. That's the premise of the CDL's virtual commons, [Geneseo OpenLab](https://geneseo.sunycreate.cloud), built with WordPress and the CUNY Graduate Center's open-source WordPress plugin [Commons In a Box](https://cboxopenlab.org/). OpenLab is a social platform where groups can develop projects collaboratively, sharing the fruits of their collaboration on a public-facing website.
 
